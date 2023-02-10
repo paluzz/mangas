@@ -24,14 +24,14 @@ const items = [
             name: "MARTIAL PEAK",
             link: "https://manhuako.com/manhua/martial-peak/chapter-",
             image: martial,
-            chapter: "3031"        
+            chapter: "3040"        
         },
         {
             id: "0001",
             name: "YUAN ZUN",
             link: "https://samuraiscan.com/bl/yuan-zun/capitulo-",
             image: yuan,
-            chapter: "890"        
+            chapter: "892"        
         },
         {
             id: "0002",
@@ -45,14 +45,14 @@ const items = [
             name: "REY ESPADA",
             link: "https://knightnoscanlation.com/sr/el-rey-de-la-espada-en-un-mundo-de-fantasia/capitulo-",
             image: espada,
-            chapter: "155"        
+            chapter: "156"        
         },
         {
             id: "0004",
             name: "ESQUELETON SOLDIER",
             link: "https://olympusscanlation.com/manga/soldado-esqueleto/capitulo-",
             image: esqueleto,
-            chapter: "122"        
+            chapter: "222"        
         },
         {
             id: "0005",
@@ -94,7 +94,7 @@ const items = [
             name: "MONSTRUO",
             link: "https://olympusscanlation.com/manga/tengo-que-ser-un-monstruo/capitulo-",
             image: monster,
-            chapter: "27-5"        
+            chapter: "28-5_1"        
         },
         {
             id: "0011",
@@ -108,7 +108,7 @@ const items = [
             name: "FRANCOTIRADOR",
             link: "https://samuraiscan.com/bl/el-francotirador-de-nivel-arcano/capitulo-",
             image: arcane,
-            chapter: "96"        
+            chapter: "97"        
         },
         {
             id: "0013",
