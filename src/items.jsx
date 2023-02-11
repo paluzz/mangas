@@ -147,7 +147,7 @@ function editChapter(name, chapter) {
   
   editChapter("MARTIAL PEAK","3043");
 
-  editChapter("YUAN ZUN","892");
+  editChapter("YUAN ZUN","893");
 
   editChapter("second life ranker","146");
 
