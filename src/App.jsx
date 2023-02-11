@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './styles.css'
 import { CardManga } from './card.jsx'
-import  items from './imagenes.jsx'
+import  items from './items.jsx'
 
 
 export default function App() {
