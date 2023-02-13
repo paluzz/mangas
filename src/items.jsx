@@ -145,9 +145,9 @@ function editChapter(name, chapter) {
     }
 }
   
-  editChapter("MARTIAL PEAK","3046");
+  editChapter("MARTIAL PEAK","3050");
 
-  editChapter("YUAN ZUN","893");
+  editChapter("YUAN ZUN","894");
 
   editChapter("second life ranker","146");
 
@@ -161,7 +161,7 @@ function editChapter(name, chapter) {
 
   editChapter("CAZADOR SUIC1D4","806");
 
-  editChapter("RANKER OSO","87");
+  editChapter("RANKER OSO","88");
 
   editChapter("CABALLERO LANZA","81");
 
