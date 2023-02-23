@@ -145,7 +145,7 @@ function editChapter(name, chapter) {
     }
 }
   
-  editChapter("MARTIAL PEAK","3061");
+  editChapter("MARTIAL PEAK","3079");
 
   editChapter("YUAN ZUN","896");
 
