@@ -145,25 +145,25 @@ function editChapter(name, chapter) {
     }
 }
   
-  editChapter("MARTIAL PEAK","3079");
+  editChapter("MARTIAL PEAK","3082");
 
-  editChapter("YUAN ZUN","896");
+  editChapter("YUAN ZUN","900");
 
   editChapter("second life ranker","147");
 
-  editChapter("REY ESPADA","157");
+  editChapter("REY ESPADA","158");
 
   editChapter("ESQUELETON SOLDIER","224");
 
-  editChapter("RANKER SSS","46");
+  editChapter("RANKER SSS","47");
 
-  editChapter("OVERGEARED","167");
+  editChapter("OVERGEARED","168");
 
   editChapter("CAZADOR SUIC1D4","806");
 
   editChapter("RANKER OSO","91");
 
-  editChapter("CABALLERO LANZA","81");
+  editChapter("CABALLERO LANZA","82");
 
   editChapter("MONSTRUO","28-5_1");
 
