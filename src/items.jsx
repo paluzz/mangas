@@ -10,7 +10,7 @@ const items = [
         {
             id: "0001",
             name: "YUAN ZUN",
-            link: "https://samuraiscan.com/bl/yuan-zun/capitulo-",
+            link: "https://samuraiscan.com/leer/yuan-zun/capitulo-",
             image: imagen.yuan,
             chapter: "892"        
         },
@@ -87,7 +87,7 @@ const items = [
         {
             id: "0012",
             name: "FRANCOTIRADOR",
-            link: "https://samuraiscan.com/bl/el-francotirador-de-nivel-arcano/capitulo-",
+            link: "https://samuraiscan.com/leer/el-francotirador-de-nivel-arcano/capitulo-",
             image: imagen.arcane,
             chapter: "97"        
         },
@@ -145,11 +145,11 @@ function editChapter(name, chapter) {
     }
 }
   
-  editChapter("MARTIAL PEAK","3088");
+  editChapter("MARTIAL PEAK","3091");
 
-  editChapter("YUAN ZUN","901");
+  editChapter("YUAN ZUN","902");
 
-  editChapter("second life ranker","147");
+  editChapter("second life ranker","148");
 
   editChapter("REY ESPADA","158");
 
