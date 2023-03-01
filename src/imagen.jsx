@@ -17,6 +17,7 @@ import pollo from './img/pollo.jpg'
 import sabio from './img/sabio.jpg'
 import inquisidor from './img/inquisidor.jpg'
 import domador from './img/domador.jpg'
+import versatile from './img/versatile.jpg'
 
 
 const imagen = {
@@ -39,6 +40,7 @@ const imagen = {
     sabio:sabio,
     inquisidor:inquisidor,
     domador:domador,
+    versatile:versatile,
 }
    
 

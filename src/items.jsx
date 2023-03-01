@@ -66,6 +66,13 @@ const items = [
             chapter: "50"        
         },
         {
+            id: "0019",
+            name: "VERSATILE MAGE",
+            link: "https://samuraiscan.com/leer/versatile-mage/capitulo-",
+            image: imagen.versatile,
+            chapter: "300"        
+        },
+        {
             id: "0004",
             name: "ESQUELETON SOLDIER",
             link: "https://olympusscanlation.com/manga/soldado-esqueleto/capitulo-",
@@ -147,13 +154,15 @@ function editChapter(name, chapter) {
     }
 }
   
-  editChapter("MARTIAL PEAK","3094");
+  editChapter("MARTIAL PEAK","3095");
 
   editChapter("YUAN ZUN","902");
 
   editChapter("second life ranker","148");
 
   editChapter("REY ESPADA","158");
+
+  editChapter("VERSATILE MAGE","300");
 
   editChapter("ESQUELETON SOLDIER","224");
 
