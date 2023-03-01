@@ -13,9 +13,10 @@ export default function App() {
             <CardManga 
               key={ item.id }
               link={ item.link.concat(item.chapter) }
+              chapter= { item.chapter }
               src={ item.image }
               alt={ item.name }
-              children= { item.name.concat(' #',item.chapter) }     
+              children= { item.name }     
             />
         ))}
         

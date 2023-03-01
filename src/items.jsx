@@ -156,11 +156,21 @@ function editChapter(name, chapter) {
   
   editChapter("MARTIAL PEAK","3095");
 
-  editChapter("YUAN ZUN","902");
+  editChapter("YUAN ZUN","905");
 
   editChapter("second life ranker","148");
 
   editChapter("REY ESPADA","158");
+
+  editChapter("CAZADOR SUIC1D4","806");
+
+  editChapter("RANKER OSO","93");
+
+  editChapter("FRANCOTIRADOR","97");
+  
+  editChapter("COME LIBROS","80");
+
+  editChapter("DEVORADOR","50");
 
   editChapter("VERSATILE MAGE","300");
 
@@ -170,21 +180,11 @@ function editChapter(name, chapter) {
 
   editChapter("OVERGEARED","168");
 
-  editChapter("CAZADOR SUIC1D4","806");
-
-  editChapter("RANKER OSO","92");
-
   editChapter("CABALLERO LANZA","83");
 
   editChapter("MONSTRUO","28-5_1");
 
   editChapter("NANO","142");
-
-  editChapter("FRANCOTIRADOR","97");
-
-  editChapter("COME LIBROS","80");
-
-  editChapter("DEVORADOR","50");
 
   editChapter("DIOS POLLO","78");
 
