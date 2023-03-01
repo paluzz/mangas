@@ -28,6 +28,43 @@ const items = [
             image: imagen.espada,
             chapter: "156"        
         },
+        
+        {
+            id: "0007",
+            name: "CAZADOR SUIC1D4",
+            link: "https://yugenmangas.com/series/cazador-suicida-de-clase-sss/capitulo-",
+            image: imagen.suic1d3,
+            chapter: "806"        
+        },
+        {
+            id: "0008",
+            name: "RANKER OSO",
+            link: "https://yugenmangas.com/series/el-retorno-del-ranker-remake/capitulo-",
+            image: imagen.osito,
+            chapter: "84"        
+        },
+        
+        {
+            id: "0012",
+            name: "FRANCOTIRADOR",
+            link: "https://samuraiscan.com/leer/el-francotirador-de-nivel-arcano/capitulo-",
+            image: imagen.arcane,
+            chapter: "97"        
+        },
+        {
+            id: "0013",
+            name: "COME LIBROS",
+            link: "https://yugenmangas.com/series/el-mago-comedor-de-libros/capitulo-",
+            image: imagen.libro,
+            chapter: "80"        
+        },
+        {
+            id: "0014",
+            name: "DEVORADOR",
+            link: "https://yugenmangas.com/series/archimago-devorador-de-talentos/capitulo-",
+            image: imagen.devorador,
+            chapter: "50"        
+        },
         {
             id: "0004",
             name: "ESQUELETON SOLDIER",
@@ -50,20 +87,6 @@ const items = [
             chapter: "166"        
         },
         {
-            id: "0007",
-            name: "CAZADOR SUIC1D4",
-            link: "https://yugenmangas.com/series/cazador-suicida-de-clase-sss/capitulo-",
-            image: imagen.suic1d3,
-            chapter: "806"        
-        },
-        {
-            id: "0008",
-            name: "RANKER OSO",
-            link: "https://yugenmangas.com/series/el-retorno-del-ranker-remake/capitulo-",
-            image: imagen.osito,
-            chapter: "84"        
-        },
-        {
             id: "0009",
             name: "CABALLERO LANZA",
             link: "https://olympusscanlation.com/manga/el-regreso-del-legendario-caballero-de-la-lanza/capitulo-",
@@ -83,27 +106,6 @@ const items = [
             link: "https://olympusscanlation.com/manga/nano-maquinas/capitulo-",
             image: imagen.nano,
             chapter: "142"        
-        },
-        {
-            id: "0012",
-            name: "FRANCOTIRADOR",
-            link: "https://samuraiscan.com/leer/el-francotirador-de-nivel-arcano/capitulo-",
-            image: imagen.arcane,
-            chapter: "97"        
-        },
-        {
-            id: "0013",
-            name: "COME LIBROS",
-            link: "https://yugenmangas.com/series/el-mago-comedor-de-libros/capitulo-",
-            image: imagen.libro,
-            chapter: "80"        
-        },
-        {
-            id: "0014",
-            name: "DEVORADOR",
-            link: "https://yugenmangas.com/series/archimago-devorador-de-talentos/capitulo-",
-            image: imagen.devorador,
-            chapter: "50"        
         },
         {
             id: "0015",
@@ -145,7 +147,7 @@ function editChapter(name, chapter) {
     }
 }
   
-  editChapter("MARTIAL PEAK","3091");
+  editChapter("MARTIAL PEAK","3094");
 
   editChapter("YUAN ZUN","902");
 
