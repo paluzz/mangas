@@ -109,7 +109,7 @@ const items = [
         },
         {
             id: "0011",
-            name: "NANO",
+            name: "NANOMAQUINAS",
             link: "https://olympusscanlation.com/manga/nano-maquinas/capitulo-",
             image: imagen.nano,
             chapter: "142"        
@@ -184,7 +184,7 @@ function editChapter(name, chapter) {
 
   editChapter("MONSTRUO","28-5_1");
 
-  editChapter("NANO","142");
+  editChapter("NANOMAQUINAS","142");
 
   editChapter("DIOS POLLO","78");
 

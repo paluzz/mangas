@@ -40,7 +40,7 @@ h1 {
   justify-content: center;
   align-items: center;
   margin-bottom: 30px;
-  box-shadow: 2px 2px 2px blue;
+
 }
 
 a {
@@ -56,7 +56,7 @@ img.redimension {
   margin-bottom: 5px;
   border-radius: 3px;
   border: rgba(0, 0, 0, 0.3) ease;
-  transition: all 0.8s ease-in-out;  
+  transition: all 0.6s ease-in-out;  
   transform: scale(1);
   box-shadow: 0 0 0 rgba(0, 0, 0, 0);
   z-index: 0;
@@ -98,9 +98,10 @@ img.redimension {
 }
 
 img.redimension:hover{
-  background-color: rgba(0,0,0,0.3);
-  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3); 
+  box-shadow: 2px 2px 2px blue;
+  background-color: rgba(0,0,0,0.6);
 }
+
 @media only screen and (max-width: 480px) {
   h1 {
       font-size: 3em;
@@ -119,7 +120,7 @@ img.redimension:hover{
   img.redimension {
       width: 140px;
       height: 200px;
-  }   
+  } 
   .chapter {
       width: 140px;
       height: 30px;
