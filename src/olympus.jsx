@@ -1,7 +1,6 @@
 import imagen from './imagen.jsx'
 import editChapter from './editar.js';
 const olympus = [
-
     {
         id: "0004",
         name: "ESQUELETON SOLDIER",
@@ -57,6 +56,15 @@ const olympus = [
         chapter: "142"        
     },
     {
+        id: "0100",
+        name: "PLAYER",
+        link1: "https://olympusscans.com/capitulo/",
+        midlink: "28472", 
+        link2:"/comic-nueva-vida-del-jugador",
+        image: imagen.player,
+        chapter: "29"       
+    },
+    {
         id: "0015",
         name: "DIOS POLLO",
         link1: "https://olympusscans.com/capitulo/",
@@ -89,9 +97,11 @@ editChapter(olympus,"OVERGEARED","168","34776");
 
 editChapter(olympus,"CABALLERO LANZA","83","34066");
 
-editChapter(olympus,"MONSTRUO","28-5_1","34874");
+editChapter(olympus,"MONSTRUO","28.5","34874");
 
 editChapter(olympus,"NANOMAQUINAS","142","27302");
+
+editChapter(olympus,"PLAYER","29","28472");
 
 editChapter(olympus,"DIOS POLLO","78","20845");
 

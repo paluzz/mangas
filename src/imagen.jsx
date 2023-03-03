@@ -17,6 +17,7 @@ import pollo from './img/pollo.jpg'
 import sabio from './img/sabio.jpg'
 import inquisidor from './img/inquisidor.jpg'
 import domador from './img/domador.jpg'
+import player from './img/player.jpg'
 
 
 
@@ -40,5 +41,6 @@ const imagen = {
     sabio:sabio,
     inquisidor:inquisidor,
     domador:domador,
+    player:player,
 }
 export default imagen;
