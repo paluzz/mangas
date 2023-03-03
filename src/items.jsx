@@ -85,7 +85,7 @@ export default items;
 
 
 
-  editChapter( items, "MARTIAL PEAK","3103");
+  editChapter(items, "MARTIAL PEAK","3103");
 
   editChapter(items, "YUAN ZUN","904");
 

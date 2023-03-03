@@ -41,7 +41,4 @@ const imagen = {
     inquisidor:inquisidor,
     domador:domador,
 }
-   
-
-
 export default imagen;

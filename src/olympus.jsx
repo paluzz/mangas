@@ -81,9 +81,9 @@ export default olympus;
 
 
 
-editChapter(olympus, "ESQUELETON SOLDIER","224","30814");
+editChapter(olympus, "ESQUELETON SOLDIER","224","31185");
 
-editChapter(olympus, "RANKER SSS","47","30814");
+editChapter(olympus, "RANKER SSS","47","35154");
 
 editChapter(olympus,"OVERGEARED","168","34776");
 
