@@ -1,4 +1,5 @@
 import imagen from './imagen.jsx'
+import editChapter from './editar.js';
 const items = [
         {
             id: "0000",
@@ -72,62 +73,7 @@ const items = [
             image: imagen.versatile,
             chapter: "300"        
         },
-        {
-            id: "0004",
-            name: "ESQUELETON SOLDIER",
-            link: "https://olympusscanlation.com/manga/soldado-esqueleto/capitulo-",
-            image: imagen.esqueleto,
-            chapter: "222"        
-        },
-        {
-            id: "0005",
-            name: "RANKER SSS",
-            link: "https://olympusscanlation.com/manga/regreso-del-ranker-de-clase-sss/capitulo-",
-            image: imagen.hacha,
-            chapter: "45"        
-        },
-        {
-            id: "0006",
-            name: "OVERGEARED",
-            link: "https://olympusscanlation.com/manga/overgear3d/capitulo-",
-            image: imagen.overgeared,
-            chapter: "166"        
-        },
-        {
-            id: "0009",
-            name: "CABALLERO LANZA",
-            link: "https://olympusscanlation.com/manga/el-regreso-del-legendario-caballero-de-la-lanza/capitulo-",
-            image: imagen.lanza,
-            chapter: "80"        
-        },
-        {
-            id: "0010",
-            name: "MONSTRUO",
-            link: "https://olympusscanlation.com/manga/tengo-que-ser-un-monstruo/capitulo-",
-            image: imagen.monster,
-            chapter: "28-5_1"        
-        },
-        {
-            id: "0011",
-            name: "NANOMAQUINAS",
-            link: "https://olympusscanlation.com/manga/nano-maquinas/capitulo-",
-            image: imagen.nano,
-            chapter: "142"        
-        },
-        {
-            id: "0015",
-            name: "DIOS POLLO",
-            link: "https://olympusscanlation.com/manga/el-primer-gran-dios-eterno/capitulo-",
-            image: imagen.pollo,
-            chapter: "78"       
-        },
-        {
-            id: "0016",
-            name: "GRAN SABIO",
-            link: "https://olympusscanlation.com/manga/el-gran-sabio-de-la-humanidad/capitulo-",
-            image: imagen.sabio,
-            chapter: "1"        
-        },
+        
         {
             id: "0017",
             name: "INQUISIDOR CELESTIAL",
@@ -144,55 +90,33 @@ const items = [
         }
 ]
 export default items;
-function editChapter(name, chapter) {
-    name = name.toUpperCase();
-    for (let i = 0; i < items.length; i++) {
-      if (items[i].name.toUpperCase() === name) {
-        items[i].chapter = chapter;
-        break;
-      }
-    }
-}
+
+
+
+  editChapter( items, "MARTIAL PEAK","3103");
+
+  editChapter(items, "YUAN ZUN","904");
+
+  editChapter(items, "second life ranker","148");
+
+  editChapter(items,"REY ESPADA","158");
+
+  editChapter(items,"CAZADOR SUIC1D4","806");
+
+  editChapter(items,"RANKER OSO","93");
+
+  editChapter(items,"FRANCOTIRADOR","97");
   
-  editChapter("MARTIAL PEAK","3103");
+  editChapter(items,"COME LIBROS","80");
 
-  editChapter("YUAN ZUN","904");
+  editChapter(items,"DEVORADOR","50");
 
-  editChapter("second life ranker","148");
+  editChapter(items,"VERSATILE MAGE","300");
 
-  editChapter("REY ESPADA","158");
-
-  editChapter("CAZADOR SUIC1D4","806");
-
-  editChapter("RANKER OSO","93");
-
-  editChapter("FRANCOTIRADOR","97");
+  editChapter(items,"INQUISIDOR CELESTIAL","17");
   
-  editChapter("COME LIBROS","80");
+  editChapter(items,"MAESTRO DOMADOR","14");
 
-  editChapter("DEVORADOR","50");
-
-  editChapter("VERSATILE MAGE","300");
-
-  editChapter("ESQUELETON SOLDIER","224");
-
-  editChapter("RANKER SSS","47");
-
-  editChapter("OVERGEARED","168");
-
-  editChapter("CABALLERO LANZA","83");
-
-  editChapter("MONSTRUO","28-5_1");
-
-  editChapter("NANOMAQUINAS","142");
-
-  editChapter("DIOS POLLO","78");
-
-  editChapter("GRAN SABIO","1");
-
-  editChapter("INQUISIDOR CELESTIAL","17");
-
-  editChapter("MAESTRO DOMADOR","14");
  
   
   
