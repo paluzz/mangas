@@ -65,15 +65,7 @@ const items = [
             link: "https://yugenmangas.com/series/archimago-devorador-de-talentos/capitulo-",
             image: imagen.devorador,
             chapter: "50"        
-        },
-        {
-            id: "0019",
-            name: "VERSATILE MAGE",
-            link: "https://samuraiscan.com/leer/versatile-mage/capitulo-",
-            image: imagen.versatile,
-            chapter: "300"        
-        },
-        
+        },     
         {
             id: "0017",
             name: "INQUISIDOR CELESTIAL",
@@ -110,8 +102,6 @@ export default items;
   editChapter(items,"COME LIBROS","80");
 
   editChapter(items,"DEVORADOR","50");
-
-  editChapter(items,"VERSATILE MAGE","300");
 
   editChapter(items,"INQUISIDOR CELESTIAL","17");
   

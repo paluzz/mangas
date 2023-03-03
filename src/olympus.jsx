@@ -1,6 +1,5 @@
 import imagen from './imagen.jsx'
 import editChapter from './editar.js';
-
 const olympus = [
 
     {
@@ -79,6 +78,8 @@ const olympus = [
 
 ]
 export default olympus;
+
+
 
 editChapter(olympus, "ESQUELETON SOLDIER","224","30814");
 
