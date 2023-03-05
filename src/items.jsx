@@ -85,13 +85,13 @@ export default items;
 
 
 
-  editChapter(items, "MARTIAL PEAK","3103");
+  editChapter(items, "MARTIAL PEAK","3109");
 
-  editChapter(items, "YUAN ZUN","904");
+  editChapter(items, "YUAN ZUN","905");
 
   editChapter(items, "second life ranker","148");
 
-  editChapter(items,"REY ESPADA","158");
+  editChapter(items,"REY ESPADA","159");
 
   editChapter(items,"CAZADOR SUIC1D4","806");
 
