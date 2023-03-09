@@ -95,7 +95,7 @@ editChapter(olympus, "RANKER SSS","49","38973");
 
 editChapter(olympus,"OVERGEARED","170","37884");
 
-editChapter(olympus,"CABALLERO LANZA","84","37898");
+editChapter(olympus,"CABALLERO LANZA","84","41932");
 
 editChapter(olympus,"MONSTRUO","28.5","34874");
 
