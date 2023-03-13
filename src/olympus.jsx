@@ -93,15 +93,15 @@ editChapter(olympus, "ESQUELETON SOLDIER","227","37924");
 
 editChapter(olympus, "RANKER SSS","49","38973");
 
-editChapter(olympus,"OVERGEARED","170","37884");
+editChapter(olympus,"OVERGEARED","171","43211");
 
-editChapter(olympus,"CABALLERO LANZA","84","41932");
+editChapter(olympus,"CABALLERO LANZA","85","43134");
 
 editChapter(olympus,"MONSTRUO","28.5","34874");
 
 editChapter(olympus,"NANOMAQUINAS","142","27302");
 
-editChapter(olympus,"PLAYER","32","37011");
+editChapter(olympus,"PLAYER","33","41980");
 
 editChapter(olympus,"DIOS POLLO","78","20845");
 
