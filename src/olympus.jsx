@@ -39,12 +39,12 @@ const olympus = [
     },
     {
         id: "0010",
-        name: "MONSTRUO",
+        name: "HARD CARRY SUPPORT",
         link1: "https://olympusscans.com/capitulo/",
         midlink: "34874", 
-        link2:"/comic-tengo-que-ser-un-monstruo",
-        image: imagen.monster,
-        chapter: "28-5_1"        
+        link2:"/comic-hard-carry-support",
+        image: imagen.soporte,
+        chapter: "21"        
     },
     {
         id: "0011",
@@ -63,6 +63,15 @@ const olympus = [
         link2:"/comic-nueva-vida-del-jugador",
         image: imagen.player,
         chapter: "29"       
+    },
+    {
+        id: "0010",
+        name: "MONSTRUO",
+        link1: "https://olympusscans.com/capitulo/",
+        midlink: "34874", 
+        link2:"/comic-tengo-que-ser-un-monstruo",
+        image: imagen.monster,
+        chapter: "28-5_1"        
     },
     {
         id: "0015",
@@ -91,13 +100,15 @@ export default olympus;
 
 editChapter(olympus, "ESQUELETON SOLDIER","227","37924");
 
-editChapter(olympus, "RANKER SSS","49","38973");
+editChapter(olympus, "RANKER SSS","50","43852");
 
 editChapter(olympus,"OVERGEARED","171","43211");
 
 editChapter(olympus,"CABALLERO LANZA","85","43134");
 
 editChapter(olympus,"MONSTRUO","28.5","34874");
+
+editChapter(olympus,"HARD CARRY SUPPORT","21","43870");
 
 editChapter(olympus,"NANOMAQUINAS","142","27302");
 

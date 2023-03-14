@@ -15,10 +15,8 @@ import libro from './img/libro.jpg'
 import devorador from './img/archimago.jpg'
 import pollo from './img/pollo.jpg'
 import sabio from './img/sabio.jpg'
-import inquisidor from './img/inquisidor.jpg'
-import domador from './img/domador.jpg'
 import player from './img/player.jpg'
-
+import soporte from './img/support.jpg'
 
 
 const imagen = {
@@ -39,8 +37,7 @@ const imagen = {
     devorador:devorador,
     pollo:pollo,
     sabio:sabio,
-    inquisidor:inquisidor,
-    domador:domador,
     player:player,
+    soporte:soporte,
 }
 export default imagen;

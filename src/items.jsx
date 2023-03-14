@@ -66,28 +66,14 @@ const items = [
             image: imagen.devorador,
             chapter: "50"        
         },     
-        {
-            id: "0017",
-            name: "INQUISIDOR CELESTIAL",
-            link: "https://yugenmangas.com/series/espada-de-la-inquisicion-celestial/capitulo-",
-            image: imagen.inquisidor,
-            chapter: "17"        
-        },
-        {
-            id: "0018",
-            name: "MAESTRO DOMADOR",
-            link: "https://yugenmangas.com/series/maestro-domador/capitulo-",
-            image: imagen.domador,
-            chapter: "14",       
-        }
 ]
 export default items;
 
 
 
-  editChapter(items, "MARTIAL PEAK","3134");
+  editChapter(items, "MARTIAL PEAK","3139");
 
-  editChapter(items, "YUAN ZUN","910");
+  editChapter(items, "YUAN ZUN","911");
 
   editChapter(items, "second life ranker","149");
 
@@ -102,10 +88,6 @@ export default items;
   editChapter(items,"COME LIBROS","83");
 
   editChapter(items,"DEVORADOR","50");
-
-  editChapter(items,"INQUISIDOR CELESTIAL","17");
-  
-  editChapter(items,"MAESTRO DOMADOR","14");
 
  
   
