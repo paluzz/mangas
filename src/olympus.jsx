@@ -100,7 +100,7 @@ export default olympus;
 
 editChapter(olympus, "ESQUELETON SOLDIER", "227", "37924");
 
-editChapter(olympus, "RANKER SSS", "50", "43852");
+editChapter(olympus, "RANKER SSS", "51", "48228");
 
 editChapter(olympus, "OVERGEARED", "172", "45778");
 
@@ -108,7 +108,7 @@ editChapter(olympus, "CABALLERO LANZA", "86", "45743");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "21", "43870");
+editChapter(olympus, "HARD CARRY SUPPORT", "22", "48248");
 
 editChapter(olympus, "NANOMAQUINAS", "142", "27302");
 
