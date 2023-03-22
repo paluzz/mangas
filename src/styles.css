@@ -139,3 +139,78 @@ img.redimension:hover {
     height: 30px;
   }
 }
+
+
+@media only screen and (max-width: 980px) {
+  h1 {
+    font-size: 2.5em;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  a {
+    width: 170px;
+    height: 240px;
+  }
+
+  img.redimension {
+    width: 170px;
+    height: 240px;
+  }
+
+  .chapter {
+    width: 170px;
+    height: 30px;
+    font-size: 0.7em;
+    margin-top: 210px;
+  }
+
+  .title {
+    font-size: 0.7em;
+    width: 170px;
+    height: 40px;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  h1 {
+    font-size: 2.5em;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  a {
+    width: 170px;
+    height: 240px;
+  }
+
+  img.redimension {
+    width: 170px;
+    height: 240px;
+  }
+
+  .chapter {
+    width: 170px;
+    height: 30px;
+    font-size: 0.7em;
+    margin-top: 210px;
+  }
+
+  .title {
+    font-size: 0.7em;
+    width: 170px;
+    height: 40px;
+  }
+}
