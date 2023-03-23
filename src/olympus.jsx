@@ -112,7 +112,7 @@ editChapter(olympus, "HARD CARRY SUPPORT", "22", "48248");
 
 editChapter(olympus, "NANOMAQUINAS", "142", "27302");
 
-editChapter(olympus, "PLAYER", "34", "45119");
+editChapter(olympus, "PLAYER", "35", "48830");
 
 editChapter(olympus, "DIOS POLLO", "107", "20814");
 

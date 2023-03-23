@@ -73,9 +73,9 @@ export default items;
 
 
 
-editChapter(items, "MARTIAL PEAK", "3163");
+editChapter(items, "MARTIAL PEAK", "3166");
 
-editChapter(items, "YUAN ZUN", "915");
+editChapter(items, "YUAN ZUN", "916");
 
 editChapter(items, "second life ranker", "149");
 
