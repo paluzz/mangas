@@ -114,7 +114,7 @@ editChapter(olympus, "NANOMAQUINAS", "142", "27302");
 
 editChapter(olympus, "PLAYER", "35", "48830");
 
-editChapter(olympus, "DIOS POLLO", "107", "20814");
+editChapter(olympus, "DIOS POLLO", "123", "20800");
 
 editChapter(olympus, "GRAN SABIO", "1", "21702");
 

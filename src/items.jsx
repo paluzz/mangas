@@ -73,7 +73,7 @@ export default items;
 
 
 
-editChapter(items, "MARTIAL PEAK", "3166");
+editChapter(items, "MARTIAL PEAK", "3169");
 
 editChapter(items, "YUAN ZUN", "916");
 
