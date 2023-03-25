@@ -79,7 +79,7 @@ editChapter(items, "YUAN ZUN", "916");
 
 editChapter(items, "second life ranker", "149");
 
-editChapter(items, "REY ESPADA", "161");
+editChapter(items, "REY ESPADA", "162");
 
 editChapter(items, "CAZADOR SUIC1D4", "806");
 
