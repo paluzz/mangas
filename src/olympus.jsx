@@ -104,7 +104,7 @@ editChapter(olympus, "RANKER SSS", "51", "48228");
 
 editChapter(olympus, "OVERGEARED", "172", "45778");
 
-editChapter(olympus, "CABALLERO LANZA", "86", "45743");
+editChapter(olympus, "CABALLERO LANZA", "87", "49868");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
@@ -114,7 +114,7 @@ editChapter(olympus, "NANOMAQUINAS", "142", "27302");
 
 editChapter(olympus, "PLAYER", "35", "48830");
 
-editChapter(olympus, "DIOS POLLO", "123", "20800");
+editChapter(olympus, "DIOS POLLO", "146", "20793");
 
 editChapter(olympus, "GRAN SABIO", "1", "21702");
 
