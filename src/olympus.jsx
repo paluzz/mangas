@@ -102,7 +102,7 @@ editChapter(olympus, "ESQUELETON SOLDIER", "227", "37924");
 
 editChapter(olympus, "RANKER SSS", "51", "48228");
 
-editChapter(olympus, "OVERGEARED", "172", "45778");
+editChapter(olympus, "OVERGEARED", "173", "49928");
 
 editChapter(olympus, "CABALLERO LANZA", "87", "49868");
 
