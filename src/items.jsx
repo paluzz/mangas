@@ -77,7 +77,7 @@ editChapter(items, "MARTIAL PEAK", "3175");
 
 editChapter(items, "YUAN ZUN", "918");
 
-editChapter(items, "second life ranker", "149");
+editChapter(items, "second life ranker", "150");
 
 editChapter(items, "REY ESPADA", "162");
 

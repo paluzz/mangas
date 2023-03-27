@@ -98,7 +98,7 @@ export default olympus;
 
 
 
-editChapter(olympus, "ESQUELETON SOLDIER", "227", "37924");
+editChapter(olympus, "ESQUELETON SOLDIER", "228", "50495");
 
 editChapter(olympus, "RANKER SSS", "51", "48228");
 
@@ -114,7 +114,7 @@ editChapter(olympus, "NANOMAQUINAS", "142", "27302");
 
 editChapter(olympus, "PLAYER", "35", "48830");
 
-editChapter(olympus, "DIOS POLLO", "146", "20793");
+editChapter(olympus, "DIOS POLLO", "169", "20876");
 
 editChapter(olympus, "GRAN SABIO", "1", "21702");
 
