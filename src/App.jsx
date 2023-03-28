@@ -1,8 +1,7 @@
-import { useState } from 'react'
 import './styles.css'
 import { CardManga } from './card.jsx'
-import items from './items.jsx'
-import olympus from './olympus.jsx'
+import { items, olympus } from './items.jsx'
+
 
 
 
