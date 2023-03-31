@@ -163,7 +163,7 @@ export const items = [
 ]
 
 
-editChapter(items, "MARTIAL PEAK", "3184");
+editChapter(items, "MARTIAL PEAK", "3188");
 
 editChapter(items, "YUAN ZUN", "919");
 
