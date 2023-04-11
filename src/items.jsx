@@ -163,13 +163,13 @@ export const items = [
 ]
 
 
-editChapter(items, "MARTIAL PEAK", "3206");
+editChapter(items, "MARTIAL PEAK", "3221");
 
-editChapter(items, "YUAN ZUN", "923");
+editChapter(items, "YUAN ZUN", "926");
 
 editChapter(items, "second life ranker", "151");
 
-editChapter(items, "REY ESPADA", "163");
+editChapter(items, "REY ESPADA", "164");
 
 editChapter(items, "CAZADOR SUIC1D4", "806");
 
@@ -185,9 +185,9 @@ editChapter(olympus, "ESQUELETON SOLDIER", "229", "50496");
 
 editChapter(olympus, "RANKER SSS", "53", "55907");
 
-editChapter(olympus, "OVERGEARED", "174", "55020");
+editChapter(olympus, "OVERGEARED", "175", "57384");
 
-editChapter(olympus, "CABALLERO LANZA", "88", "55019");
+editChapter(olympus, "CABALLERO LANZA", "89", "57347");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
@@ -195,9 +195,9 @@ editChapter(olympus, "HARD CARRY SUPPORT", "24", "56177");
 
 editChapter(olympus, "NANOMAQUINAS", "148", "56449");
 
-editChapter(olympus, "PLAYER", "36", "54633");
+editChapter(olympus, "PLAYER", "37", "56517");
 
-editChapter(olympus, "DIOS POLLO", "174", "20881");
+editChapter(olympus, "DIOS POLLO", "184", "50613");
 
 editChapter(olympus, "GRAN SABIO", "1", "21702");
 
