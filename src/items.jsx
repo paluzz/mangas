@@ -163,9 +163,9 @@ export const items = [
 ]
 
 
-editChapter(items, "MARTIAL PEAK", "3233");
+editChapter(items, "MARTIAL PEAK", "3240");
 
-editChapter(items, "YUAN ZUN", "929");
+editChapter(items, "YUAN ZUN", "930");
 
 editChapter(items, "second life ranker", "151");
 
@@ -173,7 +173,7 @@ editChapter(items, "REY ESPADA", "164");
 
 editChapter(items, "CAZADOR SUIC1D4", "806");
 
-editChapter(items, "RANKER OSO", "97");
+editChapter(items, "RANKER OSO", "98");
 
 editChapter(items, "FRANCOTIRADOR", "100");
 
@@ -185,9 +185,9 @@ editChapter(olympus, "ESQUELETON SOLDIER", "232", "58727");
 
 editChapter(olympus, "RANKER SSS", "54", "58218");
 
-editChapter(olympus, "OVERGEARED", "175", "57384");
+editChapter(olympus, "OVERGEARED", "176", "59356");
 
-editChapter(olympus, "CABALLERO LANZA", "89", "57347");
+editChapter(olympus, "CABALLERO LANZA", "90", "59321");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
