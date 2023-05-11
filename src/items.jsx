@@ -105,7 +105,7 @@ export const items = [
     {
         id: "0001",
         name: "YUAN ZUN",
-        link: "https://samuraiscan.com/leer/yuan-zun/capitulo-",
+        link: "https://samuraiscan.com/ch/yuan-zun/capitulo-",
         image: imagen.yuan,
         chapter: "892"
     },
@@ -142,7 +142,7 @@ export const items = [
     {
         id: "0012",
         name: "FRANCOTIRADOR",
-        link: "https://samuraiscan.com/leer/el-francotirador-de-nivel-arcano/capitulo-",
+        link: "https://samuraiscan.com/ch/el-francotirador-de-nivel-arcano/capitulo-",
         image: imagen.arcane,
         chapter: "97"
     },
@@ -163,13 +163,13 @@ export const items = [
 ]
 
 
-editChapter(items, "MARTIAL PEAK", "3272");
+editChapter(items, "MARTIAL PEAK", "3292");
 
-editChapter(items, "YUAN ZUN", "934");
+editChapter(items, "YUAN ZUN", "938");
 
-editChapter(items, "second life ranker", "153");
+editChapter(items, "second life ranker", "154");
 
-editChapter(items, "REY ESPADA", "166");
+editChapter(items, "REY ESPADA", "167");
 
 editChapter(items, "CAZADOR SUIC1D4", "806");
 
@@ -177,25 +177,25 @@ editChapter(items, "RANKER OSO", "98");
 
 editChapter(items, "FRANCOTIRADOR", "102");
 
-editChapter(items, "COME LIBROS", "90");
+editChapter(items, "COME LIBROS", "91");
 
 editChapter(items, "DEVORADOR", "50");
 //-------------------------------------------------------
-editChapter(olympus, "ESQUELETON SOLDIER", "233", "60088");
+editChapter(olympus, "ESQUELETON SOLDIER", "235", "61634");
 
-editChapter(olympus, "RANKER SSS", "56", "60476");
+editChapter(olympus, "RANKER SSS", "58", "62105");
 
-editChapter(olympus, "OVERGEARED", "177", "60103");
+editChapter(olympus, "OVERGEARED", "179", "61900");
 
-editChapter(olympus, "CABALLERO LANZA", "91", "60159");
+editChapter(olympus, "CABALLERO LANZA", "93", "62046");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "27", "60493");
+editChapter(olympus, "HARD CARRY SUPPORT", "29", "62200");
 
-editChapter(olympus, "NANOMAQUINAS", "151", "60739");
+editChapter(olympus, "NANOMAQUINAS", "152", "61759");
 
-editChapter(olympus, "PLAYER", "40", "60878");
+editChapter(olympus, "PLAYER", "41", "61795");
 
 editChapter(olympus, "DIOS POLLO", "184", "50613");
 
