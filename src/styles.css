@@ -65,7 +65,7 @@ img.redimension {
 }
 
 .title {
-  display: grid;
+  display: flex;
   justify-content: center;
   color: white;
   background-color: rgba(0, 0, 0, 0.6);
@@ -82,13 +82,14 @@ img.redimension {
   height: 40px;
   z-index: 1;
   position: absolute;
-  display: grid;
+  display: flex;
   justify-content: center;
   align-items: center;
   color: white;
   font-size: 20px;
   margin-top: 280px;
 }
+
 
 .bot {
   display: grid;
