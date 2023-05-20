@@ -1,5 +1,6 @@
 import imagen from './imagen.jsx'
 import editChapter from './editar.js';
+
 export const olympus = [
     {
         id: "0004",
@@ -163,13 +164,13 @@ export const items = [
 ]
 
 
-editChapter(items, "MARTIAL PEAK", "3312");
+editChapter(items, "MARTIAL PEAK", "3315");
 
-editChapter(items, "YUAN ZUN", "943");
+editChapter(items, "YUAN ZUN", "944");
 
 editChapter(items, "second life ranker", "154");
 
-editChapter(items, "REY ESPADA", "168");
+editChapter(items, "REY ESPADA", "169");
 
 editChapter(items, "CAZADOR SUIC1D4", "806");
 
@@ -181,17 +182,17 @@ editChapter(items, "COME LIBROS", "91");
 
 editChapter(items, "DEVORADOR", "50");
 //-------------------------------------------------------
-editChapter(olympus, "ESQUELETON SOLDIER", "328", "62481");
+editChapter(olympus, "ESQUELETON SOLDIER", "328", "62486");
 
 editChapter(olympus, "RANKER SSS", "59", "62799");
 
-editChapter(olympus, "OVERGEARED", "179", "61900");
+editChapter(olympus, "OVERGEARED", "180", "62926");
 
 editChapter(olympus, "CABALLERO LANZA", "94", "62478");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "29", "62200");
+editChapter(olympus, "HARD CARRY SUPPORT", "30", "63015");
 
 editChapter(olympus, "NANOMAQUINAS", "154", "62895");
 
@@ -200,8 +201,3 @@ editChapter(olympus, "PLAYER", "42", "62256");
 editChapter(olympus, "DIOS POLLO", "184", "50613");
 
 editChapter(olympus, "GRAN SABIO", "1", "21702");
-
-
-
-
-
