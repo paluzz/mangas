@@ -17,6 +17,7 @@ import pollo from './img/pollo.jpg'
 import sabio from './img/sabio.jpg'
 import player from './img/player.jpg'
 import soporte from './img/support.jpg'
+import destino from './img/destino.jpg'
 
 
 const imagen = {
@@ -39,5 +40,6 @@ const imagen = {
     sabio: sabio,
     player: player,
     soporte: soporte,
+    destino: destino,
 }
 export default imagen;

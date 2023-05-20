@@ -85,12 +85,12 @@ export const olympus = [
     },
     {
         id: "0016",
-        name: "GRAN SABIO",
+        name: "DESTINO F",
         link: "https://olympusscanlation.com/manga/el-gran-sabio-de-la-humanidad/capitulo-",
         link1: "https://olympusscans.com/capitulo/",
-        midlink: "21702",
-        link2: "/comic-el-gran-sabio-de-la-humanidad",
-        image: imagen.sabio,
+        midlink: "60991",
+        link2: "/comic-cazador-de-destinos-de-clase-f",
+        image: imagen.destino,
         chapter: "1"
     }
 
@@ -200,4 +200,4 @@ editChapter(olympus, "PLAYER", "42", "62256");
 
 editChapter(olympus, "DIOS POLLO", "184", "50613");
 
-editChapter(olympus, "GRAN SABIO", "1", "21702");
+editChapter(olympus, "DESTINO F", "13", "60991");
