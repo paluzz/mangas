@@ -164,17 +164,17 @@ export const items = [
 ]
 
 
-editChapter(items, "MARTIAL PEAK", "3316");
+editChapter(items, "MARTIAL PEAK", "3324");
 
-editChapter(items, "YUAN ZUN", "945");
+editChapter(items, "YUAN ZUN", "950");
 
 editChapter(items, "second life ranker", "154");
 
 editChapter(items, "REY ESPADA", "169");
 
-editChapter(items, "CAZADOR SUIC1D4", "806");
+editChapter(items, "CAZADOR SUIC1D4", "82");
 
-editChapter(items, "RANKER OSO", "100");
+editChapter(items, "RANKER OSO", "102");
 
 editChapter(items, "FRANCOTIRADOR", "105");
 
@@ -182,22 +182,22 @@ editChapter(items, "COME LIBROS", "91");
 
 editChapter(items, "DEVORADOR", "50");
 //-------------------------------------------------------
-editChapter(olympus, "ESQUELETON SOLDIER", "328", "62486");
+editChapter(olympus, "ESQUELETON SOLDIER", "329", "63428");
 
-editChapter(olympus, "RANKER SSS", "59", "62799");
+editChapter(olympus, "RANKER SSS", "60", "63582");
 
-editChapter(olympus, "OVERGEARED", "180", "62926");
+editChapter(olympus, "OVERGEARED", "181", "63630");
 
-editChapter(olympus, "CABALLERO LANZA", "95", "63095");
+editChapter(olympus, "CABALLERO LANZA", "96", "63974");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "30", "63015");
+editChapter(olympus, "HARD CARRY SUPPORT", "31", "63610");
 
-editChapter(olympus, "NANOMAQUINAS", "154", "62895");
+editChapter(olympus, "NANOMAQUINAS", "155", "63690");
 
-editChapter(olympus, "PLAYER", "43", "62927");
+editChapter(olympus, "PLAYER", "44", "63786");
 
 editChapter(olympus, "DIOS POLLO", "184", "50613");
 
-editChapter(olympus, "DESTINO F", "13", "60991");
+editChapter(olympus, "DESTINO F", "24", "63789");
