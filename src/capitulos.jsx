@@ -92,6 +92,26 @@ export const olympus = [
         link2: "/comic-cazador-de-destinos-de-clase-f",
         image: imagen.destino,
         chapter: "1"
+    },
+    {
+        id: "0100",
+        name: "MULTIPLICADOR",
+        link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
+        link1: "https://olympusscans.com/capitulo/",
+        midlink: "65888",
+        link2: "/comic-subiendo-de-nivel-con-las-mejores-habilidades",
+        image: imagen.multiplicador,
+        chapter: "21"
+    },
+    {
+        id: "0101",
+        name: "BARBARO",
+        link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
+        link1: "https://olympusscans.com/capitulo/",
+        midlink: "65888",
+        link2: "/comic-sobreviviendo-al-juego-siendo-un-barbaro",
+        image: imagen.barbaro,
+        chapter: "21"
     }
 
 ]
@@ -161,43 +181,56 @@ export const items = [
         image: imagen.devorador,
         chapter: "50"
     },
+    {
+        id: "0015",
+        name: "KILL HERO",
+        link: "https://nartag.com/l/el-cazador-de-heroes/capitulo-",
+        image: imagen.killHero,
+        chapter: "120"
+    },
 ]
 
 
-editChapter(items, "MARTIAL PEAK", "3324");
+editChapter(items, "MARTIAL PEAK", "3377");
 
-editChapter(items, "YUAN ZUN", "950");
+editChapter(items, "YUAN ZUN", "962");
 
-editChapter(items, "second life ranker", "154");
+editChapter(items, "second life ranker", "158");
 
-editChapter(items, "REY ESPADA", "169");
+editChapter(items, "REY ESPADA", "172");
 
-editChapter(items, "CAZADOR SUIC1D4", "82");
+editChapter(items, "CAZADOR SUIC1D4", "85");
 
 editChapter(items, "RANKER OSO", "102");
 
-editChapter(items, "FRANCOTIRADOR", "105");
+editChapter(items, "FRANCOTIRADOR", "110");
 
-editChapter(items, "COME LIBROS", "91");
+editChapter(items, "COME LIBROS", "95");
 
 editChapter(items, "DEVORADOR", "50");
+
+editChapter(items, "KILL HERO", "139");
 //-------------------------------------------------------
-editChapter(olympus, "ESQUELETON SOLDIER", "329", "63428");
+editChapter(olympus, "ESQUELETON SOLDIER", "243", "66915");
 
-editChapter(olympus, "RANKER SSS", "60", "63582");
+editChapter(olympus, "RANKER SSS", "64", "66973");
 
-editChapter(olympus, "OVERGEARED", "181", "63630");
+editChapter(olympus, "OVERGEARED", "184", "66146");
 
-editChapter(olympus, "CABALLERO LANZA", "96", "63974");
+editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "31", "63610");
+editChapter(olympus, "HARD CARRY SUPPORT", "34", "66210");
 
-editChapter(olympus, "NANOMAQUINAS", "155", "63690");
+editChapter(olympus, "NANOMAQUINAS", "158", "66212");
 
-editChapter(olympus, "PLAYER", "44", "63786");
+editChapter(olympus, "PLAYER", "47", "66258");
 
 editChapter(olympus, "DIOS POLLO", "184", "50613");
 
-editChapter(olympus, "DESTINO F", "24", "63789");
+editChapter(olympus, "DESTINO F", "27", "66263");
+
+editChapter(olympus, "MULTIPLICADOR", "22", "66350");
+
+editChapter(olympus, "BARBARO", "17", "66351");

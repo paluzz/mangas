@@ -18,6 +18,9 @@ import sabio from './img/sabio.jpg'
 import player from './img/player.jpg'
 import soporte from './img/support.jpg'
 import destino from './img/destino.jpg'
+import kill from './img/kill.jpg'
+import multiplicador from './img/multiplicador.jpg'
+import barbaro from './img/barbaro.jpg'
 
 
 const imagen = {
@@ -41,5 +44,8 @@ const imagen = {
     player: player,
     soporte: soporte,
     destino: destino,
+    killHero: kill,
+    multiplicador: multiplicador,
+    barbaro: barbaro,
 }
 export default imagen;

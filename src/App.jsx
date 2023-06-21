@@ -1,6 +1,6 @@
 import './styles.css'
 import { CardManga } from './card.jsx'
-import { items, olympus } from './items.jsx'
+import { items, olympus } from './capitulos.jsx'
 
 
 
