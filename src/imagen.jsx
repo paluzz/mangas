@@ -21,6 +21,7 @@ import destino from './img/destino.jpg'
 import kill from './img/kill.jpg'
 import multiplicador from './img/multiplicador.jpg'
 import barbaro from './img/barbaro.jpg'
+import necromancer from './img/necromancer.jpg'
 
 
 const imagen = {
@@ -47,5 +48,6 @@ const imagen = {
     killHero: kill,
     multiplicador: multiplicador,
     barbaro: barbaro,
+    necromancer: necromancer,
 }
 export default imagen;

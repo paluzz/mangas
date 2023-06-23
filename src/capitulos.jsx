@@ -66,6 +66,16 @@ export const olympus = [
         chapter: "29"
     },
     {
+        id: "0200",
+        name: "NECROMANCER",
+        link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
+        link1: "https://olympusscans.com/capitulo/",
+        midlink: "64919",
+        link2: "/comic-el-nigromante-de-seul",
+        image: imagen.necromancer,
+        chapter: "21"
+    },
+    {
         id: "0010",
         name: "MONSTRUO",
         link1: "https://olympusscans.com/capitulo/",
@@ -218,6 +228,8 @@ editChapter(olympus, "RANKER SSS", "64", "66973");
 editChapter(olympus, "OVERGEARED", "184", "66146");
 
 editChapter(olympus, "CABALLERO LANZA", "99", "66507");
+
+editChapter(olympus, "NEGROMANCER", "97", "64919");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
