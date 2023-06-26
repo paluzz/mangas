@@ -76,13 +76,13 @@ export const olympus = [
         chapter: "21"
     },
     {
-        id: "0010",
-        name: "MONSTRUO",
+        id: "0201",
+        name: "MAGO INFINITO",
         link1: "https://olympusscans.com/capitulo/",
-        midlink: "34874",
-        link2: "/comic-tengo-que-ser-un-monstruo",
-        image: imagen.monster,
-        chapter: "28-5_1"
+        midlink: "67043",
+        link2: "/comic-el-mago-infinito",
+        image: imagen.infinito,
+        chapter: "39"
     },
     {
         id: "0015",
@@ -201,7 +201,7 @@ export const items = [
 ]
 
 
-editChapter(items, "MARTIAL PEAK", "3385");
+editChapter(items, "MARTIAL PEAK", "3392");
 
 editChapter(items, "YUAN ZUN", "964");
 
@@ -229,7 +229,9 @@ editChapter(olympus, "OVERGEARED", "184", "66146");
 
 editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
-editChapter(olympus, "NEGROMANCER", "97", "64919");
+editChapter(olympus, "MAGO INFINITO", "39", "67043");
+
+editChapter(olympus, "NECROMANCER", "97", "64919");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 

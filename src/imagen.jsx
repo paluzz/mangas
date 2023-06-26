@@ -22,7 +22,7 @@ import kill from './img/kill.jpg'
 import multiplicador from './img/multiplicador.jpg'
 import barbaro from './img/barbaro.jpg'
 import necromancer from './img/necromancer.jpg'
-
+import infinito from './img/infinito.jpg'
 
 const imagen = {
     martial: martial,
@@ -49,5 +49,6 @@ const imagen = {
     multiplicador: multiplicador,
     barbaro: barbaro,
     necromancer: necromancer,
+    infinito: infinito,
 }
 export default imagen;
