@@ -85,15 +85,6 @@ export const olympus = [
         chapter: "39"
     },
     {
-        id: "0015",
-        name: "DIOS POLLO",
-        link1: "https://olympusscans.com/capitulo/",
-        midlink: "20845",
-        link2: "/comic-el-primer-gran-dios-eterno",
-        image: imagen.pollo,
-        chapter: "78"
-    },
-    {
         id: "0016",
         name: "DESTINO F",
         link: "https://olympusscanlation.com/manga/el-gran-sabio-de-la-humanidad/capitulo-",
@@ -122,7 +113,35 @@ export const olympus = [
         link2: "/comic-sobreviviendo-al-juego-siendo-un-barbaro",
         image: imagen.barbaro,
         chapter: "21"
-    }
+    },
+    {
+        id: "0202",
+        name: "DEMONIO",
+        link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
+        link1: "https://olympusscans.com/capitulo/",
+        midlink: "67460",
+        link2: "/comic-evolucion-demoniaca",
+        image: imagen.demon,
+        chapter: "18"
+    },
+    {
+        id: "0015",
+        name: "MONTE HUA",
+        link1: "https://olympusscans.com/capitulo/",
+        midlink: "20845",
+        link2: "/comic-el-regreso-de-la-secta-del-monte-hua",
+        image: imagen.hua,
+        chapter: "78"
+    },
+    {
+        id: "0015",
+        name: "DIOS POLLO",
+        link1: "https://olympusscans.com/capitulo/",
+        midlink: "20845",
+        link2: "/comic-el-primer-gran-dios-eterno",
+        image: imagen.pollo,
+        chapter: "78"
+    },
 
 ]
 export const items = [
@@ -201,9 +220,9 @@ export const items = [
 ]
 
 
-editChapter(items, "MARTIAL PEAK", "3392");
+editChapter(items, "MARTIAL PEAK", "3399");
 
-editChapter(items, "YUAN ZUN", "964");
+editChapter(items, "YUAN ZUN", "965");
 
 editChapter(items, "second life ranker", "160");
 
@@ -213,23 +232,23 @@ editChapter(items, "CAZADOR SUIC1D4", "86");
 
 editChapter(items, "RANKER OSO", "102");
 
-editChapter(items, "FRANCOTIRADOR", "110");
+editChapter(items, "FRANCOTIRADOR", "112");
 
 editChapter(items, "COME LIBROS", "95");
 
 editChapter(items, "DEVORADOR", "50");
 
-editChapter(items, "KILL HERO", "140");
+editChapter(items, "KILL HERO", "141");
 //-------------------------------------------------------
 editChapter(olympus, "ESQUELETON SOLDIER", "244", "67177");
 
-editChapter(olympus, "RANKER SSS", "64", "66973");
+editChapter(olympus, "RANKER SSS", "65", "68148");
 
 editChapter(olympus, "OVERGEARED", "184", "66146");
 
 editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
-editChapter(olympus, "MAGO INFINITO", "39", "67043");
+editChapter(olympus, "MAGO INFINITO", "40", "68181");
 
 editChapter(olympus, "NECROMANCER", "97", "64919");
 
@@ -237,14 +256,18 @@ editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "35", "67183");
 
-editChapter(olympus, "NANOMAQUINAS", "159", "67106");
+editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
 editChapter(olympus, "PLAYER", "48", "67175");
 
-editChapter(olympus, "DIOS POLLO", "184", "50613");
+editChapter(olympus, "MONTE HUA", "6", "39824");
 
 editChapter(olympus, "DESTINO F", "28", "67176");
 
 editChapter(olympus, "MULTIPLICADOR", "23", "67333");
 
-editChapter(olympus, "BARBARO", "18", "67131");
+editChapter(olympus, "BARBARO", "19", "68289");
+
+editChapter(olympus, "DEMONIO", "18", "67460");
+
+editChapter(olympus, "DIOS POLLO", "184", "50613");

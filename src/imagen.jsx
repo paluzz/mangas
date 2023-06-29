@@ -23,6 +23,8 @@ import multiplicador from './img/multiplicador.jpg'
 import barbaro from './img/barbaro.jpg'
 import necromancer from './img/necromancer.jpg'
 import infinito from './img/infinito.jpg'
+import demon from './img/demon.jpg'
+import hua from './img/hua.jpg'
 
 const imagen = {
     martial: martial,
@@ -50,5 +52,7 @@ const imagen = {
     barbaro: barbaro,
     necromancer: necromancer,
     infinito: infinito,
+    demon: demon,
+    hua: hua,
 }
 export default imagen;
