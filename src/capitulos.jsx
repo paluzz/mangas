@@ -85,6 +85,16 @@ export const olympus = [
         chapter: "39"
     },
     {
+        id: "1005",
+        name: "MONTE HUA",
+        link1: "https://olympusscans.com/capitulo/",
+        link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
+        midlink: "39782",
+        link2: "/comic-el-regreso-de-la-secta-del-monte-hua",
+        image: imagen.hua,
+        chapter: "21"
+    },
+    {
         id: "0016",
         name: "DESTINO F",
         link: "https://olympusscanlation.com/manga/el-gran-sabio-de-la-humanidad/capitulo-",
@@ -123,15 +133,6 @@ export const olympus = [
         link2: "/comic-evolucion-demoniaca",
         image: imagen.demon,
         chapter: "18"
-    },
-    {
-        id: "0015",
-        name: "MONTE HUA",
-        link1: "https://olympusscans.com/capitulo/",
-        midlink: "20845",
-        link2: "/comic-el-regreso-de-la-secta-del-monte-hua",
-        image: imagen.hua,
-        chapter: "78"
     },
     {
         id: "0015",
@@ -260,7 +261,7 @@ editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
 editChapter(olympus, "PLAYER", "48", "67175");
 
-editChapter(olympus, "MONTE HUA", "6", "39824");
+editChapter(olympus, "MONTE HUA", "21", "39782");
 
 editChapter(olympus, "DESTINO F", "28", "67176");
 
