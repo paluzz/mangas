@@ -14,11 +14,9 @@ import arcane from './img/arcane.jpg'
 import libro from './img/libro.jpg'
 import devorador from './img/archimago.jpg'
 import pollo from './img/pollo.jpg'
-import sabio from './img/sabio.jpg'
 import player from './img/player.jpg'
 import soporte from './img/support.jpg'
 import destino from './img/destino.jpg'
-import kill from './img/kill.jpg'
 import multiplicador from './img/multiplicador.jpg'
 import barbaro from './img/barbaro.jpg'
 import necromancer from './img/necromancer.jpg'
@@ -43,11 +41,9 @@ const imagen = {
     libro: libro,
     devorador: devorador,
     pollo: pollo,
-    sabio: sabio,
     player: player,
     soporte: soporte,
     destino: destino,
-    killHero: kill,
     multiplicador: multiplicador,
     barbaro: barbaro,
     necromancer: necromancer,

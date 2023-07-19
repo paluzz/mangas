@@ -211,64 +211,57 @@ export const items = [
         image: imagen.devorador,
         chapter: "50"
     },
-    {
-        id: "0015",
-        name: "KILL HERO",
-        link: "https://nartag.com/l/el-cazador-de-heroes/capitulo-",
-        image: imagen.killHero,
-        chapter: "120"
-    },
+
 ]
 
 
-editChapter(items, "MARTIAL PEAK", "3399");
+editChapter(items, "MARTIAL PEAK", "3413");
 
-editChapter(items, "YUAN ZUN", "965");
+editChapter(items, "YUAN ZUN", "968");
 
-editChapter(items, "second life ranker", "160");
+editChapter(items, "second life ranker", "161");
 
-editChapter(items, "REY ESPADA", "173");
+editChapter(items, "REY ESPADA", "176");
 
-editChapter(items, "CAZADOR SUIC1D4", "86");
+editChapter(items, "CAZADOR SUIC1D4", "88");
 
 editChapter(items, "RANKER OSO", "102");
 
 editChapter(items, "FRANCOTIRADOR", "112");
 
-editChapter(items, "COME LIBROS", "95");
+editChapter(items, "COME LIBROS", "96");
 
 editChapter(items, "DEVORADOR", "50");
 
-editChapter(items, "KILL HERO", "141");
 //-------------------------------------------------------
-editChapter(olympus, "ESQUELETON SOLDIER", "244", "67177");
+editChapter(olympus, "ESQUELETON SOLDIER", "246", "69062");
 
-editChapter(olympus, "RANKER SSS", "65", "68148");
+editChapter(olympus, "RANKER SSS", "68", "70027");
 
-editChapter(olympus, "OVERGEARED", "184", "66146");
+editChapter(olympus, "OVERGEARED", "189", "70038");
 
 editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
-editChapter(olympus, "MAGO INFINITO", "40", "68181");
+editChapter(olympus, "MAGO INFINITO", "42", "69448");
 
 editChapter(olympus, "NECROMANCER", "97", "64919");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "35", "67183");
+editChapter(olympus, "HARD CARRY SUPPORT", "38", "69541");
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
-editChapter(olympus, "PLAYER", "48", "67175");
+editChapter(olympus, "PLAYER", "51", "69581");
 
 editChapter(olympus, "MONTE HUA", "21", "39782");
 
-editChapter(olympus, "DESTINO F", "28", "67176");
+editChapter(olympus, "DESTINO F", "31", "69582");
 
-editChapter(olympus, "MULTIPLICADOR", "23", "67333");
+editChapter(olympus, "MULTIPLICADOR", "26", "69711");
 
-editChapter(olympus, "BARBARO", "19", "68289");
+editChapter(olympus, "BARBARO", "21", "69525");
 
-editChapter(olympus, "DEMONIO", "18", "67460");
+editChapter(olympus, "DEMONIO", "21", "69862");
 
 editChapter(olympus, "DIOS POLLO", "184", "50613");
