@@ -23,6 +23,7 @@ import necromancer from './img/necromancer.jpg'
 import infinito from './img/infinito.jpg'
 import demon from './img/demon.jpg'
 import hua from './img/hua.jpg'
+import priest from './img/corrupcion.jpg'
 
 const imagen = {
     martial: martial,
@@ -50,5 +51,6 @@ const imagen = {
     infinito: infinito,
     demon: demon,
     hua: hua,
+    priest: priest,
 }
 export default imagen;

@@ -135,6 +135,15 @@ export const olympus = [
         chapter: "18"
     },
     {
+        id: "0203",
+        name: "CORRUPCION",
+        link1: "https://olympusscans.com/capitulo/",
+        midlink: "20845",
+        link2: "comic-el-sacerdote-de-la-corrupcion",
+        image: imagen.priest,
+        chapter: "0"
+    },
+    {
         id: "0015",
         name: "DIOS POLLO",
         link1: "https://olympusscans.com/capitulo/",
@@ -263,5 +272,7 @@ editChapter(olympus, "MULTIPLICADOR", "26", "69711");
 editChapter(olympus, "BARBARO", "21", "69525");
 
 editChapter(olympus, "DEMONIO", "21", "69862");
+
+editChapter(olympus, "CORRUPCION", "9", "68521");
 
 editChapter(olympus, "DIOS POLLO", "184", "50613");
