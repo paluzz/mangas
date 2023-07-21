@@ -1,6 +1,74 @@
 import imagen from './imagen.jsx'
 import editChapter from './editar.js';
 
+export const items = [
+    {
+        id: "0000",
+        name: "MARTIAL PEAK",
+        link: "https://manhuako.com/manhua/martial-peak/chapter-",
+        image: imagen.martial,
+        chapter: ""
+    },
+    {
+        id: "0001",
+        name: "YUAN ZUN",
+        link: "https://samuraiscan.com/leer/yuan-zun/capitulo-",
+        image: imagen.yuan,
+        chapter: "892"
+    },
+    {
+        id: "0002",
+        name: "SECOND LIFE RANKER",
+        link: "https://yugenmangas.com/series/segunda-vida-para-ser-un-ranker/capitulo-",
+        image: imagen.ranker,
+        chapter: "145"
+    },
+    {
+        id: "0003",
+        name: "REY ESPADA",
+        link: "https://knightnoscanlation.com/sr/el-rey-de-la-espada-en-un-mundo-de-fantasia/capitulo-",
+        image: imagen.espada,
+        chapter: "156"
+    },
+
+    {
+        id: "0007",
+        name: "CAZADOR SUIC1D4",
+        link: "https://yugenmangas.com/series/cazador-suicida-de-clase-sss/capitulo-",
+        image: imagen.suic1d3,
+        chapter: "806"
+    },
+    {
+        id: "0008",
+        name: "RANKER OSO",
+        link: "https://yugenmangas.com/series/el-retorno-del-ranker-remake/capitulo-",
+        image: imagen.osito,
+        chapter: "84"
+    },
+
+    {
+        id: "0012",
+        name: "FRANCOTIRADOR",
+        link: "https://samuraiscan.com/leer/el-francotirador-de-nivel-arcano/capitulo-",
+        image: imagen.arcane,
+        chapter: "97"
+    },
+    {
+        id: "0013",
+        name: "COME LIBROS",
+        link: "https://yugenmangas.com/series/el-mago-comedor-de-libros/capitulo-",
+        image: imagen.libro,
+        chapter: "80"
+    },
+    {
+        id: "0014",
+        name: "DEVORADOR",
+        link: "https://yugenmangas.com/series/archimago-devorador-de-talentos/capitulo-",
+        image: imagen.devorador,
+        chapter: "50"
+    },
+
+]
 export const olympus = [
     {
         id: "0004",
@@ -139,7 +207,7 @@ export const olympus = [
         name: "CORRUPCION",
         link1: "https://olympusscans.com/capitulo/",
         midlink: "20845",
-        link2: "comic-el-sacerdote-de-la-corrupcion",
+        link2: "/comic-el-sacerdote-de-la-corrupcion",
         image: imagen.priest,
         chapter: "0"
     },
@@ -154,85 +222,16 @@ export const olympus = [
     },
 
 ]
-export const items = [
-    {
-        id: "0000",
-        name: "MARTIAL PEAK",
-        link: "https://manhuako.com/manhua/martial-peak/chapter-",
-        image: imagen.martial,
-        chapter: ""
-    },
-    {
-        id: "0001",
-        name: "YUAN ZUN",
-        link: "https://samuraiscan.com/ch/yuan-zun/capitulo-",
-        image: imagen.yuan,
-        chapter: "892"
-    },
-    {
-        id: "0002",
-        name: "SECOND LIFE RANKER",
-        link: "https://yugenmangas.com/series/segunda-vida-para-ser-un-ranker/capitulo-",
-        image: imagen.ranker,
-        chapter: "145"
-    },
-    {
-        id: "0003",
-        name: "REY ESPADA",
-        link: "https://knightnoscanlation.com/sr/el-rey-de-la-espada-en-un-mundo-de-fantasia/capitulo-",
-        image: imagen.espada,
-        chapter: "156"
-    },
 
-    {
-        id: "0007",
-        name: "CAZADOR SUIC1D4",
-        link: "https://yugenmangas.com/series/cazador-suicida-de-clase-sss/capitulo-",
-        image: imagen.suic1d3,
-        chapter: "806"
-    },
-    {
-        id: "0008",
-        name: "RANKER OSO",
-        link: "https://yugenmangas.com/series/el-retorno-del-ranker-remake/capitulo-",
-        image: imagen.osito,
-        chapter: "84"
-    },
+editChapter(items, "MARTIAL PEAK", "3467");
 
-    {
-        id: "0012",
-        name: "FRANCOTIRADOR",
-        link: "https://samuraiscan.com/ch/el-francotirador-de-nivel-arcano/capitulo-",
-        image: imagen.arcane,
-        chapter: "97"
-    },
-    {
-        id: "0013",
-        name: "COME LIBROS",
-        link: "https://yugenmangas.com/series/el-mago-comedor-de-libros/capitulo-",
-        image: imagen.libro,
-        chapter: "80"
-    },
-    {
-        id: "0014",
-        name: "DEVORADOR",
-        link: "https://yugenmangas.com/series/archimago-devorador-de-talentos/capitulo-",
-        image: imagen.devorador,
-        chapter: "50"
-    },
-
-]
-
-
-editChapter(items, "MARTIAL PEAK", "3413");
-
-editChapter(items, "YUAN ZUN", "968");
+editChapter(items, "YUAN ZUN", "978");
 
 editChapter(items, "second life ranker", "161");
 
 editChapter(items, "REY ESPADA", "176");
 
-editChapter(items, "CAZADOR SUIC1D4", "88");
+editChapter(items, "CAZADOR SUIC1D4", "89");
 
 editChapter(items, "RANKER OSO", "102");
 
@@ -257,7 +256,7 @@ editChapter(olympus, "NECROMANCER", "97", "64919");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "38", "69541");
+editChapter(olympus, "HARD CARRY SUPPORT", "39", "70315");
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
@@ -265,14 +264,14 @@ editChapter(olympus, "PLAYER", "51", "69581");
 
 editChapter(olympus, "MONTE HUA", "21", "39782");
 
-editChapter(olympus, "DESTINO F", "31", "69582");
+editChapter(olympus, "DESTINO F", "32", "70268");
 
 editChapter(olympus, "MULTIPLICADOR", "26", "69711");
 
-editChapter(olympus, "BARBARO", "21", "69525");
+editChapter(olympus, "BARBARO", "22", "70142");
 
 editChapter(olympus, "DEMONIO", "21", "69862");
 
-editChapter(olympus, "CORRUPCION", "9", "68521");
+editChapter(olympus, "CORRUPCION", "11", "69700");
 
 editChapter(olympus, "DIOS POLLO", "184", "50613");
