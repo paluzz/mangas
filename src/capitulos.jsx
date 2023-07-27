@@ -19,7 +19,7 @@ export const items = [
     {
         id: "0002",
         name: "SECOND LIFE RANKER",
-        link: "https://yugenmangas.com/series/segunda-vida-para-ser-un-ranker/capitulo-",
+        link: "https://yugenmangas.net/series/segunda-vida-para-ser-un-ranker/capitulo-",
         image: imagen.ranker,
         chapter: "145"
     },
@@ -34,14 +34,14 @@ export const items = [
     {
         id: "0007",
         name: "CAZADOR SUIC1D4",
-        link: "https://yugenmangas.com/series/cazador-suicida-de-clase-sss/capitulo-",
+        link: "https://yugenmangas.net/series/cazador-suicida-de-clase-sss/capitulo-",
         image: imagen.suic1d3,
         chapter: "806"
     },
     {
         id: "0008",
         name: "RANKER OSO",
-        link: "https://yugenmangas.com/series/el-retorno-del-ranker-remake/capitulo-",
+        link: "https://yugenmangas.net/series/el-retorno-del-ranker-remake/capitulo-",
         image: imagen.osito,
         chapter: "84"
     },
@@ -56,14 +56,14 @@ export const items = [
     {
         id: "0013",
         name: "COME LIBROS",
-        link: "https://yugenmangas.com/series/el-mago-comedor-de-libros/capitulo-",
+        link: "https://yugenmangas.net/series/el-mago-comedor-de-libros/capitulo-",
         image: imagen.libro,
         chapter: "80"
     },
     {
         id: "0014",
         name: "DEVORADOR",
-        link: "https://yugenmangas.com/series/archimago-devorador-de-talentos/capitulo-",
+        link: "https://yugenmangas.net/series/archimago-devorador-de-talentos/capitulo-",
         image: imagen.devorador,
         chapter: "50"
     },
@@ -223,13 +223,13 @@ export const olympus = [
 
 ]
 
-editChapter(items, "MARTIAL PEAK", "3467");
+editChapter(items, "MARTIAL PEAK", "3478");
 
-editChapter(items, "YUAN ZUN", "978");
+editChapter(items, "YUAN ZUN", "979");
 
 editChapter(items, "second life ranker", "161");
 
-editChapter(items, "REY ESPADA", "176");
+editChapter(items, "REY ESPADA", "177");
 
 editChapter(items, "CAZADOR SUIC1D4", "89");
 
@@ -242,15 +242,15 @@ editChapter(items, "COME LIBROS", "96");
 editChapter(items, "DEVORADOR", "50");
 
 //-------------------------------------------------------
-editChapter(olympus, "ESQUELETON SOLDIER", "246", "69062");
+editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
-editChapter(olympus, "RANKER SSS", "68", "70027");
+editChapter(olympus, "RANKER SSS", "69", "70858");
 
 editChapter(olympus, "OVERGEARED", "189", "70038");
 
 editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
-editChapter(olympus, "MAGO INFINITO", "42", "69448");
+editChapter(olympus, "MAGO INFINITO", "43", "70961");
 
 editChapter(olympus, "NECROMANCER", "97", "64919");
 
@@ -260,15 +260,15 @@ editChapter(olympus, "HARD CARRY SUPPORT", "39", "70315");
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
-editChapter(olympus, "PLAYER", "51", "69581");
+editChapter(olympus, "PLAYER", "52", "70273");
 
 editChapter(olympus, "MONTE HUA", "21", "39782");
 
 editChapter(olympus, "DESTINO F", "32", "70268");
 
-editChapter(olympus, "MULTIPLICADOR", "26", "69711");
+editChapter(olympus, "MULTIPLICADOR", "27", "70496");
 
-editChapter(olympus, "BARBARO", "22", "70142");
+editChapter(olympus, "BARBARO", "23", "71131");
 
 editChapter(olympus, "DEMONIO", "21", "69862");
 
