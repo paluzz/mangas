@@ -212,6 +212,15 @@ export const olympus = [
         chapter: "0"
     },
     {
+        id: "2214",
+        name: "MAGO DORADO",
+        link1: "https://olympusscans.com/capitulo/",
+        midlink: "20845",
+        link2: "/comic-mago-dorado",
+        image: imagen.gold,
+        chapter: "20"
+    },/*
+    {
         id: "0015",
         name: "DIOS POLLO",
         link1: "https://olympusscans.com/capitulo/",
@@ -219,19 +228,19 @@ export const olympus = [
         link2: "/comic-el-primer-gran-dios-eterno",
         image: imagen.pollo,
         chapter: "78"
-    },
+    },*/
 
 ]
 
-editChapter(items, "MARTIAL PEAK", "3478");
+editChapter(items, "MARTIAL PEAK", "3498");
 
-editChapter(items, "YUAN ZUN", "979");
+editChapter(items, "YUAN ZUN", "983");
 
 editChapter(items, "second life ranker", "161");
 
-editChapter(items, "REY ESPADA", "177");
+editChapter(items, "REY ESPADA", "178");
 
-editChapter(items, "CAZADOR SUIC1D4", "89");
+editChapter(items, "CAZADOR SUIC1D4", "90");
 
 editChapter(items, "RANKER OSO", "102");
 
@@ -256,7 +265,7 @@ editChapter(olympus, "NECROMANCER", "97", "64919");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "39", "70315");
+editChapter(olympus, "HARD CARRY SUPPORT", "40", "71249");
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
@@ -264,9 +273,9 @@ editChapter(olympus, "PLAYER", "52", "70273");
 
 editChapter(olympus, "MONTE HUA", "21", "39782");
 
-editChapter(olympus, "DESTINO F", "32", "70268");
+editChapter(olympus, "DESTINO F", "33", "71213");
 
-editChapter(olympus, "MULTIPLICADOR", "27", "70496");
+editChapter(olympus, "MULTIPLICADOR", "28   ", "71304");
 
 editChapter(olympus, "BARBARO", "23", "71131");
 
@@ -274,4 +283,6 @@ editChapter(olympus, "DEMONIO", "21", "69862");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
-editChapter(olympus, "DIOS POLLO", "184", "50613");
+editChapter(olympus, "MAGO DORADO", "21", "71252");
+
+//editChapter(olympus, "DIOS POLLO", "184", "50613");
