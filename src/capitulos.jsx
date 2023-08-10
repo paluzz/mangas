@@ -236,7 +236,7 @@ export const olympus = [
 
 ]
 
-editChapter(items, "MARTIAL PEAK", "3504");
+editChapter(items, "MARTIAL PEAK", "3507");
 
 editChapter(items, "YUAN ZUN", "983");
 
