@@ -3,7 +3,7 @@ import editChapter from './editar.js';
 
 const olympusLink = "https://olympusv2.gg/capitulo/";
 const samuraiLink = "https://samuraiscan.com/leer/";
-const yugenmangasLink = "https://yugenmangas.lat/series/";
+const yugenmangasLink = "https://yugenmangas.net/series/";
 const knightnoscanLink = "https://knightnoscanlation.com/sr/";
 export const items = [
     {
@@ -232,7 +232,17 @@ export const olympus = [
         link2: "/comic-mago-devorador-de-dragones",
         image: imagen.drake,
         chapter: "20"
-    },/*
+    },
+    {
+        id: "2216",
+        name: "+99 PALO",
+        link1: olympusLink,
+        midlink: "20845",
+        link2: "/comic-palito-cheto",
+        image: imagen.palo,
+        chapter: "20"
+    },
+    /*
     {
         id: "0015",
         name: "DIOS POLLO",
@@ -245,13 +255,13 @@ export const olympus = [
 
 ]
 
-editChapter(items, "MARTIAL PEAK", "3527");
+editChapter(items, "MARTIAL PEAK", "3531");
 
 editChapter(items, "YUAN ZUN", "983");
 
 editChapter(items, "second life ranker", "161");
 
-editChapter(items, "REY ESPADA", "181");
+editChapter(items, "REY ESPADA", "182");
 
 editChapter(items, "CAZADOR SUIC1D4", "91");
 
@@ -266,7 +276,7 @@ editChapter(items, "DEVORADOR", "50");
 //-------------------------------------------------------
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
-editChapter(olympus, "RANKER SSS", "72", "72983");
+editChapter(olympus, "RANKER SSS", "73", "73579");
 
 editChapter(olympus, "OVERGEARED", "190", "70888");
 
@@ -274,7 +284,7 @@ editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "42", "73070");
+editChapter(olympus, "HARD CARRY SUPPORT", "43", "73583");
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
@@ -282,21 +292,24 @@ editChapter(olympus, "PLAYER", "52", "70273");
 
 editChapter(olympus, "NECROMANCER", "97", "64919");
 
-editChapter(olympus, "MAGO INFINITO", "45", "72625");
+editChapter(olympus, "MAGO INFINITO", "47", "73657");
 
 editChapter(olympus, "MONTE HUA", "21", "39782");
 
-editChapter(olympus, "DESTINO F", "34", "72113");
+editChapter(olympus, "DESTINO F", "36", "73220");
 
-editChapter(olympus, "MULTIPLICADOR", "29", "72168");
+editChapter(olympus, "MULTIPLICADOR", "31", "73287");
 
-editChapter(olympus, "BARBARO", "25", "72688");
+editChapter(olympus, "BARBARO", "27", "73886");
 
 editChapter(olympus, "DEMONIO", "21", "69862");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
-editChapter(olympus, "MAGO DORADO", "23", "72657");
+editChapter(olympus, "MAGO DORADO", "25", "73658");
 
-editChapter(olympus, "MAGO DRAGON", "21", "72867");
+editChapter(olympus, "MAGO DRAGON", "22", "73415");
+
+editChapter(olympus, "+99 PALO", "20", "33453");
+
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
