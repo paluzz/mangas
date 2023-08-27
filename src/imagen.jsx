@@ -27,6 +27,7 @@ import priest from './img/corrupcion.jpg'
 import gold from './img/gold.jpg'
 import drake from './img/drake.jpg'
 import palo from './img/palo.jpg'
+import combat2 from './img/combat2.jpg'
 
 const imagen = {
     martial: martial,
@@ -58,5 +59,6 @@ const imagen = {
     gold: gold,
     drake: drake,
     palo: palo,
+    combat2: combat2,
 }
 export default imagen;

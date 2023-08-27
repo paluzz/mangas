@@ -71,6 +71,13 @@ export const items = [
         image: imagen.devorador,
         chapter: "50"
     },
+    {
+        id: "0099",
+        name: "COMBAT CONTINENT",
+        link: "https://www.mundodonghua.com/ver/combat-continent-2/",
+        image: imagen.combat2,
+        chapter: "11"
+    },
 
 ]
 export const olympus = [
@@ -255,7 +262,7 @@ export const olympus = [
 
 ]
 
-editChapter(items, "MARTIAL PEAK", "3531");
+editChapter(items, "MARTIAL PEAK", "3534");
 
 editChapter(items, "YUAN ZUN", "983");
 
@@ -272,6 +279,8 @@ editChapter(items, "FRANCOTIRADOR", "112");
 editChapter(items, "COME LIBROS", "100");
 
 editChapter(items, "DEVORADOR", "50");
+
+editChapter(items, "COMBAT CONTINENT", "11");
 
 //-------------------------------------------------------
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
