@@ -104,7 +104,7 @@ export const olympus = [
         name: "OVERGEARED",
         link1: olympusLink,
         midlink: "34776",
-        link2: "/comic-ya-nos-reportaron-varias-veces-por-esta-cosa",
+        link2: "/comic-esto-ya-lo-reportaron-5-veces-xddd",
         image: imagen.overgeared,
         chapter: "166"
     },
@@ -262,13 +262,13 @@ export const olympus = [
 
 ]
 
-editChapter(items, "MARTIAL PEAK", "3534");
+editChapter(items, "MARTIAL PEAK", "3537");
 
-editChapter(items, "YUAN ZUN", "983");
+editChapter(items, "YUAN ZUN", "1000");
 
 editChapter(items, "second life ranker", "161");
 
-editChapter(items, "REY ESPADA", "182");
+editChapter(items, "REY ESPADA", "183");
 
 editChapter(items, "CAZADOR SUIC1D4", "91");
 
@@ -285,7 +285,7 @@ editChapter(items, "COMBAT CONTINENT", "11");
 //-------------------------------------------------------
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
-editChapter(olympus, "RANKER SSS", "73", "73579");
+editChapter(olympus, "RANKER SSS", "74", "74730");
 
 editChapter(olympus, "OVERGEARED", "190", "70888");
 
@@ -293,7 +293,7 @@ editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "43", "73583");
+editChapter(olympus, "HARD CARRY SUPPORT", "44", "74751");
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
@@ -305,9 +305,9 @@ editChapter(olympus, "MAGO INFINITO", "47", "73657");
 
 editChapter(olympus, "MONTE HUA", "21", "39782");
 
-editChapter(olympus, "DESTINO F", "36", "73220");
+editChapter(olympus, "DESTINO F", "37", "73985");
 
-editChapter(olympus, "MULTIPLICADOR", "31", "73287");
+editChapter(olympus, "MULTIPLICADOR", "32", "74112");
 
 editChapter(olympus, "BARBARO", "27", "73886");
 
@@ -317,7 +317,7 @@ editChapter(olympus, "CORRUPCION", "11", "69700");
 
 editChapter(olympus, "MAGO DORADO", "25", "73658");
 
-editChapter(olympus, "MAGO DRAGON", "22", "73415");
+editChapter(olympus, "MAGO DRAGON", "23", "74440");
 
 editChapter(olympus, "+99 PALO", "20", "33453");
 
