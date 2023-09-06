@@ -104,7 +104,7 @@ export const olympus = [
         name: "OVERGEARED",
         link1: olympusLink,
         midlink: "34776",
-        link2: "/comic-esto-ya-lo-reportaron-5-veces-xddd",
+        link2: "/comic-el-chetado-overg3ar3d",
         image: imagen.overgeared,
         chapter: "166"
     },
@@ -159,7 +159,7 @@ export const olympus = [
         name: "MAGO INFINITO",
         link1: olympusLink,
         midlink: "67043",
-        link2: "/comic-el-mago-infinito",
+        link2: "/comic-magito-finito",
         image: imagen.infinito,
         chapter: "39"
     },
@@ -205,7 +205,7 @@ export const olympus = [
     },
     {
         id: "0202",
-        name: "DEMONIO",
+        name: "EVOLUCION DEMONIACA",
         link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
         link1: olympusLink,
         midlink: "67460",
@@ -249,6 +249,24 @@ export const olympus = [
         image: imagen.palo,
         chapter: "20"
     },
+    {
+        id: "2217",
+        name: "ACERO MILICO",
+        link1: olympusLink,
+        midlink: "20845",
+        link2: "/comic-jugador-devorador-de-acero",
+        image: imagen.acero,
+        chapter: "4"
+    },
+    {
+        id: "2218",
+        name: "MARCIAL SIN NOMBRE",
+        link1: olympusLink,
+        midlink: "74718",
+        link2: "/comic-el-dios-marcial-que-regreso-al-nivel-2",
+        image: imagen.noname,
+        chapter: "4"
+    },
     /*
     {
         id: "0015",
@@ -262,7 +280,7 @@ export const olympus = [
 
 ]
 
-editChapter(items, "MARTIAL PEAK", "3537");
+editChapter(items, "MARTIAL PEAK", "3544");
 
 editChapter(items, "YUAN ZUN", "1000");
 
@@ -280,20 +298,20 @@ editChapter(items, "COME LIBROS", "100");
 
 editChapter(items, "DEVORADOR", "50");
 
-editChapter(items, "COMBAT CONTINENT", "11");
+editChapter(items, "COMBAT CONTINENT", "12");
 
 //-------------------------------------------------------
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
-editChapter(olympus, "RANKER SSS", "74", "74730");
+editChapter(olympus, "RANKER SSS", "75", "75700");
 
-editChapter(olympus, "OVERGEARED", "190", "70888");
+editChapter(olympus, "OVERGEARED", "191", "71793");
 
 editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "44", "74751");
+editChapter(olympus, "HARD CARRY SUPPORT", "46", "75896");
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
@@ -301,24 +319,26 @@ editChapter(olympus, "PLAYER", "52", "70273");
 
 editChapter(olympus, "NECROMANCER", "97", "64919");
 
-editChapter(olympus, "MAGO INFINITO", "47", "73657");
+editChapter(olympus, "MAGO INFINITO", "48", "75731");
 
 editChapter(olympus, "MONTE HUA", "21", "39782");
 
-editChapter(olympus, "DESTINO F", "37", "73985");
+editChapter(olympus, "DESTINO F", "38", "75059");
 
-editChapter(olympus, "MULTIPLICADOR", "32", "74112");
+editChapter(olympus, "MULTIPLICADOR", "33", "75160");
 
-editChapter(olympus, "BARBARO", "27", "73886");
+editChapter(olympus, "BARBARO", "28", "74871");
 
-editChapter(olympus, "DEMONIO", "21", "69862");
+editChapter(olympus, "EVOLUCION DEMONIACA", "28", "75493");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
-editChapter(olympus, "MAGO DORADO", "25", "73658");
+editChapter(olympus, "MAGO DORADO", "26", "74802");
 
-editChapter(olympus, "MAGO DRAGON", "23", "74440");
+editChapter(olympus, "MAGO DRAGON", "24", "75274");
 
 editChapter(olympus, "+99 PALO", "20", "33453");
 
+editChapter(olympus, "ACERO MILICO", "4", "74842");
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
+editChapter(olympus, "Marcial sin nombre", "25", "75611");

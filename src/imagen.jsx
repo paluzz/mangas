@@ -28,6 +28,8 @@ import gold from './img/gold.jpg'
 import drake from './img/drake.jpg'
 import palo from './img/palo.jpg'
 import combat2 from './img/combat2.jpg'
+import acero from './img/acero.jpg'
+import noname from './img/noname.jpg'
 
 const imagen = {
     martial: martial,
@@ -53,6 +55,7 @@ const imagen = {
     barbaro: barbaro,
     necromancer: necromancer,
     infinito: infinito,
+    acero: acero,
     demon: demon,
     hua: hua,
     priest: priest,
@@ -60,5 +63,6 @@ const imagen = {
     drake: drake,
     palo: palo,
     combat2: combat2,
+    noname: noname,
 }
 export default imagen;
