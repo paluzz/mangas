@@ -3,7 +3,12 @@ export default function editChapter(items, name, chapter, midlink = '') {
   for (let i = 0; i < items.length; i++) {
     if (items[i].name.toUpperCase() === name) {
       items[i].chapter = chapter;
-      items[i].midlink = midlink;
+      if (midlink != '') {
+        items[i].midlink = midlink;
+      }
+      else {
+        items[i].midlink = chapter;
+      }
       break;
     }
   }

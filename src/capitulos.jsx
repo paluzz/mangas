@@ -1,97 +1,15 @@
-import imagen from './imagen.jsx'
+import imagen from './imagen.jsx';
 import editChapter from './editar.js';
+import ordenDias from './ordenar.js';
+import createObj from './createObj.js';
 
 const olympusLink = "https://olympusv2.gg/capitulo/";
 const samuraiLink = "https://samuraiscan.com/leer/";
 const yugenmangasLink = "https://yugenmangas.net/series/";
 const knightnoscanLink = "https://knightnoscanlation.com/sr/";
 const dia = ["Diario", "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sábado", "Domingo", "Hiatus"];
-export const items = [
-    {
-        dia: dia[0],
-        id: "0000",
-        name: "MARTIAL PEAK",
-        link: "https://manhuako.com/manhua/martial-peak/chapter-",
-        image: imagen.martial,
-        chapter: ""
-    },
-    {
-        dia: dia[0],
-        id: "0001",
-        name: "YUAN ZUN",
-        link: samuraiLink + "yuan-zun/capitulo-",
-        image: imagen.yuan,
-        chapter: "892",
-    },
-    {
-        dia: dia[8],
-        id: "0002",
-        name: "SECOND LIFE RANKER",
-        link: yugenmangasLink + "segunda-vida-para-ser-un-ranker/capitulo-",
-        image: imagen.ranker,
-        chapter: "145"
-    },
-    {
-        dia: dia[3],
-        id: "0003",
-        name: "REY ESPADA",
-        link: knightnoscanLink + "el-rey-de-la-espada-en-un-mundo-de-fantasia/capitulo-",
-        image: imagen.espada,
-        chapter: "156"
-    },
 
-    {
-        dia: dia[0],
-        id: "0007",
-        name: "CAZADOR SUIC1D4",
-        link: yugenmangasLink + "cazador-suicida-de-clase-sss/capitulo-",
-        image: imagen.suic1d3,
-        chapter: "806"
-    },
-    {
-        dia: dia[0],
-        id: "0008",
-        name: "RANKER OSO",
-        link: yugenmangasLink + "el-retorno-del-ranker-remake/capitulo-",
-        image: imagen.osito,
-        chapter: "84"
-    },
-
-    {
-        dia: dia[2],
-        id: "0012",
-        name: "FRANCOTIRADOR",
-        link: samuraiLink + "el-francotirador-de-nivel-arcano/capitulo-",
-        image: imagen.arcane,
-        chapter: "97"
-    },
-    {
-        dia: dia[8],
-        id: "0013",
-        name: "COME LIBROS",
-        link: yugenmangasLink + "el-mago-comedor-de-libros/capitulo-",
-        image: imagen.libro,
-        chapter: "80"
-    },
-    {
-        dia: dia[8],
-        id: "0014",
-        name: "DEVORADOR",
-        link: yugenmangasLink + "archimago-devorador-de-talentos/capitulo-",
-        image: imagen.devorador,
-        chapter: "50"
-    },
-    {
-        dia: dia[5],
-        id: "0099",
-        name: "COMBAT CONTINENT",
-        link: "https://www.mundodonghua.com/ver/combat-continent-2/",
-        image: imagen.combat2,
-        chapter: "11"
-    },
-
-]
-export const olympus = [
+const olympus = [
     {
         dia: dia[8],
         id: "0004",
@@ -154,7 +72,7 @@ export const olympus = [
     },
     {
         dia: dia[4],
-        id: "0100",
+        id: "01001",
         name: "PLAYER",
         link1: olympusLink,
         midlink: "28472",
@@ -166,7 +84,6 @@ export const olympus = [
         dia: dia[4],
         id: "0200",
         name: "NECROMANCER",
-        link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
         link1: olympusLink,
         midlink: "64919",
         link2: "/comic-el-nigromante-de-seul",
@@ -188,7 +105,6 @@ export const olympus = [
         id: "1005",
         name: "MONTE HUA",
         link1: olympusLink,
-        link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
         midlink: "39782",
         link2: "/comic-el-regreso-de-la-secta-del-monte-hua",
         image: imagen.hua,
@@ -209,7 +125,6 @@ export const olympus = [
         dia: dia[5],
         id: "0100",
         name: "MULTIPLICADOR",
-        link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
         link1: olympusLink,
         midlink: "65888",
         link2: "/comic-subiendo-de-nivel-con-las-mejores-habilidades",
@@ -220,7 +135,6 @@ export const olympus = [
         dia: dia[3],
         id: "0101",
         name: "BARBARO",
-        link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
         link1: olympusLink,
         midlink: "65888",
         link2: "/comic-sobreviviendo-al-juego-siendo-un-barbaro",
@@ -231,7 +145,6 @@ export const olympus = [
         dia: dia[6],
         id: "0202",
         name: "EVOLUCION DEMONIACA",
-        link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
         link1: olympusLink,
         midlink: "67460",
         link2: "/comic-evolucion-demoniaca",
@@ -310,28 +223,42 @@ export const olympus = [
     },*/
 
 ]
+const temps = [
+    createObj(dia[0], "99999", "MARTIAL PEAK", "3000", imagen.martial, "https://manhuako.com/manhua/martial-peak/chapter-"),
+    createObj(dia[0], "66666", "YUAN ZUN", "892", imagen.yuan, samuraiLink + "yuan-zun/capitulo-"),
+    createObj(dia[8], "0002", "SECOND LIFE RANKER", "", imagen.ranker, yugenmangasLink + "segunda-vida-para-ser-un-ranker/capitulo-"),
+    createObj(dia[3], "0003", "REY ESPADA", "", imagen.espada, knightnoscanLink + "el-rey-de-la-espada-en-un-mundo-de-fantasia/capitulo-"),
+    createObj(dia[0], "0007", "CAZADOR SUIC1D4", "", imagen.suic1d3, yugenmangasLink + "cazador-suicida-de-clase-sss/capitulo-"),
+    createObj(dia[0], "0008", "RANKER OSO", "", imagen.osito, yugenmangasLink + "el-retorno-del-ranker-remake/capitulo-"),
+    createObj(dia[2], "00029", "FRANCOTIRADOR", "", imagen.arcane, samuraiLink + "el-francotirador-de-nivel-arcano/capitulo-"),
+    createObj(dia[8], "00030", "COME LIBROS", "", imagen.libro, yugenmangasLink + "el-mago-comedor-de-libros/capitulo-"),
+    createObj(dia[8], "00014", "DEVORADOR", "", imagen.devorador, yugenmangasLink + "archimago-devorador-de-talentos/capitulo-"),
+    createObj(dia[5], "00099", "COMBAT CONTINENT", "", imagen.combat2, "https://www.mundodonghua.com/ver/combat-continent-2/"),
+]
+export const combinados = [...temps, ...olympus];
 
-editChapter(items, "MARTIAL PEAK", "3544");
+editChapter(combinados, "MARTIAL PEAK", "3544");
 
-editChapter(items, "YUAN ZUN", "1000");
+editChapter(temps, "YUAN ZUN", "1000");
 
-editChapter(items, "second life ranker", "161");
+editChapter(temps, "second life ranker", "161");
 
-editChapter(items, "REY ESPADA", "183");
+editChapter(temps, "REY ESPADA", "184");
 
-editChapter(items, "CAZADOR SUIC1D4", "91");
+editChapter(temps, "CAZADOR SUIC1D4", "91");
 
-editChapter(items, "RANKER OSO", "108");
+editChapter(temps, "RANKER OSO", "108");
 
-editChapter(items, "FRANCOTIRADOR", "112");
+editChapter(temps, "FRANCOTIRADOR", "112");
 
-editChapter(items, "COME LIBROS", "100");
+editChapter(temps, "COME LIBROS", "100");
 
-editChapter(items, "DEVORADOR", "50");
+editChapter(temps, "DEVORADOR", "50");
 
-editChapter(items, "COMBAT CONTINENT", "12");
+editChapter(temps, "COMBAT CONTINENT", "12");
 
-//-------------------------------------------------------
+//------------------------------------------------
+
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
 editChapter(olympus, "RANKER SSS", "75", "75700");
@@ -358,7 +285,7 @@ editChapter(olympus, "DESTINO F", "38", "75059");
 
 editChapter(olympus, "MULTIPLICADOR", "33", "75160");
 
-editChapter(olympus, "BARBARO", "28", "74871");
+editChapter(olympus, "BARBARO", "29", "75933");
 
 editChapter(olympus, "EVOLUCION DEMONIACA", "28", "75493");
 
@@ -370,6 +297,17 @@ editChapter(olympus, "MAGO DRAGON", "24", "75274");
 
 editChapter(olympus, "+99 PALO", "20", "33453");
 
-editChapter(olympus, "ACERO MILICO", "4", "74842");
-//editChapter(olympus, "DIOS POLLO", "184", "50613");
+editChapter(olympus, "ACERO MILICO", "5", "75927");
+
 editChapter(olympus, "Marcial sin nombre", "25", "75611");
+//editChapter(olympus, "DIOS POLLO", "184", "50613");
+
+
+
+
+
+
+ordenDias(combinados);
+
+
+
