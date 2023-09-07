@@ -1,4 +1,11 @@
-export function CardManga({ link, src, alt, chapter, children }) {
+import './Card.css'
+
+function Dia({ day }) {
+  const dia = 'day ' + day
+  return <div className={dia}>{day}</div>
+}
+
+export function CardManga({ link, src, alt, chapter, children, day }) {
   return (
     <div className="box">
       <div className="link">
@@ -7,9 +14,10 @@ export function CardManga({ link, src, alt, chapter, children }) {
             <div className="title">{children}</div>
             <img className="redimension" src={src} alt={alt}></img>
             <div className="chapter"># {chapter}</div>
+            <Dia day={day} />
           </a>
         </div>
-      </div>
-    </div>
+      </div >
+    </div >
   );
 }

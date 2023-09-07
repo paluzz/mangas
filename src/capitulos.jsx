@@ -5,8 +5,10 @@ const olympusLink = "https://olympusv2.gg/capitulo/";
 const samuraiLink = "https://samuraiscan.com/leer/";
 const yugenmangasLink = "https://yugenmangas.net/series/";
 const knightnoscanLink = "https://knightnoscanlation.com/sr/";
+const dia = ["Diario", "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sábado", "Domingo", "Hiatus"];
 export const items = [
     {
+        dia: dia[0],
         id: "0000",
         name: "MARTIAL PEAK",
         link: "https://manhuako.com/manhua/martial-peak/chapter-",
@@ -14,13 +16,15 @@ export const items = [
         chapter: ""
     },
     {
+        dia: dia[0],
         id: "0001",
         name: "YUAN ZUN",
         link: samuraiLink + "yuan-zun/capitulo-",
         image: imagen.yuan,
-        chapter: "892"
+        chapter: "892",
     },
     {
+        dia: dia[8],
         id: "0002",
         name: "SECOND LIFE RANKER",
         link: yugenmangasLink + "segunda-vida-para-ser-un-ranker/capitulo-",
@@ -28,6 +32,7 @@ export const items = [
         chapter: "145"
     },
     {
+        dia: dia[3],
         id: "0003",
         name: "REY ESPADA",
         link: knightnoscanLink + "el-rey-de-la-espada-en-un-mundo-de-fantasia/capitulo-",
@@ -36,6 +41,7 @@ export const items = [
     },
 
     {
+        dia: dia[0],
         id: "0007",
         name: "CAZADOR SUIC1D4",
         link: yugenmangasLink + "cazador-suicida-de-clase-sss/capitulo-",
@@ -43,6 +49,7 @@ export const items = [
         chapter: "806"
     },
     {
+        dia: dia[0],
         id: "0008",
         name: "RANKER OSO",
         link: yugenmangasLink + "el-retorno-del-ranker-remake/capitulo-",
@@ -51,6 +58,7 @@ export const items = [
     },
 
     {
+        dia: dia[2],
         id: "0012",
         name: "FRANCOTIRADOR",
         link: samuraiLink + "el-francotirador-de-nivel-arcano/capitulo-",
@@ -58,6 +66,7 @@ export const items = [
         chapter: "97"
     },
     {
+        dia: dia[8],
         id: "0013",
         name: "COME LIBROS",
         link: yugenmangasLink + "el-mago-comedor-de-libros/capitulo-",
@@ -65,6 +74,7 @@ export const items = [
         chapter: "80"
     },
     {
+        dia: dia[8],
         id: "0014",
         name: "DEVORADOR",
         link: yugenmangasLink + "archimago-devorador-de-talentos/capitulo-",
@@ -72,6 +82,7 @@ export const items = [
         chapter: "50"
     },
     {
+        dia: dia[5],
         id: "0099",
         name: "COMBAT CONTINENT",
         link: "https://www.mundodonghua.com/ver/combat-continent-2/",
@@ -82,6 +93,7 @@ export const items = [
 ]
 export const olympus = [
     {
+        dia: dia[8],
         id: "0004",
         name: "ESQUELETON SOLDIER",
         link1: olympusLink,
@@ -91,6 +103,7 @@ export const olympus = [
         chapter: "222"
     },
     {
+        dia: dia[1],
         id: "0005",
         name: "RANKER SSS",
         link1: olympusLink,
@@ -100,6 +113,7 @@ export const olympus = [
         chapter: "45"
     },
     {
+        dia: dia[5],
         id: "0006",
         name: "OVERGEARED",
         link1: olympusLink,
@@ -109,6 +123,7 @@ export const olympus = [
         chapter: "166"
     },
     {
+        dia: dia[6],
         id: "0009",
         name: "CABALLERO LANZA",
         link1: olympusLink,
@@ -118,6 +133,7 @@ export const olympus = [
         chapter: "80"
     },
     {
+        dia: dia[1],
         id: "0010",
         name: "HARD CARRY SUPPORT",
         link1: olympusLink,
@@ -127,6 +143,7 @@ export const olympus = [
         chapter: "21"
     },
     {
+        dia: dia[3],
         id: "0011",
         name: "NANOMAQUINAS",
         link1: olympusLink,
@@ -136,6 +153,7 @@ export const olympus = [
         chapter: "142"
     },
     {
+        dia: dia[4],
         id: "0100",
         name: "PLAYER",
         link1: olympusLink,
@@ -145,6 +163,7 @@ export const olympus = [
         chapter: "29"
     },
     {
+        dia: dia[4],
         id: "0200",
         name: "NECROMANCER",
         link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
@@ -155,6 +174,7 @@ export const olympus = [
         chapter: "21"
     },
     {
+        dia: dia[2],
         id: "0201",
         name: "MAGO INFINITO",
         link1: olympusLink,
@@ -164,6 +184,7 @@ export const olympus = [
         chapter: "39"
     },
     {
+        dia: dia[2],
         id: "1005",
         name: "MONTE HUA",
         link1: olympusLink,
@@ -174,6 +195,7 @@ export const olympus = [
         chapter: "21"
     },
     {
+        dia: dia[4],
         id: "0016",
         name: "DESTINO F",
         link: olympusLink,
@@ -184,6 +206,7 @@ export const olympus = [
         chapter: "1"
     },
     {
+        dia: dia[5],
         id: "0100",
         name: "MULTIPLICADOR",
         link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
@@ -194,6 +217,7 @@ export const olympus = [
         chapter: "21"
     },
     {
+        dia: dia[3],
         id: "0101",
         name: "BARBARO",
         link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
@@ -204,6 +228,7 @@ export const olympus = [
         chapter: "21"
     },
     {
+        dia: dia[6],
         id: "0202",
         name: "EVOLUCION DEMONIACA",
         link: "https://olympusscans.com/capitulo/65888/comic-subiendo-de-nivel-con-las-mejores-habilidades",
@@ -214,6 +239,7 @@ export const olympus = [
         chapter: "18"
     },
     {
+        dia: dia[5],
         id: "0203",
         name: "CORRUPCION",
         link1: olympusLink,
@@ -223,6 +249,7 @@ export const olympus = [
         chapter: "0"
     },
     {
+        dia: dia[7],
         id: "2214",
         name: "MAGO DORADO",
         link1: olympusLink,
@@ -232,6 +259,7 @@ export const olympus = [
         chapter: "20"
     },
     {
+        dia: dia[6],
         id: "2215",
         name: "MAGO DRAGON",
         link1: olympusLink,
@@ -241,6 +269,7 @@ export const olympus = [
         chapter: "20"
     },
     {
+        dia: dia[6],
         id: "2216",
         name: "+99 PALO",
         link1: olympusLink,
@@ -250,6 +279,7 @@ export const olympus = [
         chapter: "20"
     },
     {
+        dia: dia[2],
         id: "2217",
         name: "ACERO MILICO",
         link1: olympusLink,
@@ -259,6 +289,7 @@ export const olympus = [
         chapter: "4"
     },
     {
+        dia: dia[1],
         id: "2218",
         name: "MARCIAL SIN NOMBRE",
         link1: olympusLink,

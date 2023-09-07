@@ -1,0 +1,71 @@
+.day {
+    display: grid;
+    justify-self: start;
+    justify-content: center;
+    align-self: end;
+    color: white;
+    z-index: 99;
+    text-align: center;
+    width: 60px;
+    position: absolute;
+    margin-bottom: 5px;
+    border-radius: 50px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    font-size: 14px;
+}
+
+@media only screen and (max-width: 980px) {
+    .day {
+        font-size: 12px;
+        width: 50px;
+    }
+}
+
+
+@media only screen and (max-width: 750px) {
+    .day {
+        font-size: 10px;
+        width: 40px;
+    }
+}
+
+
+.Diario {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.Lunes {
+
+    background-color: rgba(213, 155, 79, 0.6);
+}
+
+.Martes {
+    background-color: rgba(255, 0, 0, 0.6);
+}
+
+.Miercoles {
+    background-color: rgba(211, 84, 0, 0.7);
+}
+
+.Jueves {
+    background-color: rgba(255, 255, 0, 0.7);
+    color: black;
+}
+
+.Viernes {
+    background-color: rgba(0, 128, 0, 0.6);
+}
+
+.Sábado {
+    background-color: rgba(0, 0, 255, 0.6);
+}
+
+.Domingo {
+    background-color: rgba(255, 0, 255, 0.6);
+}
+
+.Hiatus {
+    background-color: rgba(255, 255, 255, 0.6);
+}

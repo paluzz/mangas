@@ -18,6 +18,7 @@ export default function App() {
             src={item.image}
             alt={item.name}
             children={item.name}
+            day={item.dia}
           />
         ))}
 
@@ -29,6 +30,7 @@ export default function App() {
             src={oly.image}
             alt={oly.name}
             children={oly.name}
+            day={oly.dia}
           />
         ))}
 
