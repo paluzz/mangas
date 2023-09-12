@@ -237,7 +237,7 @@ const temps = [
 ]
 export const combinados = [...temps, ...olympus];
 
-editChapter(combinados, "MARTIAL PEAK", "3544");
+editChapter(combinados, "MARTIAL PEAK", "3549");
 
 editChapter(temps, "YUAN ZUN", "1000");
 
@@ -255,13 +255,13 @@ editChapter(temps, "COME LIBROS", "100");
 
 editChapter(temps, "DEVORADOR", "50");
 
-editChapter(temps, "COMBAT CONTINENT", "12");
+editChapter(temps, "COMBAT CONTINENT", "13");
 
 //------------------------------------------------
 
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
-editChapter(olympus, "RANKER SSS", "75", "75700");
+editChapter(olympus, "RANKER SSS", "76", "76475");
 
 editChapter(olympus, "OVERGEARED", "191", "71793");
 
@@ -281,25 +281,25 @@ editChapter(olympus, "MAGO INFINITO", "48", "75731");
 
 editChapter(olympus, "MONTE HUA", "21", "39782");
 
-editChapter(olympus, "DESTINO F", "38", "75059");
+editChapter(olympus, "DESTINO F", "39", "75989");
 
-editChapter(olympus, "MULTIPLICADOR", "33", "75160");
+editChapter(olympus, "MULTIPLICADOR", "34", "76106");
 
 editChapter(olympus, "BARBARO", "29", "75933");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "28", "75493");
+editChapter(olympus, "EVOLUCION DEMONIACA", "29", "76290");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
-editChapter(olympus, "MAGO DORADO", "26", "74802");
+editChapter(olympus, "MAGO DORADO", "27", "75743");
 
-editChapter(olympus, "MAGO DRAGON", "24", "75274");
+editChapter(olympus, "MAGO DRAGON", "25", "76223");
 
 editChapter(olympus, "+99 PALO", "20", "33453");
 
 editChapter(olympus, "ACERO MILICO", "5", "75927");
 
-editChapter(olympus, "Marcial sin nombre", "25", "75611");
+editChapter(olympus, "Marcial sin nombre", "26", "76413");
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
 
