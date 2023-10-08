@@ -30,6 +30,7 @@ import palo from './img/palo.jpg'
 import combat2 from './img/combat2.jpg'
 import acero from './img/acero.jpg'
 import noname from './img/noname.jpg'
+import summoner from './img/summoner.jpg'
 
 const imagen = {
     martial: martial,
@@ -64,5 +65,6 @@ const imagen = {
     palo: palo,
     combat2: combat2,
     noname: noname,
+    summoner: summoner,
 }
 export default imagen;
