@@ -8,7 +8,7 @@ import overgeared from './img/overgeared.jpg'
 import suic1d3 from './img/suicida.jpg'
 import osito from './img/osito.jpg'
 import lanza from './img/lanza.jpg'
-import monster from './img/monster.png'
+import monster from './img/monster.jpg'
 import nano from './img/nano.jpg'
 import arcane from './img/arcane.jpg'
 import libro from './img/libro.jpg'
@@ -31,8 +31,10 @@ import combat2 from './img/combat2.jpg'
 import acero from './img/acero.jpg'
 import noname from './img/noname.jpg'
 import summoner from './img/summoner.jpg'
-
+import guadana from './img/guadana.jpg'
+import futuro from './img/futuro.jpg'
 const imagen = {
+    futuro: futuro,
     martial: martial,
     yuan: yuan,
     ranker: ranker,
@@ -58,6 +60,7 @@ const imagen = {
     infinito: infinito,
     acero: acero,
     demon: demon,
+    guadana: guadana,
     hua: hua,
     priest: priest,
     gold: gold,
