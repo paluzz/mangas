@@ -33,8 +33,10 @@ import noname from './img/noname.jpg'
 import summoner from './img/summoner.jpg'
 import guadana from './img/guadana.jpg'
 import futuro from './img/futuro.jpg'
+import arbol from './img/arbol.jpg'
 const imagen = {
     futuro: futuro,
+    arbol: arbol,
     martial: martial,
     yuan: yuan,
     ranker: ranker,
