@@ -34,7 +34,11 @@ import summoner from './img/summoner.jpg'
 import guadana from './img/guadana.jpg'
 import futuro from './img/futuro.jpg'
 import arbol from './img/arbol.jpg'
+import godzilla from './img/godzilla.jpg'
+import nonivel from './img/nonivel.jpg'
 const imagen = {
+    nonivel: nonivel,
+    godzilla: godzilla,
     futuro: futuro,
     arbol: arbol,
     martial: martial,

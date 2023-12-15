@@ -3,7 +3,7 @@ import editChapter from './editar.js';
 import ordenDias from './ordenar.js';
 import createObj from './createObj.js';
 
-const olympusLink = "https://olympusv2.gg/capitulo/";
+const olympusLink = "https://olympusvisor.com/capitulo/";
 const samuraiLink = "https://samuraiscan.com/leer/";
 const yugenmangasLink = "https://yugenmangas.lat/series/";
 const knightnoscanLink = "https://knightnoscanlation.com/sr/";
@@ -21,7 +21,7 @@ const olympus = [
         chapter: "222"
     },
     {
-        dia: dia[1],
+        dia: dia[8],
         id: "0005",
         name: "RANKER SSS",
         link1: olympusLink,
@@ -83,7 +83,7 @@ const olympus = [
     {
         dia: dia[4],
         id: "0200",
-        name: "NECROMANCER",
+        name: "SEUL NECROMANCER",
         link1: olympusLink,
         midlink: "64919",
         link2: "/comic-el-nigromante-de-seul",
@@ -96,7 +96,7 @@ const olympus = [
         name: "MAGO INFINITO",
         link1: olympusLink,
         midlink: "67043",
-        link2: "/comic-shirone-el-infinit0",
+        link2: "/comic-shirone-el-infinit077",
         image: imagen.infinito,
         chapter: "39"
     },
@@ -137,7 +137,7 @@ const olympus = [
         name: "BARBARO",
         link1: olympusLink,
         midlink: "65888",
-        link2: "/comic-sobreviviendo-al-juego-siendo-un-barbaro",
+        link2: "/comic-dave-el-barbarooo",
         image: imagen.barbaro,
         chapter: "21"
     },
@@ -251,6 +251,36 @@ const olympus = [
         image: imagen.arbol,
         chapter: "1"
     },
+    {
+        dia: dia[2],
+        id: "9654654655",
+        name: "DEVORADOR",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-el-mago-devorador-de-talentos",
+        image: imagen.devorador,
+        chapter: "1"
+    },
+    {
+        dia: dia[1],
+        id: "9654654656",
+        name: "GODZILLA",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-renacido-como-un-monstruo-el-auge-del-dios-bestia",
+        image: imagen.godzilla,
+        chapter: "1"
+    },
+    {
+        dia: dia[7],
+        id: "9654654657",
+        name: "JUGADOR NO PUEDE SUBIR NIVEL",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-el-jugador-que-no-puede-subir-de-nivel",
+        image: imagen.nonivel,
+        chapter: "1"
+    },
     /*
     {
         id: "0015",
@@ -272,12 +302,11 @@ const temps = [
     createObj(dia[2], "0008", "RANKER OSO", "", imagen.osito, yugenmangasLink + "el-retorno-del-ranker-remake/capitulo-"),
     createObj(dia[2], "00029", "FRANCOTIRADOR", "", imagen.arcane, samuraiLink + "el-francotirador-de-nivel-arcano/capitulo-"),
     createObj(dia[5], "00030", "COME LIBROS", "", imagen.libro, yugenmangasLink + "el-mago-comedor-de-libros/capitulo-"),
-    createObj(dia[8], "00014", "DEVORADOR", "", imagen.devorador, yugenmangasLink + "archimago-devorador-de-talentos/capitulo-"),
     createObj(dia[6], "00099", "COMBAT CONTINENT", "", imagen.combat2, "https://www.mundodonghua.com/ver/combat-continent-2/"),
 ]
 export const combinados = [...temps, ...olympus];
 
-editChapter(combinados, "MARTIAL PEAK", "3606");
+editChapter(combinados, "MARTIAL PEAK", "3633");
 
 editChapter(temps, "YUAN ZUN", "1024");
 
@@ -285,7 +314,7 @@ editChapter(temps, "second life ranker", "161");
 
 editChapter(temps, "REY ESPADA", "186");
 
-editChapter(temps, "CAZADOR SUIC1D4", "100");
+editChapter(temps, "CAZADOR SUIC1D4", "104");
 
 editChapter(temps, "RANKER OSO", "110");
 
@@ -293,15 +322,13 @@ editChapter(temps, "FRANCOTIRADOR", "112");
 
 editChapter(temps, "COME LIBROS", "107");
 
-editChapter(temps, "DEVORADOR", "50");
-
-editChapter(temps, "COMBAT CONTINENT", "21");
+editChapter(temps, "COMBAT CONTINENT", "26");
 
 //------------------------------------------------
 
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
-editChapter(olympus, "RANKER SSS", "84", "81681");
+editChapter(olympus, "RANKER SSS", "85", "82093");
 
 editChapter(olympus, "OVERGEARED", "191", "71793");
 
@@ -315,19 +342,19 @@ editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
 editChapter(olympus, "PLAYER", "52", "70273");
 
-editChapter(olympus, "NECROMANCER", "107", "81344");
+editChapter(olympus, "SEUL NECROMANCER", "108", "81823");
 
-editChapter(olympus, "MAGO INFINITO", "56", "81708");
+editChapter(olympus, "MAGO INFINITO", "60", "84295");
 
 editChapter(olympus, "MONTE HUA", "21", "39782");
 
 editChapter(olympus, "DESTINO F", "47", "81335");
 
-editChapter(olympus, "MULTIPLICADOR", "42", "81412");
+editChapter(olympus, "MULTIPLICADOR", "43", "81878");
 
-editChapter(olympus, "BARBARO", "38", "81792");
+editChapter(olympus, "BARBARO", "43", "84367");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "35", "81181");
+editChapter(olympus, "EVOLUCION DEMONIACA", "40", "84409");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
@@ -339,15 +366,22 @@ editChapter(olympus, "+99 PALO", "20", "33453");
 
 editChapter(olympus, "ACERO MILICO", "10", "79421");
 
-editChapter(olympus, "Marcial sin nombre", "34", "81641");
+editChapter(olympus, "Marcial sin nombre", "39", "84251");
 
-editChapter(olympus, "SUMMONER", "34", "81507");
+editChapter(olympus, "SUMMONER", "44", "84107");
 
-editChapter(olympus, "BLACK SCYTHE", "26", "81713");
+editChapter(olympus, "BLACK SCYTHE", "31", "84297");
 
-editChapter(olympus, "10.000 años futuro", "69", "81541");
+editChapter(olympus, "10.000 años futuro", "78", "84400");
 
-editChapter(olympus, "Arbol Divino", "60", "63841");
+editChapter(olympus, "Arbol Divino", "99", "74082");
+
+editChapter(olympus, "DEVORADOR", "52", "84307");
+
+editChapter(olympus, "GODZILLA", "49", "84130");
+
+editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "128", "84150");
+
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
 
