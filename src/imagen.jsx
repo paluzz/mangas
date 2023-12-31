@@ -36,7 +36,9 @@ import futuro from './img/futuro.jpg'
 import arbol from './img/arbol.jpg'
 import godzilla from './img/godzilla.jpg'
 import nonivel from './img/nonivel.jpg'
+import demonlord from './img/demonlord.webp'
 const imagen = {
+    demonlord: demonlord,
     nonivel: nonivel,
     godzilla: godzilla,
     futuro: futuro,

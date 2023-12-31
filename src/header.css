@@ -1,0 +1,37 @@
+.header {
+    display: block;
+    background-color: #202b38;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px grey solid;
+}
+
+.MainTitle {
+    font-size: 36px;
+}
+
+.footer {
+    display: flex;
+    text-decoration: dashed;
+    padding: 10px;
+
+    border-top: 3px grey solid;
+}
+
+.mensaje {
+    width: -webkit-fill-available;
+    height: 20px;
+    text-align: center;
+    color: white;
+}
+
+.github {
+
+    height: 20px;
+    text-align: right;
+    color: white;
+}
+
+.github:hover {
+    color: grey;
+}

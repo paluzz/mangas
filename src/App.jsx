@@ -1,11 +1,12 @@
 import './styles.css'
 import { CardManga } from './card.jsx'
 import { combinados } from './capitulos.jsx'
+import { Header, Footer } from './Header.jsx'
 
 export default function App() {
   return (
     <div className="App">
-      <h1>Mangas</h1>
+      <Header />
       <div className="container">
         {combinados.map(temp => (
           <CardManga
@@ -18,8 +19,8 @@ export default function App() {
             day={temp.dia}
           />
         ))}
-
       </div>
+      <Footer />
     </div>
   );
 }
