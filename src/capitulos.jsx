@@ -21,7 +21,7 @@ const olympus = [
         chapter: "222"
     },
     {
-        dia: dia[8],
+        dia: dia[1],
         id: "0005",
         name: "RANKER SSS",
         link1: olympusLink,
@@ -358,7 +358,7 @@ editChapter(temps, "COMBAT CONTINENT", "30");
 
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
-editChapter(olympus, "RANKER SSS", "86", "85708");
+editChapter(olympus, "RANKER SSS", "87", "85956");
 
 editChapter(olympus, "OVERGEARED", "191", "71793");
 
@@ -396,9 +396,9 @@ editChapter(olympus, "DEVORADOR", "55", "85704");
 
 editChapter(olympus, "+99 PALO", "20", "33453");
 
-editChapter(olympus, "ACERO MILICO", "22", "85263");
+editChapter(olympus, "ACERO MILICO", "23", "85953");
 
-editChapter(olympus, "Marcial sin nombre", "42", "85617");
+editChapter(olympus, "Marcial sin nombre", "43", "85938");
 
 editChapter(olympus, "SUMMONER", "51", "85880");
 
@@ -416,7 +416,7 @@ editChapter(olympus, "SEÑOR DEMONIO", "18", "85522");
 
 editChapter(olympus, "PALADIN", "2", "85887");
 
-editChapter(olympus, "CIVILIZACION NEBULA", "15", "85958");
+editChapter(olympus, "CIVILIZACION NEBULA", "17", "85996");
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
