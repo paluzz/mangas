@@ -38,7 +38,9 @@ import godzilla from './img/godzilla.jpg'
 import nonivel from './img/nonivel.jpg'
 import demonlord from './img/demonlord.webp'
 import paladin from './img/paladin.webp'
+import nebula from './img/nebula.jpg'
 const imagen = {
+    nebula: nebula,
     paladin: paladin,
     demonlord: demonlord,
     nonivel: nonivel,

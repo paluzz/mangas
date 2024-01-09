@@ -301,6 +301,16 @@ const olympus = [
         image: imagen.paladin,
         chapter: "1"
     },
+    {
+        dia: dia[1],
+        id: "9654654658",
+        name: "CIVILIZACION NEBULA",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-civilizacion-nebula",
+        image: imagen.nebula,
+        chapter: "1"
+    },
     /*
     {
         id: "0015",
@@ -390,7 +400,7 @@ editChapter(olympus, "ACERO MILICO", "22", "85263");
 
 editChapter(olympus, "Marcial sin nombre", "42", "85617");
 
-editChapter(olympus, "SUMMONER", "50", "85830");
+editChapter(olympus, "SUMMONER", "51", "85880");
 
 editChapter(olympus, "BLACK SCYTHE", "34", "85680");
 
@@ -400,11 +410,13 @@ editChapter(olympus, "Arbol Divino", "99", "74082");
 
 editChapter(olympus, "GODZILLA", "49", "84130");
 
-editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "130", "85052");
+editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "131", "85641");
 
 editChapter(olympus, "SEÑOR DEMONIO", "18", "85522");
 
-editChapter(olympus, "PALADIN", "1", "85535");
+editChapter(olympus, "PALADIN", "2", "85887");
+
+editChapter(olympus, "CIVILIZACION NEBULA", "15", "85958");
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
