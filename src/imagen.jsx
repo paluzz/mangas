@@ -39,7 +39,9 @@ import nonivel from './img/nonivel.jpg'
 import demonlord from './img/demonlord.webp'
 import paladin from './img/paladin.webp'
 import nebula from './img/nebula.jpg'
+import necfuerza from './img/necfuerza.jpg'
 const imagen = {
+    necfuerza: necfuerza,
     nebula: nebula,
     paladin: paladin,
     demonlord: demonlord,

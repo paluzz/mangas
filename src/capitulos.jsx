@@ -311,6 +311,16 @@ const olympus = [
         image: imagen.nebula,
         chapter: "1"
     },
+    {
+        dia: dia[1],
+        id: "9654654658",
+        name: "NIGROMANTE FUERZA",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-nigromante-de-fuerza-maxima-olympus-ver",
+        image: imagen.necfuerza,
+        chapter: "1"
+    },
     /*
     {
         id: "0015",
@@ -380,13 +390,13 @@ editChapter(olympus, "DESTINO F", "54", "84854");
 
 editChapter(olympus, "MULTIPLICADOR", "43", "81878");
 
-editChapter(olympus, "BARBARO", "46", "85743");
+editChapter(olympus, "BARBARO", "47", "86112");
 
 editChapter(olympus, "EVOLUCION DEMONIACA", "43", "85805");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
-editChapter(olympus, "MAGO INFINITO", "62", "85160");
+editChapter(olympus, "MAGO INFINITO", "63", "86001");
 
 editChapter(olympus, "MAGO DORADO", "32", "79630");
 
@@ -402,13 +412,13 @@ editChapter(olympus, "Marcial sin nombre", "43", "85938");
 
 editChapter(olympus, "SUMMONER", "51", "85880");
 
-editChapter(olympus, "BLACK SCYTHE", "34", "85680");
+editChapter(olympus, "BLACK SCYTHE", "35", "86004");
 
-editChapter(olympus, "10.000 años futuro", "81", "85747");
+editChapter(olympus, "10.000 años futuro", "85", "86172");
 
 editChapter(olympus, "Arbol Divino", "99", "74082");
 
-editChapter(olympus, "GODZILLA", "49", "84130");
+editChapter(olympus, "GODZILLA", "51", "86156");
 
 editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "131", "85641");
 
@@ -416,7 +426,9 @@ editChapter(olympus, "SEÑOR DEMONIO", "18", "85522");
 
 editChapter(olympus, "PALADIN", "2", "85887");
 
-editChapter(olympus, "CIVILIZACION NEBULA", "17", "85996");
+editChapter(olympus, "CIVILIZACION NEBULA", "25", "86072");
+
+editChapter(olympus, "NIGROMANTE FUERZA", "25", "86072");
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
