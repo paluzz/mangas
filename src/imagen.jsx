@@ -12,7 +12,7 @@ import monster from './img/monster.jpg'
 import nano from './img/nano.jpg'
 import arcane from './img/arcane.jpg'
 import libro from './img/libro.jpg'
-import devorador from './img/archimago.jpg'
+import devoratalento from './img/archimago.jpg'
 import pollo from './img/pollo.jpg'
 import player from './img/player.jpg'
 import soporte from './img/support.jpg'
@@ -40,6 +40,7 @@ import demonlord from './img/demonlord.webp'
 import paladin from './img/paladin.webp'
 import nebula from './img/nebula.jpg'
 import necfuerza from './img/necfuerza.jpg'
+import devorador from './img/devorador.jpg'
 const imagen = {
     necfuerza: necfuerza,
     nebula: nebula,
@@ -63,6 +64,7 @@ const imagen = {
     nano: nano,
     arcane: arcane,
     libro: libro,
+    devoratalento: devoratalento,
     devorador: devorador,
     pollo: pollo,
     player: player,
