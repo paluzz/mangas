@@ -41,7 +41,9 @@ import paladin from './img/paladin.webp'
 import nebula from './img/nebula.jpg'
 import necfuerza from './img/necfuerza.jpg'
 import devorador from './img/devorador.jpg'
+import heroe from './img/heroe.jpg'
 const imagen = {
+    heroe: heroe,
     necfuerza: necfuerza,
     nebula: nebula,
     paladin: paladin,
