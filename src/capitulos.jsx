@@ -3,9 +3,9 @@ import editChapter from './editar.js';
 import ordenDias from './ordenar.js';
 import createObj from './createObj.js';
 
-const olympusLink = "https://olympusvisor.com/capitulo/";
+const olympusLink = "https://visorolym.com/capitulo/";
 const samuraiLink = "https://samuraiscan.com/leer/";
-const yugenmangasLink = "https://yugenmangas.lat/series/";
+const yugenmangasLink = "https://ikigaimangas.com/";
 const knightnoscanLink = "https://knightnoscanlation.com/sr/";
 const dia = ["Diario", "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sábado", "Domingo", "Hiatus"];
 
@@ -23,10 +23,10 @@ const olympus = [
     {
         dia: dia[1],
         id: "0005",
-        name: "RANKER SSS",
+        name: "BERSEKER",
         link1: olympusLink,
         midlink: "35154",
-        link2: "/comic-regreso-del-ranker-de-clase-sss",
+        link2: "/comic-regreso-del-ranker-de-clase-sss5324",
         image: imagen.hacha,
         chapter: "45"
     },
@@ -51,12 +51,12 @@ const olympus = [
         chapter: "80"
     },
     {
-        dia: dia[8],
+        dia: dia[2],
         id: "0010",
         name: "HARD CARRY SUPPORT",
         link1: olympusLink,
         midlink: "34874",
-        link2: "/comic-los-chicos-con-hacks",
+        link2: "/comic-los-chicos-con-hacks5324",
         image: imagen.soporte,
         chapter: "21"
     },
@@ -132,12 +132,12 @@ const olympus = [
         chapter: "21"
     },
     {
-        dia: dia[3],
+        dia: dia[8], //dia[3],
         id: "0101",
         name: "BARBARO",
         link1: olympusLink,
         midlink: "85224",
-        link2: "/comic-dave-el-barbarooo3",
+        link2: "/comic-b4rb4r1n-53065",
         image: imagen.barbaro,
         chapter: "21"
     },
@@ -147,7 +147,7 @@ const olympus = [
         name: "EVOLUCION DEMONIACA",
         link1: olympusLink,
         midlink: "67460",
-        link2: "/comic-evolucion-demoniaca",
+        link2: "/comic-evolucion-demoniaca53065062",
         image: imagen.demon,
         chapter: "18"
     },
@@ -194,10 +194,10 @@ const olympus = [
     {
         dia: dia[2],
         id: "2217",
-        name: "ACERO MILICO",
+        name: "SOLDADO DE ACERO",
         link1: olympusLink,
         midlink: "20845",
-        link2: "/comic-soldado-de-acero8812",
+        link2: "/comic-ac3ro-53065062",
         image: imagen.acero,
         chapter: "4"
     },
@@ -207,7 +207,7 @@ const olympus = [
         name: "MARCIAL SIN NOMBRE",
         link1: olympusLink,
         midlink: "74718",
-        link2: "/comic-el-dios-marcial-que-regreso-al-nivel-2",
+        link2: "/comic-dios-marcial-que-regreso773445e",
         image: imagen.noname,
         chapter: "4"
     },
@@ -222,7 +222,7 @@ const olympus = [
         chapter: "4"
     },
     {
-        dia: dia[2],
+        dia: dia[8],
         id: "9876",
         name: "BLACK SCYTHE",
         link1: olympusLink,
@@ -237,7 +237,7 @@ const olympus = [
         name: "10.000 AÑOS FUTURO",
         link1: olympusLink,
         midlink: "81289",
-        link2: "/comic-iniciando-sesion-en-10000-anos-en-el-futuro1924812088",
+        link2: "/comic-isecaikrarochino201230",
         image: imagen.futuro,
         chapter: "1"
     },
@@ -307,7 +307,7 @@ const olympus = [
         name: "CIVILIZACION NEBULA",
         link1: olympusLink,
         midlink: "81289",
-        link2: "/comic-civilizacion-nebula",
+        link2: "/comic-nebl4-blu3-53062",
         image: imagen.nebula,
         chapter: "1"
     },
@@ -327,7 +327,7 @@ const olympus = [
         name: "JEFE DEVORADOR",
         link1: olympusLink,
         midlink: "81289",
-        link2: "/comic-actue-como-un-jefecito-final-sr-devorador",
+        link2: "/comic-actue-como-un-jefecito-final-sr-devorador5324",
         image: imagen.devorador,
         chapter: "1"
     },
@@ -356,9 +356,9 @@ const olympus = [
 const temps = [
     createObj(dia[0], "99999", "MARTIAL PEAK", "3000", imagen.martial, "https://manhuako.com/manhua/martial-peak/chapter-"),
     createObj(dia[0], "66666", "YUAN ZUN", "892", imagen.yuan, samuraiLink + "yuan-zun/capitulo-"),
-    createObj(dia[8], "0002", "SECOND LIFE RANKER", "", imagen.ranker, yugenmangasLink + "segunda-vida-para-ser-un-ranker/capitulo-"),
-    createObj(dia[8], "0003", "REY ESPADA", "", imagen.espada, knightnoscanLink + "el-flipante-rey-de-la-espada/capitulo-"),
-    createObj(dia[7], "0007", "CAZADOR SUIC1D4", "", imagen.suic1d3, yugenmangasLink + "cazador-suicida-de-clase-sss/capitulo-"),
+    createObj(dia[8], "0002", "SECOND LIFE RANKER", "", imagen.ranker, yugenmangasLink + "capitulo/"),
+    createObj(dia[3], "0003", "REY ESPADA", "", imagen.espada, knightnoscanLink + "el-flipante-rey-de-la-espada/capitulo-"),
+    createObj(dia[7], "0007", "CAZADOR SUIC1D4", "", imagen.suic1d3, yugenmangasLink + "capitulo/"),
     createObj(dia[2], "0008", "RANKER OSO", "", imagen.osito, yugenmangasLink + "el-retorno-del-ranker-remake/capitulo-"),
     createObj(dia[2], "00029", "FRANCOTIRADOR", "", imagen.arcane, samuraiLink + "el-francotirador-de-nivel-arcano/capitulo-"),
     createObj(dia[5], "00030", "COME LIBROS", "", imagen.libro, yugenmangasLink + "el-mago-comedor-de-libros/capitulo-"),
@@ -370,11 +370,11 @@ editChapter(combinados, "MARTIAL PEAK", "3671");
 
 editChapter(temps, "YUAN ZUN", "1024");
 
-editChapter(temps, "second life ranker", "161");
+editChapter(temps, "second life ranker", "162", "950300425161146369");
 
-editChapter(temps, "REY ESPADA", "186");
+editChapter(temps, "REY ESPADA", "196");
 
-editChapter(temps, "CAZADOR SUIC1D4", "104");
+editChapter(temps, "CAZADOR SUIC1D4", "104", "923135996358393857");
 
 editChapter(temps, "RANKER OSO", "110");
 
@@ -382,13 +382,13 @@ editChapter(temps, "FRANCOTIRADOR", "112");
 
 editChapter(temps, "COME LIBROS", "107");
 
-editChapter(temps, "COMBAT CONTINENT", "35");
+editChapter(temps, "COMBAT CONTINENT", "40");
 
 //------------------------------------------------
 
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
-editChapter(olympus, "RANKER SSS", "91", "87644");
+editChapter(olympus, "BERSEKER", "97", "90095");
 
 editChapter(olympus, "OVERGEARED", "191", "71793");
 
@@ -396,7 +396,7 @@ editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "50", "79171");
+editChapter(olympus, "HARD CARRY SUPPORT", "57", "90096");
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
@@ -410,9 +410,9 @@ editChapter(olympus, "DESTINO F", "54", "84854");
 
 editChapter(olympus, "MULTIPLICADOR", "50", "87463");
 
-editChapter(olympus, "BARBARO", "51", "87697");
+editChapter(olympus, "BARBARO", "53", "88635");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "47", "87685");
+editChapter(olympus, "EVOLUCION DEMONIACA", "51", "89801");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
@@ -426,31 +426,31 @@ editChapter(olympus, "DEVORADOR", "58", "86829");
 
 editChapter(olympus, "+99 PALO", "20", "33453");
 
-editChapter(olympus, "ACERO MILICO", "28", "87671");
+editChapter(olympus, "SOLDADO DE ACERO", "33", "89958");
 
-editChapter(olympus, "Marcial sin nombre", "46", "87617");
+editChapter(olympus, "Marcial sin nombre", "51", "89615");
 
-editChapter(olympus, "SUMMONER", "60", "87857");
+editChapter(olympus, "SUMMONER", "70", "90006");
 
-editChapter(olympus, "BLACK SCYTHE", "39", "87647");
+editChapter(olympus, "BLACK SCYTHE", "41", "88523");
 
-editChapter(olympus, "10.000 años futuro", "92", "87706");
+editChapter(olympus, "10.000 años futuro", "102", "89954");
 
 editChapter(olympus, "Arbol Divino", "99", "74082");
 
-editChapter(olympus, "GODZILLA", "54", "87605");
+editChapter(olympus, "GODZILLA", "55", "87881");
 
-editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "136", "87919");
+editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "140", "89576");
 
-editChapter(olympus, "SEÑOR DEMONIO", "21", "86930");
+editChapter(olympus, "SEÑOR DEMONIO", "22", "89584");
 
-editChapter(olympus, "PALADIN", "5", "87573");
+editChapter(olympus, "PALADIN", "8", "89570");
 
-editChapter(olympus, "CIVILIZACION NEBULA", "29", "87625");
+editChapter(olympus, "CIVILIZACION NEBULA", "35", "90085");
 
-editChapter(olympus, "NIGROMANTE FUERZA", "10", "87745");
+editChapter(olympus, "NIGROMANTE FUERZA", "11", "88155");
 
-editChapter(olympus, "JEFE DEVORADOR", "27", "87470");
+editChapter(olympus, "JEFE DEVORADOR", "33", "89887");
 
 editChapter(olympus, "El sucesor de los Heroes", "48", "86701");
 
