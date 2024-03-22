@@ -356,7 +356,7 @@ const olympus = [
 const temps = [
     createObj(dia[0], "99999", "MARTIAL PEAK", "3000", imagen.martial, "https://manhuako.com/manhua/martial-peak/chapter-"),
     createObj(dia[0], "66666", "YUAN ZUN", "892", imagen.yuan, samuraiLink + "yuan-zun/capitulo-"),
-    createObj(dia[8], "0002", "SECOND LIFE RANKER", "", imagen.ranker, yugenmangasLink + "capitulo/"),
+    createObj(dia[1], "0002", "SECOND LIFE RANKER", "", imagen.ranker, yugenmangasLink + "capitulo/"),
     createObj(dia[3], "0003", "REY ESPADA", "", imagen.espada, knightnoscanLink + "el-flipante-rey-de-la-espada/capitulo-"),
     createObj(dia[7], "0007", "CAZADOR SUIC1D4", "", imagen.suic1d3, yugenmangasLink + "capitulo/"),
     createObj(dia[2], "0008", "RANKER OSO", "", imagen.osito, yugenmangasLink + "el-retorno-del-ranker-remake/capitulo-"),
@@ -370,7 +370,7 @@ editChapter(combinados, "MARTIAL PEAK", "3671");
 
 editChapter(temps, "YUAN ZUN", "1024");
 
-editChapter(temps, "second life ranker", "162", "950300425161146369");
+editChapter(temps, "second life ranker", "162", "950300434213011457");
 
 editChapter(temps, "REY ESPADA", "196");
 
@@ -434,7 +434,7 @@ editChapter(olympus, "SUMMONER", "70", "90006");
 
 editChapter(olympus, "BLACK SCYTHE", "41", "88523");
 
-editChapter(olympus, "10.000 años futuro", "102", "89954");
+editChapter(olympus, "10.000 años futuro", "103", "90191");
 
 editChapter(olympus, "Arbol Divino", "99", "74082");
 
