@@ -42,7 +42,9 @@ import nebula from './img/nebula.jpg'
 import necfuerza from './img/necfuerza.jpg'
 import devorador from './img/devorador.jpg'
 import heroe from './img/heroe.jpg'
+import marcialKing from './img/marcialKing.jpg'
 const imagen = {
+    marcialKing: marcialKing,
     heroe: heroe,
     necfuerza: necfuerza,
     nebula: nebula,
