@@ -3,10 +3,10 @@ import editChapter from './editar.js';
 import ordenDias from './ordenar.js';
 import createObj from './createObj.js';
 
-const olympusLink = "https://leelolympus.com//capitulo/";
+const olympusLink = "https://leelolympus.com/capitulo/";
 const samuraiLink = "https://samuraiscan.com/leer/";
 const yugenmangasLink = "https://ikigaimangas.com/";
-const knightnoscanLink = "https://knightnoscanlation.com/sr/";
+const knightnoscanLink = "https://lectorkns.com/sr/";
 const dia = ["Diario", "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sábado", "Domingo", "Hiatus"];
 
 const olympus = [
@@ -277,7 +277,7 @@ const olympus = [
         name: "JUGADOR NO PUEDE SUBIR NIVEL",
         link1: olympusLink,
         midlink: "81289",
-        link2: "/comic-el-jugador-que-no-puede-subir-de-nive5324",
+        link2: "/comic-subiendodenivelqque-nunca-acaba13424",
         image: imagen.nonivel,
         chapter: "1"
     },
@@ -382,7 +382,7 @@ editChapter(temps, "YUAN ZUN", "1024");
 
 editChapter(temps, "second life ranker", "166", "957787308668190723");
 
-editChapter(temps, "REY ESPADA", "203");
+editChapter(temps, "REY ESPADA", "204");
 
 editChapter(temps, "CAZADOR SUIC1D4", "104", "923135996358393857");
 
@@ -392,7 +392,7 @@ editChapter(temps, "FRANCOTIRADOR", "112");
 
 editChapter(temps, "COME LIBROS", "107");
 
-editChapter(temps, "COMBAT CONTINENT", "45");
+editChapter(temps, "COMBAT CONTINENT", "46");
 
 //------------------------------------------------
 
@@ -440,7 +440,7 @@ editChapter(olympus, "SOLDADO DE ACERO", "36", "91788");
 
 editChapter(olympus, "Marcial sin nombre", "51", "89615");
 
-editChapter(olympus, "SUMMONER", "79", "92152");
+editChapter(olympus, "SUMMONER", "81", "92448");
 
 editChapter(olympus, "BLACK SCYTHE", "41", "88523");
 
@@ -450,7 +450,7 @@ editChapter(olympus, "Arbol Divino", "99", "74082");
 
 editChapter(olympus, "GODZILLA", "55", "87881");
 
-editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "145", "92230");
+editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "146", "92481");
 
 editChapter(olympus, "SEÑOR DEMONIO", "22", "89584");
 
@@ -464,7 +464,7 @@ editChapter(olympus, "JEFE DEVORADOR", "37", "92087");
 
 editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 
-editChapter(olympus, "REY MARCIAL", "25", "91897");
+editChapter(olympus, "REY MARCIAL", "26", "92505");
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
 
