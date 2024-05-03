@@ -237,7 +237,7 @@ const olympus = [
         name: "10.000 AÑOS FUTURO",
         link1: olympusLink,
         midlink: "81289",
-        link2: "/comic-isecaikrarochino20123012w441",
+        link2: "/comic-isecaikrarochino13424",
         image: imagen.futuro,
         chapter: "1"
     },
@@ -307,7 +307,7 @@ const olympus = [
         name: "CIVILIZACION NEBULA",
         link1: olympusLink,
         midlink: "81289",
-        link2: "/comic-nebl4-blu3-53062",
+        link2: "/comic-nebl4-blu3-1n",
         image: imagen.nebula,
         chapter: "1"
     },
@@ -351,6 +351,16 @@ const olympus = [
         image: imagen.marcialKing,
         chapter: "1"
     },
+    {
+        dia: dia[4],
+        id: "96541111112",
+        name: "WAIFU INSECTO",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-el-amo-de-la-plaga",
+        image: imagen.insecto,
+        chapter: "1"
+    },
     /*
     {
         id: "0015",
@@ -382,7 +392,7 @@ editChapter(temps, "YUAN ZUN", "1024");
 
 editChapter(temps, "second life ranker", "166", "957787308668190723");
 
-editChapter(temps, "REY ESPADA", "204");
+editChapter(temps, "REY ESPADA", "205");
 
 editChapter(temps, "CAZADOR SUIC1D4", "104", "923135996358393857");
 
@@ -398,7 +408,7 @@ editChapter(temps, "COMBAT CONTINENT", "46");
 
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
-editChapter(olympus, "BERSEKER", "102", "92297");
+editChapter(olympus, "BERSEKER", "103", "92559");
 
 editChapter(olympus, "OVERGEARED", "191", "71793");
 
@@ -406,7 +416,7 @@ editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "62", "92303");
+editChapter(olympus, "HARD CARRY SUPPORT", "63", "92562");
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
@@ -444,7 +454,7 @@ editChapter(olympus, "SUMMONER", "81", "92448");
 
 editChapter(olympus, "BLACK SCYTHE", "41", "88523");
 
-editChapter(olympus, "10.000 años futuro", "114", "92321");
+editChapter(olympus, "10.000 años futuro", "114", "92442");
 
 editChapter(olympus, "Arbol Divino", "99", "74082");
 
@@ -456,7 +466,7 @@ editChapter(olympus, "SEÑOR DEMONIO", "22", "89584");
 
 editChapter(olympus, "PALADIN", "8", "89570");
 
-editChapter(olympus, "CIVILIZACION NEBULA", "40", "92231");
+editChapter(olympus, "CIVILIZACION NEBULA", "41", "92547");
 
 editChapter(olympus, "NIGROMANTE FUERZA", "11", "88155");
 
@@ -464,7 +474,9 @@ editChapter(olympus, "JEFE DEVORADOR", "37", "92087");
 
 editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 
-editChapter(olympus, "REY MARCIAL", "26", "92505");
+editChapter(olympus, "REY MARCIAL", "27", "92560");
+
+editChapter(olympus, "WAIFU INSECTO", "5", "92625");
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
 

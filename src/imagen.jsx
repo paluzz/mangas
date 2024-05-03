@@ -43,7 +43,9 @@ import necfuerza from './img/necfuerza.jpg'
 import devorador from './img/devorador.jpg'
 import heroe from './img/heroe.jpg'
 import marcialKing from './img/marcialKing.jpg'
+import insecto from './img/insecto.jpg'
 const imagen = {
+    insecto: insecto,
     marcialKing: marcialKing,
     heroe: heroe,
     necfuerza: necfuerza,
