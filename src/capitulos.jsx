@@ -361,6 +361,16 @@ const olympus = [
         image: imagen.insecto,
         chapter: "1"
     },
+    {
+        dia: dia[4],
+        id: "96541111114",
+        name: "MAGO CUERPO A CUERPO",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-el-mago-cuerpo-a-cuerpo-mas-poderoso",
+        image: imagen.melee,
+        chapter: "1"
+    },
     /*
     {
         id: "0015",
@@ -371,7 +381,6 @@ const olympus = [
         image: imagen.pollo,
         chapter: "78"
     },*/
-
 ]
 const temps = [
     createObj(dia[0], "99999", "MARTIAL PEAK", "3000", imagen.martial, "https://manhuako.com/manhua/martial-peak/chapter-"),
@@ -413,10 +422,10 @@ editChapter(olympus, "BERSEKER", "105", "93109");
 editChapter(olympus, "OVERGEARED", "191", "71793");
 
 editChapter(olympus, "CABALLERO LANZA", "99", "66507");
-
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "65", "93081");
+
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
@@ -432,7 +441,7 @@ editChapter(olympus, "MULTIPLICADOR", "50", "87463");
 
 editChapter(olympus, "BARBARO", "53", "88635");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "57", "92906");
+editChapter(olympus, "EVOLUCION DEMONIACA", "58", "93144");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
@@ -454,7 +463,7 @@ editChapter(olympus, "SUMMONER", "85", "92970");
 
 editChapter(olympus, "BLACK SCYTHE", "41", "88523");
 
-editChapter(olympus, "10.000 años futuro", "118", "92973");
+editChapter(olympus, "10.000 años futuro", "119", "93139");
 
 editChapter(olympus, "Arbol Divino", "99", "74082");
 
@@ -477,6 +486,8 @@ editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 editChapter(olympus, "REY MARCIAL", "29", "93073");
 
 editChapter(olympus, "WAIFU INSECTO", "7", "93120");
+
+editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
 
