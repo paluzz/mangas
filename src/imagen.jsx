@@ -44,7 +44,11 @@ import devorador from './img/devorador.jpg'
 import heroe from './img/heroe.jpg'
 import marcialKing from './img/marcialKing.jpg'
 import insecto from './img/insecto.jpg'
+import melee from './img/melee.jpg'
+import familia from './img/familia.jpg'
 const imagen = {
+    familia: familia,
+    melee: melee,
     insecto: insecto,
     marcialKing: marcialKing,
     heroe: heroe,
