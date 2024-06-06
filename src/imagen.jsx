@@ -46,7 +46,10 @@ import marcialKing from './img/marcialKing.jpg'
 import insecto from './img/insecto.jpg'
 import melee from './img/melee.jpg'
 import familia from './img/familia.jpg'
+import ladron from './img/ladron.jpg'
+
 const imagen = {
+    ladron: ladron,
     familia: familia,
     melee: melee,
     insecto: insecto,
