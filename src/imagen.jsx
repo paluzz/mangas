@@ -47,8 +47,14 @@ import insecto from './img/insecto.jpg'
 import melee from './img/melee.jpg'
 import familia from './img/familia.jpg'
 import ladron from './img/ladron.jpg'
+import aventurero from './img/aventurero.jpg'
+import blinker from './img/blinker.jpg'
+import melee2 from './img/melee2.jpg'
 
 const imagen = {
+    aventurero: aventurero,
+    blinker: blinker,
+    melee2: melee2,
     ladron: ladron,
     familia: familia,
     melee: melee,
