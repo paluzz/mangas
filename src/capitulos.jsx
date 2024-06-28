@@ -134,7 +134,7 @@ const olympus = [
         chapter: "21"
     },
     {
-        dia: dia[8], //dia[3],
+        dia: dia[2], //dia[3],
         id: "0101",
         name: "BARBARO",
         link1: olympusLink,
@@ -445,7 +445,7 @@ editChapter(otros, "YUAN ZUN", "1024");
 
 editChapter(otros, "second life ranker", "167", "970244275715670019");
 
-editChapter(otros, "REY ESPADA", "212");
+editChapter(otros, "REY ESPADA", "213");
 
 editChapter(otros, "CAZADOR SUIC1D4", "104", "923135996358393857");
 
@@ -457,7 +457,7 @@ editChapter(otros, "COME LIBROS", "107");
 
 editChapter(otros, "COMBAT CONTINENT", "54");
 
-editChapter(otros, "ARCHIMAGO LADRON", "32");
+editChapter(otros, "ARCHIMAGO LADRON", "33");
 
 editChapter(otros, "MAGO CUERPO A CUERPO", "32");
 
@@ -466,7 +466,7 @@ editChapter(otros, "MAGO CUERPO A CUERPO", "32");
 
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
-editChapter(olympus, "BERSEKER", "110", "94923");
+editChapter(olympus, "BERSEKER", "111", "95257");
 
 editChapter(olympus, "OVERGEARED", "191", "71793");
 
@@ -474,7 +474,7 @@ editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "70", "94926");
+editChapter(olympus, "HARD CARRY SUPPORT", "71", "95297");
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
@@ -494,7 +494,7 @@ editChapter(olympus, "EVOLUCION DEMONIACA", "60", "93811");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
-editChapter(olympus, "SHIRONE", "71", "94933");
+editChapter(olympus, "SHIRONE", "72", "95263");
 
 editChapter(olympus, "MAGO DORADO", "32", "79630");
 
@@ -512,7 +512,7 @@ editChapter(olympus, "SUMMONER", "93", "95104");
 
 editChapter(olympus, "BLACK SCYTHE", "41", "88523");
 
-editChapter(olympus, "10.000 años futuro", "127", "94981");
+editChapter(olympus, "10.000 años futuro", "129", "95320");
 
 editChapter(olympus, "Arbol Divino", "99", "74082");
 
