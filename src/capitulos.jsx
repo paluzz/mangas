@@ -229,7 +229,7 @@ const olympus = [
         name: "BLACK SCYTHE",
         link1: olympusLink,
         midlink: "81289",
-        link2: "/comic-la-regresion-100-del-jugador-de-nivel-maximo7777",
+        link2: "/comic-la-regresion-100-del-jugador-de-nivel-maximo13424",
         image: imagen.guadana,
         chapter: "1"
     },
@@ -339,7 +339,7 @@ const olympus = [
         name: "EL SUCESOR DE LOS HEROES",
         link1: olympusLink,
         midlink: "81289",
-        link2: "/comic-el-sucesor-de-los-heroes-legendarios77776",
+        link2: "/comic-el-sucesor-de-los-heroes-legendario13424",
         image: imagen.heroe,
         chapter: "1"
     },
@@ -413,6 +413,16 @@ const olympus = [
         image: imagen.blinker,
         chapter: "1"
     },
+    {
+        dia: dia[5],
+        id: "96541111119",
+        name: "MANCO ADENKA",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-elmancocheto532413424",
+        image: imagen.manco,
+        chapter: "1"
+    },
     /*
     {
         id: "0015",
@@ -445,7 +455,7 @@ editChapter(otros, "YUAN ZUN", "1024");
 
 editChapter(otros, "second life ranker", "167", "970244275715670019");
 
-editChapter(otros, "REY ESPADA", "214");
+editChapter(otros, "REY ESPADA", "215");
 
 editChapter(otros, "CAZADOR SUIC1D4", "104", "923135996358393857");
 
@@ -508,11 +518,11 @@ editChapter(olympus, "SOLDADO DE ACERO", "36", "91788");
 
 editChapter(olympus, "DIOS MARCIAL", "59", "96371");
 
-editChapter(olympus, "SUMMONER", "97", "95880");
+editChapter(olympus, "SUMMONER", "101", "96809");
 
 editChapter(olympus, "BLACK SCYTHE", "41", "88523");
 
-editChapter(olympus, "10.000 años futuro", "136", "96285");
+editChapter(olympus, "10.000 años futuro", "137", "96574");
 
 editChapter(olympus, "Arbol Divino", "99", "74082");
 
@@ -538,13 +548,15 @@ editChapter(olympus, "WAIFU INSECTO", "15", "96230");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 
-editChapter(olympus, "REGRESOR CAIDO", "38", "96231");
+editChapter(olympus, "REGRESOR CAIDO", "39", "96822");
 
 editChapter(olympus, "BLINKER", "27", "96334");
 
 editChapter(olympus, "ULTIMO AVENTURERO", "26", "96266");
 
 editChapter(olympus, "MELEE BUENO", "22", "95029");
+
+editChapter(olympus, "MANCO ADENKA", "101", "96825");
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
 
