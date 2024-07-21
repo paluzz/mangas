@@ -465,7 +465,7 @@ editChapter(otros, "FRANCOTIRADOR", "112");
 
 editChapter(otros, "COME LIBROS", "107");
 
-editChapter(otros, "COMBAT CONTINENT", "57");
+editChapter(otros, "COMBAT CONTINENT", "58");
 
 editChapter(otros, "ARCHIMAGO LADRON", "34");
 
@@ -518,11 +518,11 @@ editChapter(olympus, "SOLDADO DE ACERO", "36", "91788");
 
 editChapter(olympus, "DIOS MARCIAL", "59", "96371");
 
-editChapter(olympus, "SUMMONER", "101", "96809");
+editChapter(olympus, "SUMMONER", "102", "96868");
 
 editChapter(olympus, "BLACK SCYTHE", "41", "88523");
 
-editChapter(olympus, "10.000 años futuro", "137", "96574");
+editChapter(olympus, "10.000 años futuro", "138", "96874");
 
 editChapter(olympus, "Arbol Divino", "99", "74082");
 
@@ -530,7 +530,7 @@ editChapter(olympus, "GODZILLA", "55", "87881");
 
 editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "156", "96335");
 
-editChapter(olympus, "ESPADA DEMONIO", "31", "96324");
+editChapter(olympus, "ESPADA DEMONIO", "32", "96906");
 
 editChapter(olympus, "PALADIN", "8", "89570");
 
@@ -550,7 +550,7 @@ editChapter(olympus, "WAIFU INSECTO", "15", "96230");
 
 editChapter(olympus, "REGRESOR CAIDO", "39", "96822");
 
-editChapter(olympus, "BLINKER", "27", "96334");
+editChapter(olympus, "BLINKER", "28", "96936");
 
 editChapter(olympus, "ULTIMO AVENTURERO", "26", "96266");
 
