@@ -1,12 +1,14 @@
 import './styles.css'
-import { CardManga } from './card.jsx'
-import { combinados } from './capitulos.jsx'
-import { Header, Footer } from './Header.jsx'
+import { CardManga } from './module/card/card.jsx'
+import { combinados } from './module/chapter/capitulos.jsx'
+import { Header, Footer } from './module/header/Header.jsx'
+import { Menu } from './module/menu/menu.jsx'
 
 export default function App() {
   return (
     <div className="App">
       <Header />
+      {/*<Menu />*/}
       <div className="container">
         {combinados.map(temp => (
           <CardManga
