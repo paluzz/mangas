@@ -1,110 +1,58 @@
-import martial from './img/martial.jpg'
-import yuan from './img/yuan.jpg'
-import ranker from './img/ranker.jpg'
-import espada from './img/espada.jpg'
-import esqueleto from './img/esqueleto.jpg'
-import hacha from './img/hacha.jpg'
-import overgeared from './img/overgeared.jpg'
-import suic1d3 from './img/suicida.jpg'
-import osito from './img/osito.jpg'
-import lanza from './img/lanza.jpg'
-import monster from './img/monster.jpg'
-import nano from './img/nano.jpg'
-import arcane from './img/arcane.jpg'
-import libro from './img/libro.jpg'
-import devoratalento from './img/archimago.jpg'
-import pollo from './img/pollo.jpg'
-import player from './img/player.jpg'
-import soporte from './img/support.jpg'
-import destino from './img/destino.jpg'
-import multiplicador from './img/multiplicador.jpg'
-import barbaro from './img/barbaro.jpg'
-import necromancer from './img/necromancer.jpg'
-import infinito from './img/infinito.jpg'
-import demon from './img/demon.jpg'
-import hua from './img/hua.jpg'
-import priest from './img/corrupcion.jpg'
-import gold from './img/gold.jpg'
-import drake from './img/drake.jpg'
-import palo from './img/palo.jpg'
-import combat2 from './img/combat2.jpg'
-import acero from './img/acero.jpg'
-import noname from './img/noname.jpg'
-import summoner from './img/summoner.jpg'
-import guadana from './img/guadana.jpg'
-import futuro from './img/futuro.jpg'
-import arbol from './img/arbol.jpg'
-import godzilla from './img/godzilla.jpg'
-import nonivel from './img/nonivel.jpg'
-import demonlord from './img/demonlord.jpg'
-import paladin from './img/paladin.webp'
-import nebula from './img/nebula.jpg'
-import necfuerza from './img/necfuerza.jpg'
-import devorador from './img/devorador.jpg'
-import heroe from './img/heroe.jpg'
-import marcialKing from './img/marcialKing.jpg'
-import insecto from './img/insecto.jpg'
-import melee from './img/melee.jpg'
-import familia from './img/familia.jpg'
-import ladron from './img/ladron.jpg'
-import aventurero from './img/aventurero.jpg'
-import blinker from './img/blinker.jpg'
-import melee2 from './img/melee2.jpg'
-import manco from './img/manco.webp'
+const carpeta = 'https://drive.google.com/drive/folders/1fVIdFcepfLep1T-kH9FSEd1WT-_ScZ83?usp=drive_link';
 
 const imagen = {
-    manco: manco,
-    aventurero: aventurero,
-    blinker: blinker,
-    melee2: melee2,
-    ladron: ladron,
-    familia: familia,
-    melee: melee,
-    insecto: insecto,
-    marcialKing: marcialKing,
-    heroe: heroe,
-    necfuerza: necfuerza,
-    nebula: nebula,
-    paladin: paladin,
-    demonlord: demonlord,
-    nonivel: nonivel,
-    godzilla: godzilla,
-    futuro: futuro,
-    arbol: arbol,
-    martial: martial,
-    yuan: yuan,
-    ranker: ranker,
-    espada: espada,
-    esqueleto: esqueleto,
-    hacha: hacha,
-    overgeared: overgeared,
-    suic1d3: suic1d3,
-    osito: osito,
-    lanza: lanza,
-    monster: monster,
-    nano: nano,
-    arcane: arcane,
-    libro: libro,
-    devoratalento: devoratalento,
-    devorador: devorador,
-    pollo: pollo,
-    player: player,
-    soporte: soporte,
-    destino: destino,
-    multiplicador: multiplicador,
-    barbaro: barbaro,
-    necromancer: necromancer,
-    infinito: infinito,
-    acero: acero,
-    demon: demon,
-    guadana: guadana,
-    hua: hua,
-    priest: priest,
-    gold: gold,
-    drake: drake,
-    palo: palo,
-    combat2: combat2,
-    noname: noname,
-    summoner: summoner,
+    manco: '1LPKEhATtfUDyJ3i9TlWKMoqDWH6gWvIF',
+    aventurero: '1Bq1I8fYx1DBUFdt1-eaqyuXPJ3lH21cA',
+    blinker: '1Bj-yRlrfjyjsEBYgsGyhdmAfGhC9Rhh6',
+    melee2: '1TZXuae4ETQVIgv1g17npxDEYr4tnbdDA',
+    ladron: '16am9ACqJi8Yki7bOfw7y_2YfeS0onBYn',
+    familia: '1oKsETy4hmlY7f4ClW4H9BPibk_Im57cD',
+    melee: '1XZN22gSlhwUVPIJotyji30LP4_15R6EN',
+    insecto: '1RpdKd5HN72xrZpsUlxOErGCOY-ZJw7oy',
+    marcialKing: '1D3ccD0rSjrfUrlF-pWrUy_IRFitvdAFb',
+    heroe: '1abvki-_mFXtOwiEhmUE_jEgU3qeMCQzs',
+    necfuerza: '1HoVofQtXOJfCSdABMmK2F2N3e7T2Bufm',
+    nebula: '1l6UNneNlDE-ivvRE1TNsOT6zvvrTLUdq',
+    paladin: '1f8IxqIjUJBXjCG7DS7taSxHC2ptrYfmm',
+    demonlord: '1yjJvi7cm-X7Z0m-w4jLG2UCQnAJ_xqhZ',
+    nonivel: '1pfuBpbsYQEVMkHk491oZcFEnUFfxQzYc',
+    godzilla: '1CciVHsq-PhKW9MueAz0UfHkE9HMgs4RT',
+    futuro: '1echhuwgYwM5SnFk31O6ZeGktTdnC5XSq',
+    arbol: '1oBRsliou5t2VEoLFK7XkDe9gpOPTlpvK',
+    martial: '1nH2A_UkI3XIA6m1NEqD2AJiMjf9q_J5F',
+    yuan: '1QNuzqtCDghA4GqEBO1xhImddk7WojCPY',
+    ranker: '1Qd-SgejKy105v2Z4TwqDYN5EwXpVRvtY',
+    espada: '1LAWIKmXDN-Spb4VYkenKbTR0SF2UYlmc',
+    esqueleto: '1EFbc3RIqh6ABbym5Q1w9MDcDmfst9D7R',
+    hacha: '1jRTnQThgnUKzAVwxEjNxxiwxV-tceAGr',
+    overgeared: '1SfwNIQf5q3sgs64HlzdKE_E4Jcow8bvW',
+    suic1d3: '1D-t9jnR83VYgoVH400HYlHh6l36sAk1w',
+    osito: '1G1HZ_xwT5yTFYmN6syKmEy2vdL9gwXXY',
+    lanza: '1dlzriXJ8z2MOh8g__z1VhA8J9BveT-B_',
+    monster: '1m4M0e9svbvaLGcPK99HVQFRsZit0HjHr',
+    nano: '18FZYWq_P9_fUQg1tHwv0sMXzgHZLv2v4',
+    arcane: '1MiBSK-DqYXqLDRcOovWj48EQXkoQkWG5',
+    libro: '1TNL_arK9so4mNzkp6UYy8svemzxBuHy0',
+    devoratalento: '19AvZwzv35B8M-nuHJD5rdvsfsj5J6VSW',
+    devorador: '1Sz0L7iRXfRl9Hqqr7zqwGEkX0QNrtDe5',
+    pollo: '1oGTkZTfBsKqCK3uN2LnDdEgd4xN9H8y8',
+    player: '1Y_RjveGgDbpv5cIoSPXoRZEbASoPB-oN',
+    soporte: '16bck4vWuTiP1s0y2rpSE1CnXJ697O0KM',
+    destino: '1YPF68Vl5T2IkeRCLVNiEK9ijSY5wdGT7',
+    multiplicador: '1dOyvYRKWeJLpfwdLras422h9WTbis86n',
+    barbaro: '1MOGbe-hR2d0VdiWP9C9M3ZIUl7sx7cJ1',
+    necromancer: '1SVs5OZL7ZUWYcBqBAA3ZEVZu2rENJwFc',
+    infinito: '1I-87tytjcbKt9TaRgdzCdSd95ovcIYYL',
+    acero: '1-jz4ElIhSrSvQahB5-BtxgMTb1hkS4NV',
+    demon: '1IBR--FyLpJyuyLah8Y335hlCVP3Zq63H',
+    guadana: '1t7d8HIlkKfweCXmBk_4Z7BJEKG_4gt2F',
+    hua: '1SD6t565WV63ZmF8PujNjEHNimnKKR7Jf',
+    priest: '1_SmSqK8dSrTjWD20OixrW3gwT0p3K_vP',
+    gold: '1GLZdKtbcuxOHikuMh9zm4aVMgADV1h8n',
+    drake: '1Pa2pmrpb4-9GfQ0070XIFQPzFp5otCQ3',
+    palo: '1BNivBq1F1DkY5loGPYgFpbQfj38ihsE7',
+    combat2: '1gMLURcsWj5DeuH9njpyeYrARh-L9PHGV',
+    noname: '1f_f3r9PpOrSNwJ4r1017MBwfNhOykpSg',
+    summoner: '1CnAbRyFmweG-QOIPHA6maKFl0sRVWIdn',
 }
 export default imagen;
