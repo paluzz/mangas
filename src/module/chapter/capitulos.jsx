@@ -404,6 +404,36 @@ const olympus = [
         chapter: "1"
     },
     {
+        dia: dia[3],
+        id: "965411199999",
+        name: "SOLO LEVELING",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-solo-leveling-ragnarok",
+        image: imagen.soloLeveling,
+        chapter: "1"
+    },
+    {
+        dia: dia[5],
+        id: "9654999998",
+        name: "JUGADOR ACADEMIA",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-as3sin0-tr0ll-1n",
+        image: imagen.academia,
+        chapter: "1"
+    },
+    {
+        dia: dia[5],
+        id: "96549999997",
+        name: "TROLL FUERTE",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-saboteador-1n",
+        image: imagen.troll,
+        chapter: "1"
+    },
+    {
         dia: dia[2],
         id: "96541111119",
         name: "BLINKER",
@@ -557,6 +587,12 @@ editChapter(olympus, "ULTIMO AVENTURERO", "30", "98151");
 editChapter(olympus, "MELEE BUENO", "23", "95518");
 
 editChapter(olympus, "MANCO ADENKA", "104", "98234");
+
+editChapter(olympus, "SOLO LEVELING", "7", "97708");
+
+editChapter(olympus, "JUGADOR ACADEMIA", "32", "92821");
+
+editChapter(olympus, "TROLL FUERTE", "10", "47976");
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
 

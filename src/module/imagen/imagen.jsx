@@ -54,5 +54,8 @@ const imagen = {
     combat2: '1gMLURcsWj5DeuH9njpyeYrARh-L9PHGV',
     noname: '1f_f3r9PpOrSNwJ4r1017MBwfNhOykpSg',
     summoner: '1CnAbRyFmweG-QOIPHA6maKFl0sRVWIdn',
+    soloLeveling: '1lSnF7K2QShs2F3-tfnSYTrdpKvZh8pgj',
+    academia: '1iPumfX_P8LNSx71wasLS7gmgO9lTrVrl',
+    troll: '17s0ZHuilPTTyYmLx2sh43or49r0fqjIp',
 }
 export default imagen;
