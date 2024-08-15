@@ -485,7 +485,7 @@ editChapter(otros, "YUAN ZUN", "1024");
 
 editChapter(otros, "second life ranker", "167", "970244275715670019");
 
-editChapter(otros, "REY ESPADA", "218");
+editChapter(otros, "REY ESPADA", "219");
 
 editChapter(otros, "CAZADOR SUIC1D4", "104", "923135996358393857");
 
@@ -514,7 +514,7 @@ editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "76", "97698");
+editChapter(olympus, "HARD CARRY SUPPORT", "78", "98398");
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
@@ -528,13 +528,13 @@ editChapter(olympus, "DESTINO F", "54", "84854");
 
 editChapter(olympus, "MULTIPLICADOR", "50", "87463");
 
-editChapter(olympus, "BARBARO", "66", "98091");
+editChapter(olympus, "BARBARO", "67", "98518");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "69", "97386");
+editChapter(olympus, "EVOLUCION DEMONIACA", "70", "98366");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
-editChapter(olympus, "SHIRONE", "78", "98010");
+editChapter(olympus, "SHIRONE", "79", "98406");
 
 editChapter(olympus, "MAGO DORADO", "32", "79630");
 
@@ -546,7 +546,7 @@ editChapter(olympus, "+99 PALO", "20", "33453");
 
 editChapter(olympus, "SOLDADO DE ACERO", "36", "91788");
 
-editChapter(olympus, "DIOS MARCIAL", "62", "97941");
+editChapter(olympus, "DIOS MARCIAL", "63", "98370");
 
 editChapter(olympus, "SUMMONER", "107", "98273");
 
@@ -574,7 +574,7 @@ editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 
 editChapter(olympus, "REY MARCIAL", "41", "97948");
 
-editChapter(olympus, "WAIFU INSECTO", "19", "98233");
+editChapter(olympus, "WAIFU INSECTO", "20", "98470");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 
@@ -590,7 +590,7 @@ editChapter(olympus, "MANCO ADENKA", "104", "98234");
 
 editChapter(olympus, "SOLO LEVELING", "7", "97708");
 
-editChapter(olympus, "JUGADOR ACADEMIA", "32", "92821");
+editChapter(olympus, "JUGADOR ACADEMIA", "38", "95112");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
