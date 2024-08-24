@@ -51,7 +51,7 @@ const imagen = {
     gold: '1GLZdKtbcuxOHikuMh9zm4aVMgADV1h8n',
     drake: '1Pa2pmrpb4-9GfQ0070XIFQPzFp5otCQ3',
     palo: '1BNivBq1F1DkY5loGPYgFpbQfj38ihsE7',
-    combat2: '1gMLURcsWj5DeuH9njpyeYrARh-L9PHGV',
+    combat2: '1UK-ILGVHLSYWimGC4Ppl3Ckg8piq7sjs',
     noname: '1f_f3r9PpOrSNwJ4r1017MBwfNhOykpSg',
     summoner: '1CnAbRyFmweG-QOIPHA6maKFl0sRVWIdn',
     soloLeveling: '1lSnF7K2QShs2F3-tfnSYTrdpKvZh8pgj',
