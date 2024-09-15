@@ -57,5 +57,6 @@ const imagen = {
     soloLeveling: '1lSnF7K2QShs2F3-tfnSYTrdpKvZh8pgj',
     academia: '1iPumfX_P8LNSx71wasLS7gmgO9lTrVrl',
     troll: '17s0ZHuilPTTyYmLx2sh43or49r0fqjIp',
+    sabueso: '1HskjWaKt_m7788SNO9yPl-peS66pI2h_'
 }
 export default imagen;
