@@ -499,7 +499,7 @@ editChapter(otros, "YUAN ZUND", "5");
 
 editChapter(otros, "second life ranker", "167", "970244275715670019");
 
-editChapter(otros, "REY ESPADA", "221");
+editChapter(otros, "REY ESPADA", "222");
 
 editChapter(otros, "CAZADOR SUIC1D4", "104", "923135996358393857");
 
@@ -548,7 +548,7 @@ editChapter(olympus, "EVOLUCION DEMONIACA", "72", "99932");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
-editChapter(olympus, "SHIRONE", "83", "100018");
+editChapter(olympus, "SHIRONE", "84", "100434");
 
 editChapter(olympus, "MAGO DORADO", "32", "79630");
 
@@ -560,7 +560,7 @@ editChapter(olympus, "+99 PALO", "20", "33453");
 
 editChapter(olympus, "SOLDADO DE ACERO", "36", "91788");
 
-editChapter(olympus, "DIOS MARCIAL", "67", "99952");
+editChapter(olympus, "DIOS MARCIAL", "68", "100404");
 
 editChapter(olympus, "SUMMONER", "118", "100238");
 
@@ -572,9 +572,9 @@ editChapter(olympus, "Arbol Divino", "99", "74082");
 
 editChapter(olympus, "GODZILLA", "55", "87881");
 
-editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "162", "99957");
+editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "164", "100293");
 
-editChapter(olympus, "ESPADA DEMONIO", "39", "99910");
+editChapter(olympus, "ESPADA DEMONIO", "40", "100270");
 
 editChapter(olympus, "PALADIN", "8", "89570");
 
@@ -586,13 +586,13 @@ editChapter(olympus, "JEFE DEVORADOR", "39", "92953");
 
 editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 
-editChapter(olympus, "REY MARCIAL", "46", "99964");
+editChapter(olympus, "REY MARCIAL", "47", "100414");
 
-editChapter(olympus, "WAIFU INSECTO", "24", "100112");
+editChapter(olympus, "WAIFU INSECTO", "25", "100489");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 
-editChapter(olympus, "REGRESOR CAIDO", "46", "100170");
+editChapter(olympus, "REGRESOR CAIDO", "47", "100427");
 
 editChapter(olympus, "BLINKER", "35", "100268");
 
@@ -608,11 +608,9 @@ editChapter(olympus, "JUGADOR ACADEMIA", "38", "95112");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "77", "100266");
+editChapter(olympus, "SABUESO", "78", "100267");
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
-
-
 
 ordenDias(combinados);
 
