@@ -52,7 +52,7 @@ const imagen = {
     drake: '1Pa2pmrpb4-9GfQ0070XIFQPzFp5otCQ3',
     palo: '1BNivBq1F1DkY5loGPYgFpbQfj38ihsE7',
     combat2: '1UK-ILGVHLSYWimGC4Ppl3Ckg8piq7sjs',
-    noname: '1f_f3r9PpOrSNwJ4r1017MBwfNhOykpSg',
+    noname: '1oo2d9YEWVOpGHjZ_EgpuCWgLiQ1u6tUo',
     summoner: '1CnAbRyFmweG-QOIPHA6maKFl0sRVWIdn',
     soloLeveling: '1lSnF7K2QShs2F3-tfnSYTrdpKvZh8pgj',
     academia: '1iPumfX_P8LNSx71wasLS7gmgO9lTrVrl',
