@@ -499,7 +499,7 @@ editChapter(otros, "YUAN ZUND", "5");
 
 editChapter(otros, "second life ranker", "167", "970244275715670019");
 
-editChapter(otros, "REY ESPADA", "223");
+editChapter(otros, "REY ESPADA", "224");
 
 editChapter(otros, "CAZADOR SUIC1D4", "104", "923135996358393857");
 
@@ -520,7 +520,7 @@ editChapter(otros, "MAGO CUERPO A CUERPO", "36");
 
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
-editChapter(olympus, "BERSEKER", "123", "100500");
+editChapter(olympus, "BERSEKER", "124", "100800");
 
 editChapter(olympus, "OVERGEARED", "191", "71793");
 
@@ -548,7 +548,7 @@ editChapter(olympus, "EVOLUCION DEMONIACA", "76", "100645");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
-editChapter(olympus, "SHIRONE", "84", "100434");
+editChapter(olympus, "SHIRONE", "85", "100781");
 
 editChapter(olympus, "MAGO DORADO", "32", "79630");
 
