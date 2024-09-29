@@ -464,6 +464,16 @@ const olympus = [
         image: imagen.sabueso,
         chapter: "1"
     },
+    {
+        dia: dia[6],
+        id: "96541111124",
+        name: "ABISMO",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-el-renacer-del-abismoz",
+        image: imagen.abismo,
+        chapter: "1"
+    },
     /*
     {
         id: "0015",
@@ -528,7 +538,7 @@ editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
 
-editChapter(olympus, "HARD CARRY SUPPORT", "83", "100674");
+editChapter(olympus, "HARD CARRY SUPPORT", "84", "100919");
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
@@ -542,7 +552,7 @@ editChapter(olympus, "DESTINO F", "54", "84854");
 
 editChapter(olympus, "MULTIPLICADOR", "50", "87463");
 
-editChapter(olympus, "BARBARO", "72", "100497");
+editChapter(olympus, "BARBARO", "73", "100859");
 
 editChapter(olympus, "EVOLUCION DEMONIACA", "76", "100645");
 
@@ -588,19 +598,19 @@ editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 
 editChapter(olympus, "REY MARCIAL", "48", "100723");
 
-editChapter(olympus, "WAIFU INSECTO", "25", "100489");
+editChapter(olympus, "WAIFU INSECTO", "26", "100841");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 
-editChapter(olympus, "REGRESOR CAIDO", "47", "100427");
+editChapter(olympus, "REGRESOR CAIDO", "48", "100817");
 
 editChapter(olympus, "BLINKER", "36", "100639");
 
-editChapter(olympus, "ULTIMO AVENTURERO", "33", "99911");
+editChapter(olympus, "ULTIMO AVENTURERO", "37", "100864");
 
 editChapter(olympus, "MELEE BUENO", "23", "95518");
 
-editChapter(olympus, "MANCO ADENKA", "110", "100635");
+editChapter(olympus, "MANCO ADENKA", "111", "100990");
 
 editChapter(olympus, "SOLO LEVELING", "7", "97708");
 
@@ -609,6 +619,8 @@ editChapter(olympus, "JUGADOR ACADEMIA", "38", "95112");
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
 editChapter(olympus, "SABUESO", "79", "100632");
+
+editChapter(olympus, "ABISMO", "52", "100908");
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
