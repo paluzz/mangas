@@ -58,6 +58,7 @@ const imagen = {
     academia: '1iPumfX_P8LNSx71wasLS7gmgO9lTrVrl',
     troll: '17s0ZHuilPTTyYmLx2sh43or49r0fqjIp',
     sabueso: '1HskjWaKt_m7788SNO9yPl-peS66pI2h_',
-    abismo: '1nFkj2CtIgWd7iunmqCEdXzQV-SoeNq02'
+    abismo: '1nFkj2CtIgWd7iunmqCEdXzQV-SoeNq02',
+    caballero_limite: '1bmHzF0-Sqk0BaAIuWcAY9uymj2Xzgt9m'
 }
 export default imagen;
