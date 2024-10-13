@@ -564,7 +564,7 @@ editChapter(olympus, "MULTIPLICADOR", "50", "87463");
 
 editChapter(olympus, "BARBARO", "75", "101679");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "77", "101463");
+editChapter(olympus, "EVOLUCION DEMONIACA", "78", "101808");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
@@ -592,7 +592,7 @@ editChapter(olympus, "Arbol Divino", "99", "74082");
 
 editChapter(olympus, "GODZILLA", "55", "87881");
 
-editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "166", "101533");
+editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "167", "101818");
 
 editChapter(olympus, "PALADIN", "8", "89570");
 
@@ -610,11 +610,11 @@ editChapter(olympus, "WAIFU INSECTO", "28", "101783");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 
-editChapter(olympus, "ESPADA DEMONIO", "43", "101461");
+editChapter(olympus, "ESPADA DEMONIO", "44", "101815");
 
 editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "51", "101795");
 
-editChapter(olympus, "BLINKER", "38", "101466");
+editChapter(olympus, "BLINKER", "39", "101823");
 
 editChapter(olympus, "ULTIMO AVENTURERO", "39", "101425");
 
@@ -630,7 +630,7 @@ editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
 editChapter(olympus, "SABUESO", "81", "101455");
 
-editChapter(olympus, "ABISMO", "52", "100908");
+editChapter(olympus, "ABISMO", "53", "101805");
 
 editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "77", "101622");
 
