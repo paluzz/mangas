@@ -9,7 +9,7 @@ export default function App() {
     <div className="App">
       <Header />
       {/*<Menu />*/}
-      <div className="container">
+      <main className="container">
         {combinados.map(temp => (
           <CardManga
             key={temp.id}
@@ -21,10 +21,10 @@ export default function App() {
             day={temp.dia}
           />
         ))}
-      </div>
+      </main>
 
       <Footer />
-    </div>
+    </div >
   );
 }
 

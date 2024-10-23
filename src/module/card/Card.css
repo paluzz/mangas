@@ -1,33 +1,7 @@
-.day {
-    display: grid;
-    justify-self: start;
-    justify-content: center;
-    align-self: end;
-    color: white;
-    z-index: 99;
-    text-align: center;
-    width: 60px;
-    position: absolute;
-    margin-bottom: 5px;
-    border-radius: 50px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: black;
-    font-size: 14px;
-}
-
-@media only screen and (max-width: 980px) {
+@media only screen and (max-width: 750px) {
     .day {
         font-size: 12px;
         width: 50px;
-    }
-}
-
-
-@media only screen and (max-width: 750px) {
-    .day {
-        font-size: 10px;
-        width: 40px;
     }
 }
 

@@ -10,17 +10,17 @@ function Dia({ day }) {
 export function CardManga({ link, src, alt, chapter, children, day }) {
   if (day != 'Hiatus') {
     return (
-      <div className="box">
-        <div className="link">
-          <div className="img">
-            <a href={link} target="_blank" rel="noreferrer">
-              <div className="title">{children}</div>
-              <img className="redimension" src={imgDrive + src} alt={alt}></img>
-              <div className="chapter"># {chapter}</div>
-              <Dia day={day} />
-            </a>
-          </div>
-        </div >
+      <div className="card">
+        <h4 className="title">{children}</h4>
+        <a href={link} target="_blank" rel="noreferrer">
+          <img className="redimension" src={imgDrive + src} alt={alt}></img>
+        </a>
+        <div className="chapter">
+          <Dia day={day} />
+          <h4>
+            # {chapter}
+          </h4>
+        </div>
       </div >
     );
   }
