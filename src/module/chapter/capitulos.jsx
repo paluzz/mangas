@@ -605,7 +605,7 @@ editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 
 editChapter(olympus, "REY MARCIAL", "52", "102289");
 
-editChapter(olympus, "WAIFU INSECTO", "29", "101964");
+editChapter(olympus, "WAIFU INSECTO", "30", "102341");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 
@@ -631,7 +631,7 @@ editChapter(olympus, "SABUESO", "83", "102149");
 
 editChapter(olympus, "ABISMO", "53", "101805");
 
-editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "78", "101969");
+editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "79", "102335");
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 

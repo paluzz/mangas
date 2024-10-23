@@ -1,3 +1,98 @@
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 20px 0px;
+}
+
+.card {
+    display: flex;
+    width: 200px;
+    height: 320px;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.redimension {
+    width: 200px;
+    height: 320px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    width: 200px;
+    height: 40px;
+}
+
+/* CAPITULO */
+.chapter {
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+}
+
+.chapter h4 {
+    font-size: 20px;
+    padding: 0px 20px;
+}
+
+.day {
+    text-align: center;
+    border-radius: 50px;
+    border: black 1px solid;
+    font-size: 14px;
+    width: 60px;
+    margin-left: 5px;
+}
+
+@media (hover:hover) {
+
+    .card:hover {
+        transform: translateY(-1px);
+        box-shadow: 5px 8px 5px 3px rgba(0, 0, 0, 0.75);
+        transition: 0.4s ease;
+    }
+}
+
+@media (width<=480px) {
+    .card {
+        margin: 0;
+    }
+
+    .card,
+    .redimension {
+        width: 150px;
+        height: 250px;
+    }
+
+    .title,
+    .chapter {
+        width: 150px;
+        font-size: 0.9rem;
+    }
+
+    .chapter h4 {
+        font-size: 0.9rem;
+        padding: 0 10px;
+    }
+
+    .container {
+        margin: 20px 0 0 0;
+        gap: 10px;
+    }
+}
+
 @media only screen and (max-width: 750px) {
     .day {
         font-size: 12px;
