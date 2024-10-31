@@ -8,7 +8,7 @@ export default function App() {
   return (
     <div className="App">
       <Header />
-      {/*<Menu />*/}
+      {/* <Menu /> */}
       <main className="container">
         {combinados.map(temp => (
           <CardManga

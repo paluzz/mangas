@@ -69,7 +69,7 @@ const olympus = [
         name: "NANOMAQUINAS",
         link1: olympusLink,
         midlink: "27302",
-        link2: "/comic-el-despiadado-demonio-celestial",
+        link2: "/comic-celestial-despiadado-1n",
         image: imagen.nano,
         chapter: "142"
     },
@@ -533,13 +533,13 @@ editChapter(otros, "MAGO CUERPO A CUERPO", "36");
 
 editChapter(otros, "COMBAT CONTINENT", "66");
 
-editChapter(otros, "REY ESPADA", "227");
+editChapter(otros, "REY ESPADA", "228");
 
 //------------------------------------------------
 
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
 
-editChapter(olympus, "BERSEKER", "128", "102259");
+editChapter(olympus, "BERSEKER", "129", "102495");
 
 editChapter(olympus, "OVERGEARED", "191", "71793");
 
@@ -561,13 +561,13 @@ editChapter(olympus, "DESTINO F", "54", "84854");
 
 editChapter(olympus, "MULTIPLICADOR", "50", "87463");
 
-editChapter(olympus, "BARBARO", "76", "102141");
+editChapter(olympus, "BARBARO", "77", "102518");
 
 editChapter(olympus, "EVOLUCION DEMONIACA", "79", "102223");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
-editChapter(olympus, "SHIRONE", "89", "102277");
+editChapter(olympus, "SHIRONE", "90", "102501");
 
 editChapter(olympus, "MAGO DORADO", "32", "79630");
 
@@ -579,10 +579,6 @@ editChapter(olympus, "+99 PALO", "20", "33453");
 
 editChapter(olympus, "SOLDADO DE ACERO", "36", "91788");
 
-editChapter(olympus, "DIOS MARCIAL", "73", "102228");
-
-editChapter(olympus, "SUMMONER", "127", "102111");
-
 editChapter(olympus, "BLACK SCYTHE", "41", "88523");
 
 editChapter(olympus, "10.000 años futuro", "141", "97736");
@@ -591,7 +587,7 @@ editChapter(olympus, "Arbol Divino", "99", "74082");
 
 editChapter(olympus, "GODZILLA", "55", "87881");
 
-editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "168", "102166");
+editChapter(olympus, "JUGADOR NO PUEDE SUBIR NIVEL", "169", "102576");
 
 editChapter(olympus, "PALADIN", "8", "89570");
 
@@ -603,35 +599,39 @@ editChapter(olympus, "JEFE DEVORADOR", "39", "92953");
 
 editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 
-editChapter(olympus, "REY MARCIAL", "52", "102289");
+editChapter(olympus, "REY MARCIAL", "53", "102493");
 
-editChapter(olympus, "WAIFU INSECTO", "30", "102341");
+editChapter(olympus, "WAIFU INSECTO", "31", "102570");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 
-editChapter(olympus, "ESPADA DEMONIO", "45", "102159");
+editChapter(olympus, "SUMMONER", "129", "102533");
 
-editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "52", "102142");
+editChapter(olympus, "DIOS MARCIAL", "74", "102481");
 
-editChapter(olympus, "BLINKER", "40", "102125");
+editChapter(olympus, "ESPADA DEMONIO", "46", "102433");
 
-editChapter(olympus, "ULTIMO AVENTURERO", "40", "101865");
+editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "53", "102468");
+
+editChapter(olympus, "BLINKER", "41", "102451");
+
+editChapter(olympus, "ULTIMO AVENTURERO", "42", "102583");
 
 editChapter(olympus, "MELEE BUENO", "23", "95518");
 
-editChapter(olympus, "MANCO ADENKA", "114", "102100");
+editChapter(olympus, "MANCO ADENKA", "115", "102412");
 
 editChapter(olympus, "SOLO LEVELING", "7", "97708");
 
-editChapter(olympus, "JUGADOR ACADEMIA", "56", "102291");
+editChapter(olympus, "JUGADOR ACADEMIA", "57", "102500");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "83", "102149");
+editChapter(olympus, "SABUESO", "84", "102424");
 
 editChapter(olympus, "ABISMO", "53", "101805");
 
-editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "79", "102335");
+editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "80", "102539");
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
