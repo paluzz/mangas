@@ -563,7 +563,6 @@ editChapter(olympus, "MULTIPLICADOR", "50", "87463");
 
 editChapter(olympus, "BARBARO", "77", "102518");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "79", "102223");
 
 editChapter(olympus, "CORRUPCION", "11", "69700");
 
@@ -604,6 +603,8 @@ editChapter(olympus, "REY MARCIAL", "53", "102493");
 editChapter(olympus, "WAIFU INSECTO", "31", "102570");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
+
+editChapter(olympus, "EVOLUCION DEMONIACA", "80", "102604");
 
 editChapter(olympus, "SUMMONER", "129", "102533");
 
