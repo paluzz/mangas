@@ -59,6 +59,7 @@ const imagen = {
     troll: '17s0ZHuilPTTyYmLx2sh43or49r0fqjIp',
     sabueso: '1HskjWaKt_m7788SNO9yPl-peS66pI2h_',
     abismo: '1nFkj2CtIgWd7iunmqCEdXzQV-SoeNq02',
-    caballero_limite: '1bmHzF0-Sqk0BaAIuWcAY9uymj2Xzgt9m'
+    caballero_limite: '1bmHzF0-Sqk0BaAIuWcAY9uymj2Xzgt9m',
+    supervivencia: '1GBw7ZGDzj-kMQpnPfnafZnS2JXxiERnM'
 }
 export default imagen;
