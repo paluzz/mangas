@@ -605,51 +605,51 @@ editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 
-editChapter(otros, "REY ESPADA", "234");
+editChapter(otros, "REY ESPADA", "236");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
-editChapter(olympus, "SHIRONE", "96", "104419");
+editChapter(olympus, "SHIRONE", "99", "105610");
 
-editChapter(olympus, "WAIFU INSECTO", "37", "104432");
+editChapter(olympus, "WAIFU INSECTO", "40", "105642");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "REY MARCIAL", "58", "104004");
+editChapter(olympus, "REY MARCIAL", "62", "105580");
 
-editChapter(olympus, "BARBARO", "82", "104058");
+editChapter(olympus, "BARBARO", "83", "105408");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "84", "103960");
+editChapter(olympus, "EVOLUCION DEMONIACA", "88", "105511");
 
-editChapter(olympus, "SUMMONER", "139", "104142");
+editChapter(olympus, "SUMMONER", "145", "105680");
 
-editChapter(olympus, "DIOS MARCIAL", "80", "104242");
+editChapter(olympus, "DIOS MARCIAL", "83", "105573");
 
-editChapter(olympus, "ESPADA DEMONIO", "52", "104157");
+editChapter(olympus, "ESPADA DEMONIO", "55", "105501");
 
-editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "59", "104429");
+editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "60", "105482");
 
-editChapter(olympus, "BLINKER", "46", "104119");
+editChapter(olympus, "BLINKER", "47", "104534");
 
 editChapter(olympus, "ULTIMO AVENTURERO", "47", "104082");
 
 editChapter(olympus, "MELEE BUENO", "23", "95518");
 
-editChapter(olympus, "MANCO ADENKA", "121", "104135");
+editChapter(olympus, "MANCO ADENKA", "124", "105411");
 
 editChapter(olympus, "SOLO LEVELING", "7", "97708");
 
-editChapter(olympus, "JUGADOR ACADEMIA", "63", "104368");
+editChapter(olympus, "JUGADOR ACADEMIA", "66", "105595");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "90", "104154");
+editChapter(olympus, "SABUESO", "93", "105489");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
-editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "85", "104046");
+editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "89", "105681");
 
-editChapter(olympus, "SUPERVIVENCIA ACADEMIA", "55", "104096")
+editChapter(olympus, "SUPERVIVENCIA ACADEMIA", "58", "105603")
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
