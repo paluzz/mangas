@@ -60,6 +60,7 @@ const imagen = {
     sabueso: '1HskjWaKt_m7788SNO9yPl-peS66pI2h_',
     abismo: '1nFkj2CtIgWd7iunmqCEdXzQV-SoeNq02',
     caballero_limite: '1bmHzF0-Sqk0BaAIuWcAY9uymj2Xzgt9m',
-    supervivencia: '1GBw7ZGDzj-kMQpnPfnafZnS2JXxiERnM'
+    supervivencia: '1GBw7ZGDzj-kMQpnPfnafZnS2JXxiERnM',
+    frontera: '1fHBeAK-2k8Xyc4hqaqcuZU_nfOhhRfvb'
 }
 export default imagen;
