@@ -619,7 +619,7 @@ editChapter(otros, "REY ESPADA", "236");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
-editChapter(olympus, "SHIRONE", "101", "106251");
+editChapter(olympus, "SHIRONE", "102", "106555");
 
 editChapter(olympus, "WAIFU INSECTO", "41", "105909");
 
@@ -633,7 +633,7 @@ editChapter(olympus, "EVOLUCION DEMONIACA", "89", "105867");
 
 editChapter(olympus, "SUMMONER", "147", "106148");
 
-editChapter(olympus, "DIOS MARCIAL", "85", "106205");
+editChapter(olympus, "DIOS MARCIAL", "86", "106506");
 
 editChapter(olympus, "ESPADA DEMONIO", "57", "106163");
 
@@ -645,7 +645,7 @@ editChapter(olympus, "ULTIMO AVENTURERO", "47", "104082");
 
 editChapter(olympus, "MELEE BUENO", "23", "95518");
 
-editChapter(olympus, "MANCO ADENKA", "126", "106102");
+editChapter(olympus, "MANCO ADENKA", "128", "106659");
 
 editChapter(olympus, "SOLO LEVELING", "7", "97708");
 
