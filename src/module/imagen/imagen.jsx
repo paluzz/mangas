@@ -61,6 +61,7 @@ const imagen = {
     abismo: '1nFkj2CtIgWd7iunmqCEdXzQV-SoeNq02',
     caballero_limite: '1bmHzF0-Sqk0BaAIuWcAY9uymj2Xzgt9m',
     supervivencia: '1GBw7ZGDzj-kMQpnPfnafZnS2JXxiERnM',
-    frontera: '1fHBeAK-2k8Xyc4hqaqcuZU_nfOhhRfvb'
+    frontera: '1fHBeAK-2k8Xyc4hqaqcuZU_nfOhhRfvb',
+    heraldo: '10aXHYPZ4GIKNMD5WJJpdRLeeoRysO043',
 }
 export default imagen;

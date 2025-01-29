@@ -490,8 +490,18 @@ const olympus = [
         name: "SUPERVIVENCIA ACADEMIA",
         link1: olympusLink,
         midlink: "81289",
-        link2: "/comic-el-extra-protagonista-1n",
+        link2: "/comic-el-extra24120252",
         image: imagen.supervivencia,
+        chapter: "1"
+    },
+    {
+        dia: dia[6],
+        id: "005588994",
+        name: "HERALDO MONEDAS",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-la-noche-de-los-herejes-desalmados",
+        image: imagen.heraldo,
         chapter: "1"
     },
     {
@@ -619,23 +629,23 @@ editChapter(otros, "REY ESPADA", "236");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
-editChapter(olympus, "SHIRONE", "102", "106555");
+editChapter(olympus, "SHIRONE", "103", "106835");
 
 editChapter(olympus, "WAIFU INSECTO", "41", "105909");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "REY MARCIAL", "64", "106212");
+editChapter(olympus, "REY MARCIAL", "66", "106782");
 
 editChapter(olympus, "BARBARO", "87", "106139");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "89", "105867");
+editChapter(olympus, "EVOLUCION DEMONIACA", "92", "106772");
 
-editChapter(olympus, "SUMMONER", "147", "106148");
+editChapter(olympus, "SUMMONER", "151", "106832");
 
-editChapter(olympus, "DIOS MARCIAL", "86", "106506");
+editChapter(olympus, "DIOS MARCIAL", "87", "106774");
 
-editChapter(olympus, "ESPADA DEMONIO", "57", "106163");
+editChapter(olympus, "ESPADA DEMONIO", "59", "106741");
 
 editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "63", "105780");
 
@@ -653,15 +663,17 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "95", "106150");
+editChapter(olympus, "SABUESO", "97", "106739");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
 editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "89", "105681");
 
-editChapter(olympus, "SUPERVIVENCIA ACADEMIA", "60", "106196")
+editChapter(olympus, "SUPERVIVENCIA ACADEMIA", "62", "106766")
 
 editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
+
+editChapter(olympus, "HERALDO MONEDAS", "17", "106775")
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
