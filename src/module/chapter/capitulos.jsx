@@ -487,7 +487,7 @@ const olympus = [
     {
         dia: dia[6],
         id: "96541111125",
-        name: "SUPERVIVENCIA ACADEMIA",
+        name: "ED ROTHAILOR",
         link1: olympusLink,
         midlink: "81289",
         link2: "/comic-el-extra24120252",
@@ -603,7 +603,6 @@ editChapter(olympus, "+99 PALO", "20", "33453");
 
 editChapter(olympus, "SOLDADO DE ACERO", "36", "91788");
 
-editChapter(olympus, "BLACK SCYTHE", "41", "88523");
 
 editChapter(olympus, "10.000 años futuro", "141", "97736");
 
@@ -629,23 +628,23 @@ editChapter(otros, "REY ESPADA", "236");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
-editChapter(olympus, "SHIRONE", "103", "106835");
+editChapter(olympus, "SHIRONE", "104", "107114");
 
-editChapter(olympus, "WAIFU INSECTO", "41", "105909");
+editChapter(olympus, "WAIFU INSECTO", "44", "106888");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "REY MARCIAL", "66", "106782");
+editChapter(olympus, "REY MARCIAL", "67", "107094");
 
 editChapter(olympus, "BARBARO", "87", "106139");
 
 editChapter(olympus, "EVOLUCION DEMONIACA", "92", "106772");
 
-editChapter(olympus, "SUMMONER", "151", "106832");
+editChapter(olympus, "SUMMONER", "153", "107076");
 
 editChapter(olympus, "DIOS MARCIAL", "87", "106774");
 
-editChapter(olympus, "ESPADA DEMONIO", "59", "106741");
+editChapter(olympus, "ESPADA DEMONIO", "60", "107064");
 
 editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "63", "105780");
 
@@ -655,7 +654,7 @@ editChapter(olympus, "ULTIMO AVENTURERO", "47", "104082");
 
 editChapter(olympus, "MELEE BUENO", "23", "95518");
 
-editChapter(olympus, "MANCO ADENKA", "128", "106659");
+editChapter(olympus, "MANCO ADENKA", "129", "106997");
 
 editChapter(olympus, "SOLO LEVELING", "7", "97708");
 
@@ -663,18 +662,19 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "97", "106739");
+editChapter(olympus, "SABUESO", "98", "107060");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
-editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "89", "105681");
+editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "90", "105964");
 
-editChapter(olympus, "SUPERVIVENCIA ACADEMIA", "62", "106766")
+editChapter(olympus, "ED ROTHAILOR", "63", "107083")
 
 editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
 editChapter(olympus, "HERALDO MONEDAS", "17", "106775")
 
+editChapter(olympus, "BLACK SCYTHE", "43", "107119");
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
 ordenDias(combinados);
