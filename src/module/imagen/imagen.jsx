@@ -63,5 +63,6 @@ const imagen = {
     supervivencia: '1GBw7ZGDzj-kMQpnPfnafZnS2JXxiERnM',
     frontera: '1fHBeAK-2k8Xyc4hqaqcuZU_nfOhhRfvb',
     heraldo: '10aXHYPZ4GIKNMD5WJJpdRLeeoRysO043',
+    cazadragon: '1Vckd_CWocgdwS9apTzbd8K6JusCbe_4j',
 }
 export default imagen;
