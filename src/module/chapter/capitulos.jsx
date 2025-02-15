@@ -638,25 +638,25 @@ editChapter(otros, "REY ESPADA", "236");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
-editChapter(olympus, "SHIRONE", "104", "107114");
+editChapter(olympus, "SHIRONE", "105", "107405");
 
 editChapter(olympus, "WAIFU INSECTO", "45", "107171");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "REY MARCIAL", "67", "107094");
+editChapter(olympus, "REY MARCIAL", "68", "107385");
 
 editChapter(olympus, "BARBARO", "88", "107183");
 
 editChapter(olympus, "EVOLUCION DEMONIACA", "93", "107295");
 
-editChapter(olympus, "SUMMONER", "153", "107076");
+editChapter(olympus, "SUMMONER", "155", "107447");
 
 editChapter(olympus, "DIOS MARCIAL", "87", "106774");
 
-editChapter(olympus, "ESPADA DEMONIO", "60", "107064");
+editChapter(olympus, "ESPADA DEMONIO", "61", "107292");
 
-editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "63", "105780");
+editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "68", "107372");
 
 editChapter(olympus, "BLINKER", "47", "104534");
 
@@ -664,7 +664,7 @@ editChapter(olympus, "ULTIMO AVENTURERO", "47", "104082");
 
 editChapter(olympus, "MELEE BUENO", "23", "95518");
 
-editChapter(olympus, "MANCO ADENKA", "130", "107256");
+editChapter(olympus, "MANCO ADENKA", "131", "107547");
 
 editChapter(olympus, "SOLO LEVELING", "7", "97708");
 
@@ -678,13 +678,13 @@ editChapter(olympus, "ABISMO", "52", "100908");
 
 editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "90", "105964");
 
-editChapter(olympus, "ED ROTHAILOR", "63", "107083")
+editChapter(olympus, "ED ROTHAILOR", "64", "107369")
 
 editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
-editChapter(olympus, "HERALDO MONEDAS", "17", "106775")
+editChapter(olympus, "HERALDO MONEDAS", "19", "107378")
 
-editChapter(olympus, "BLACK SCYTHE", "43", "107119");
+editChapter(olympus, "BLACK SCYTHE", "45", "107407");
 
 editChapter(olympus, "DRAGON HUNTER", "26", "107289");
 
