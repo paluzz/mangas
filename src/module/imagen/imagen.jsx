@@ -64,5 +64,6 @@ const imagen = {
     frontera: '1fHBeAK-2k8Xyc4hqaqcuZU_nfOhhRfvb',
     heraldo: '10aXHYPZ4GIKNMD5WJJpdRLeeoRysO043',
     cazadragon: '1Vckd_CWocgdwS9apTzbd8K6JusCbe_4j',
+    darkstar: '1cMlkLF7jE1aMYf_I_Q3f1DjuIgrWWw-K',
 }
 export default imagen;

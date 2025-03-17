@@ -210,7 +210,7 @@ const olympus = [
         name: "DIOS MARCIAL",
         link1: olympusLink,
         midlink: "74718",
-        link2: "/comic-el-dios-marcial-que-regreso-al-nivel-2",
+        link2: "/comic-d-m-16-20255-nivel-2",
         image: imagen.noname,
         chapter: "4"
     },
@@ -524,6 +524,16 @@ const olympus = [
         image: imagen.frontera,
         chapter: "1"
     },
+    {
+        dia: dia[5],
+        id: "36598745632145",
+        name: "ESTRELLA DE LA MUERTE",
+        link1: olympusLink,
+        midlink: "81289",
+        link2: "/comic-cara-casper13424",
+        image: imagen.darkstar,
+        chapter: "1"
+    },
     /*
     {
         id: "0015",
@@ -640,7 +650,7 @@ editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
 editChapter(olympus, "SHIRONE", "109", "108793");
 
-editChapter(olympus, "WAIFU INSECTO", "49", "108666");
+editChapter(olympus, "WAIFU INSECTO", "50", "108870");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
@@ -648,13 +658,13 @@ editChapter(olympus, "REY MARCIAL", "72", "108770");
 
 editChapter(olympus, "BARBARO", "93", "107972");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "97", "108711");
+editChapter(olympus, "EVOLUCION DEMONIACA", "98", "109036");
 
 editChapter(olympus, "SUMMONER", "162", "108761");
 
-editChapter(olympus, "DIOS MARCIAL", "89", "108762");
+editChapter(olympus, "DIOS MARCIAL", "90", "109116");
 
-editChapter(olympus, "ESPADA DEMONIO", "65", "108708");
+editChapter(olympus, "ESPADA DEMONIO", "66", "109038");
 
 editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "68", "107372");
 
@@ -672,7 +682,7 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "103", "108702");
+editChapter(olympus, "SABUESO", "104", "109031");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
@@ -687,6 +697,9 @@ editChapter(olympus, "HERALDO MONEDAS", "23", "108763")
 editChapter(olympus, "BLACK SCYTHE", "48", "108791");
 
 editChapter(olympus, "DRAGON HUNTER", "28", "107996");
+
+editChapter(olympus, "ESTRELLA DE LA MUERTE", "73", "108836");
+
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
 
