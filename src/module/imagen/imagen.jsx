@@ -9,7 +9,7 @@ const imagen = {
     familia: '1oKsETy4hmlY7f4ClW4H9BPibk_Im57cD',
     melee: '1XZN22gSlhwUVPIJotyji30LP4_15R6EN',
     insecto: '1RpdKd5HN72xrZpsUlxOErGCOY-ZJw7oy',
-    marcialKing: '1D3ccD0rSjrfUrlF-pWrUy_IRFitvdAFb',
+    marcialKing: '1r-H542nD2l0QLBa11FoEE0njh9hRb5m2',
     heroe: '1abvki-_mFXtOwiEhmUE_jEgU3qeMCQzs',
     necfuerza: '1HoVofQtXOJfCSdABMmK2F2N3e7T2Bufm',
     nebula: '1l6UNneNlDE-ivvRE1TNsOT6zvvrTLUdq',
