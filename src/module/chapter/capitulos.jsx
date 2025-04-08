@@ -210,7 +210,7 @@ const olympus = [
         name: "DIOS MARCIAL",
         link1: olympusLink,
         midlink: "74718",
-        link2: "/comic-d-m-16-20255-nivel-2",
+        link2: "/comic-m-m-26-5-4-22-nivel-2",
         image: imagen.noname,
         chapter: "4"
     },
@@ -557,7 +557,8 @@ const otros = [
     createObj(dia[8], "00030", "COME LIBROS", "", imagen.libro, yugenmangasLink + "el-mago-comedor-de-libros/capitulo-"),
     createObj(dia[6], "00099", "COMBAT CONTINENT", "", imagen.combat2, mundoDonguaLink + "combat-continent-2/"),
     createObj(dia[5], "003215", "ARCHIMAGO LADRON", "", imagen.ladron, emperorLink + "el-r3n4cimient0-del-archim4go-del-grupo-del-hero3/capitulo-"),
-    createObj(dia[5], "003216", "MAGO CUERPO A CUERPO", "", imagen.melee, daosLink + "el-mago-cuerpo-a-cuerpo-mas-poderoso"),
+    createObj(dia[5], "003216", "MAGO CUERPO A CUERPO", "", imagen.melee, daosLink + "el-mago-cuerpo-a-cuerpo-mas-poderoso-"),
+    createObj(dia[6], "00321699", "MAESTRO DRAGON", "", imagen.dragones, "https://tresdaos.com/311386/2025/04/05/"),
 ]
 export const combinados = [...otros, ...olympus];
 
@@ -584,17 +585,16 @@ editChapter(otros, "MAGO CUERPO A CUERPO", "36");
 editChapter(otros, "COMBAT CONTINENT", "66");
 
 
+
 //------------------------------------------------
 
 editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
-
 
 editChapter(olympus, "OVERGEARED", "191", "71793");
 
 editChapter(olympus, "CABALLERO LANZA", "99", "66507");
 
 editChapter(olympus, "MONSTRUO", "28.5", "34874");
-
 
 editChapter(olympus, "NANOMAQUINAS", "160", "68280");
 
@@ -644,31 +644,31 @@ editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 
-editChapter(otros, "REY ESPADA", "239");
+editChapter(otros, "REY ESPADA", "240");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
-editChapter(olympus, "SHIRONE", "111", "109474");
+editChapter(olympus, "SHIRONE", "112", "109860");
 
-editChapter(olympus, "WAIFU INSECTO", "50", "108870");
+editChapter(olympus, "WAIFU INSECTO", "53", "109998");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "REY MARCIAL", "74", "109389");
+editChapter(olympus, "REY MARCIAL", "76", "110217");
 
-editChapter(olympus, "BARBARO", "93", "107972");
+editChapter(olympus, "BARBARO", "100", "110043");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "98", "109036");
+editChapter(olympus, "EVOLUCION DEMONIACA", "100", "109769");
 
-editChapter(olympus, "SUMMONER", "166", "109384");
+editChapter(olympus, "SUMMONER", "168", "109823");
 
-editChapter(olympus, "DIOS MARCIAL", "91", "109377");
+editChapter(olympus, "DIOS MARCIAL", "93", "110211");
 
-editChapter(olympus, "ESPADA DEMONIO", "67", "109360");
+editChapter(olympus, "ESPADA DEMONIO", "69", "110167");
 
-editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "72", "109304");
+editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "74", "109820");
 
-editChapter(olympus, "BLINKER", "49", "109279");
+editChapter(olympus, "BLINKER", "51", "110091");
 
 editChapter(olympus, "ULTIMO AVENTURERO", "47", "104082");
 
@@ -682,23 +682,25 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "104", "109031");
+editChapter(olympus, "SABUESO", "106", "110147");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
 editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "90", "105964");
 
-editChapter(olympus, "ED ROTHAILOR", "70", "109368")
+editChapter(olympus, "ED ROTHAILOR", "71", "109814")
 
 editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
 editChapter(olympus, "HERALDO MONEDAS", "23", "108763")
 
-editChapter(olympus, "BLACK SCYTHE", "50", "109477");
+editChapter(olympus, "BLACK SCYTHE", "51", "109861");
 
 editChapter(olympus, "DRAGON HUNTER", "28", "107996");
 
-editChapter(olympus, "ESTRELLA DE LA MUERTE", "75", "109361");
+editChapter(olympus, "ESTRELLA DE LA MUERTE", "77", "110209");
+
+
 
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");

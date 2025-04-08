@@ -65,5 +65,6 @@ const imagen = {
     heraldo: '10aXHYPZ4GIKNMD5WJJpdRLeeoRysO043',
     cazadragon: '1Vckd_CWocgdwS9apTzbd8K6JusCbe_4j',
     darkstar: '1cMlkLF7jE1aMYf_I_Q3f1DjuIgrWWw-K',
+    dragones: '1GrK5CwToRIFVu9HeBR-T4ksRigNajCVj',
 }
 export default imagen;
