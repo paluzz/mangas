@@ -646,31 +646,31 @@ editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 
-editChapter(otros, "REY ESPADA", "242");
+editChapter(otros, "REY ESPADA", "243");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
-editChapter(olympus, "SHIRONE", "114", "110888");
+editChapter(olympus, "SHIRONE", "115", "111288");
 
-editChapter(olympus, "WAIFU INSECTO", "55", "110941");
+editChapter(olympus, "WAIFU INSECTO", "56", "111322");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "REY MARCIAL", "77", "110855");
+editChapter(olympus, "REY MARCIAL", "78", "111257");
 
-editChapter(olympus, "BARBARO", "101", "110585");
+editChapter(olympus, "BARBARO", "102", "111064");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "101", "110769");
+editChapter(olympus, "EVOLUCION DEMONIACA", "102", "111219");
 
-editChapter(olympus, "SUMMONER", "171", "110850");
+editChapter(olympus, "SUMMONER", "172", "111274");
 
-editChapter(olympus, "DIOS MARCIAL", "94", "110853");
+editChapter(olympus, "DIOS MARCIAL", "95", "111249");
 
-editChapter(olympus, "ESPADA DEMONIO", "70", "110755");
+editChapter(olympus, "ESPADA DEMONIO", "71", "111225");
 
-editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "77", "110913");
+editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "78", "111241");
 
-editChapter(olympus, "BLINKER", "52", "110594");
+editChapter(olympus, "BLINKER", "53", "111135");
 
 editChapter(olympus, "ULTIMO AVENTURERO", "47", "104082");
 
@@ -690,17 +690,17 @@ editChapter(olympus, "ABISMO", "52", "100908");
 
 editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "90", "105964");
 
-editChapter(olympus, "ED ROTHAILOR", "73", "110767")
+editChapter(olympus, "ED ROTHAILOR", "75", "111466")
 
 editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
 editChapter(olympus, "HERALDO MONEDAS", "23", "108763")
 
-editChapter(olympus, "BLACK SCYTHE", "52", "110889");
+editChapter(olympus, "BLACK SCYTHE", "53", "111289");
 
 editChapter(olympus, "DRAGON HUNTER", "28", "107996");
 
-editChapter(olympus, "ESTRELLA DE LA MUERTE", "78", "110698");
+editChapter(olympus, "ESTRELLA DE LA MUERTE", "79", "111071");
 
 
 
