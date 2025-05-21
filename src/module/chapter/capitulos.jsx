@@ -645,11 +645,11 @@ editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 
-editChapter(otros, "REY ESPADA", "245");
+editChapter(otros, "REY ESPADA", "246");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
-editChapter(olympus, "SHIRONE", "118", "112188");
+editChapter(olympus, "SHIRONE", "119", "112560");
 
 editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
@@ -695,7 +695,7 @@ editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
 editChapter(olympus, "HERALDO MONEDAS", "23", "108763")
 
-editChapter(olympus, "BLACK SCYTHE", "55", "111938");
+editChapter(olympus, "BLACK SCYTHE", "56", "112561");
 
 editChapter(olympus, "DRAGON HUNTER", "28", "107996");
 
