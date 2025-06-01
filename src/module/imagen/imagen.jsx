@@ -66,5 +66,7 @@ const imagen = {
     cazadragon: '1Vckd_CWocgdwS9apTzbd8K6JusCbe_4j',
     darkstar: '1cMlkLF7jE1aMYf_I_Q3f1DjuIgrWWw-K',
     dragones: '1GrK5CwToRIFVu9HeBR-T4ksRigNajCVj',
+    frozen: '1N1C9ymWdcj8A3k0AgTwhX1lV6jIkjkXy',
+    manual: '1VhNnUV2_OCD8TPgpmLQK2DfV2iHVQAeu',
 }
 export default imagen;
