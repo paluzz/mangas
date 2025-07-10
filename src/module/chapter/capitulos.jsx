@@ -656,31 +656,31 @@ editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 
 //editChapter(olympus, "MAGO CUERPO A CUERPO", "20", "93146");
 
-editChapter(otros, "REY ESPADA", "252");
+editChapter(otros, "REY ESPADA", "253");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
-editChapter(olympus, "SHIRONE", "123", "113779");
+editChapter(olympus, "SHIRONE", "126", "114849");
 
 editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "REY MARCIAL", "87", "114105");
+editChapter(olympus, "REY MARCIAL", "89", "114807");
 
 editChapter(olympus, "BARBARO", "111", "114371");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "112", "114465");
+editChapter(olympus, "EVOLUCION DEMONIACA", "113", "114750");
 
-editChapter(olympus, "SUMMONER", "193", "114546");
+editChapter(olympus, "SUMMONER", "194", "114798");
 
 editChapter(olympus, "DIOS MARCIAL", "100", "114099");
 
-editChapter(olympus, "ESPADA DEMONIO", "81", "114461");
+editChapter(olympus, "ESPADA DEMONIO", "82", "114753");
 
 editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "88", "114410");
 
-editChapter(olympus, "BLINKER", "61", "114420");
+editChapter(olympus, "BLINKER", "62", "114698");
 
 editChapter(olympus, "ULTIMO AVENTURERO", "47", "104082");
 
@@ -694,7 +694,7 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "119", "114457");
+editChapter(olympus, "SABUESO", "120", "114747");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
@@ -706,17 +706,17 @@ editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
 editChapter(olympus, "HERALDO MONEDAS", "23", "108763")
 
-editChapter(olympus, "BLACK SCYTHE", "61", "114564");
+editChapter(olympus, "BLACK SCYTHE", "62", "114859");
 
 editChapter(olympus, "DRAGON HUNTER", "28", "107996");
 
 editChapter(olympus, "ESTRELLA DE LA MUERTE", "83", "112369");
 
-editChapter(otros, "JUGADOR CONGELADO", "174");
+editChapter(otros, "JUGADOR CONGELADO", "175");
 
 editChapter(olympus, "SOLDADO DE ACERO", "68", "113196");
 
-editChapter(olympus, "RETORNADO ALQUIMISTA", "143", "114657");
+editChapter(olympus, "RETORNADO ALQUIMISTA", "144", "114879");
 
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");
