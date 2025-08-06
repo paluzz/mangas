@@ -68,5 +68,11 @@ const imagen = {
     dragones: '1GrK5CwToRIFVu9HeBR-T4ksRigNajCVj',
     frozen: '1N1C9ymWdcj8A3k0AgTwhX1lV6jIkjkXy',
     manual: '1VhNnUV2_OCD8TPgpmLQK2DfV2iHVQAeu',
+    briol: '1XB2dHyrQ1q7MZO5-dKuQuoaKwBSOkN4A',
+    apoca: '1OcRMVazHSJYgH6ToguDhekIYVAqi7uxs',
+    devorador_armas: '13v9AZHIxr2ekLK5HOni1uRnys0bddlVX',
+    mascotas: '17YeRSr2uvfl1oCSp98qYFUV4jnSIbHxX',
+    skeletonking: '1tMRcz8D64MyG3Z6IPwKSuBoJsySpIjYU',
+    domador_hielo: '1CVIjIMAL0x3P0LeRaHXLtEe0AGImd7Ar',
 }
 export default imagen;
