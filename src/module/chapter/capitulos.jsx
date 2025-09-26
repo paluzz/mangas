@@ -94,6 +94,16 @@ const olympus = [
         chapter: "21"
     },
     {
+        dia: dia[4],
+        id: "02008778941123",
+        name: "Come y Crece",
+        link1: olympusLink,
+        midlink: "64919",
+        link2: "/comic-come-y-crece-20250925-081449389",
+        image: imagen.restaurante,
+        chapter: "21"
+    },
+    {
         dia: dia[2],
         id: "0201",
         name: "SHIRONE",
@@ -757,7 +767,7 @@ editChapter(olympus, "SABUESO", "131", "118165");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
-editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "116", "118021");
+editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "117", "118371");
 
 editChapter(olympus, "ED ROTHAILOR", "82", "113670")
 
@@ -775,7 +785,7 @@ editChapter(otros, "JUGADOR CONGELADO", "184");
 
 editChapter(olympus, "SOLDADO DE ACERO", "68", "113196");
 
-editChapter(olympus, "RETORNADO ALQUIMISTA", "154", "117980");
+editChapter(olympus, "RETORNADO ALQUIMISTA", "155", "118370");
 
 editChapter(olympus, "PRINCIPE BRIOL", "34", "118024");
 
@@ -790,6 +800,8 @@ editChapter(olympus, "REY ESQUELETO", "46", "115803");
 editChapter(otros, "MAESTRO DRAGON", "117", "344403/00/01/20/2025/");
 
 editChapter(olympus, "DOMADOR HIELO", "35", "116880");
+
+editChapter(olympus, "COME Y CRECE", "24", "118335");
 
 
 //editChapter(olympus, "DIOS POLLO", "184", "50613");

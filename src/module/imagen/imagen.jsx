@@ -74,5 +74,6 @@ const imagen = {
     mascotas: '17YeRSr2uvfl1oCSp98qYFUV4jnSIbHxX',
     skeletonking: '1tMRcz8D64MyG3Z6IPwKSuBoJsySpIjYU',
     domador_hielo: '1CVIjIMAL0x3P0LeRaHXLtEe0AGImd7Ar',
+    restaurante: '1JwcRrHeiHzVf2Yp-wH6sP_54Bkxij0Vh',
 }
 export default imagen;
