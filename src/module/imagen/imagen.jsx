@@ -75,5 +75,6 @@ const imagen = {
     skeletonking: '1tMRcz8D64MyG3Z6IPwKSuBoJsySpIjYU',
     domador_hielo: '1CVIjIMAL0x3P0LeRaHXLtEe0AGImd7Ar',
     restaurante: '1JwcRrHeiHzVf2Yp-wH6sP_54Bkxij0Vh',
+    herrero: '1aE1Ntf-F41Vpr0OWZxg_whDbfcEs53nU',
 }
 export default imagen;
