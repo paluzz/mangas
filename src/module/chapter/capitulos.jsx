@@ -628,6 +628,16 @@ const olympus = [
         image: imagen.herrero,
         chapter: "1"
     },
+    {
+        dia: dia[2],
+        id: "13216346500098981999884",
+        name: "HEROE TOTAL",
+        link1: olympusLink,
+        midlink: "112953",
+        link2: "/comic-10-05-2025rio-prodigio-de-la-academia",
+        image: imagen.heroetotal,
+        chapter: "1"
+    },
     /*
     {
         id: "0015",
@@ -735,33 +745,33 @@ editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 //------------------------------------------------ CAPITULOS NUEVOS
 
 
-editChapter(otros, "REY ESPADA", "264");
+editChapter(otros, "REY ESPADA", "266");
 
-editChapter(olympus, "REY MARCIAL", "100", "118217");
+editChapter(olympus, "REY MARCIAL", "103", "119161");
 
-editChapter(olympus, "BARBARO", "125", "118991");
+editChapter(olympus, "BARBARO", "126", "119438");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
 editChapter(olympus, "CIVILIZACION NEBULA", "110", "118716");
 
-editChapter(olympus, "SHIRONE", "138", "118582");
+editChapter(olympus, "SHIRONE", "141", "119462");
 
 editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "126", "119081");
+editChapter(olympus, "EVOLUCION DEMONIACA", "127", "119377");
 
-editChapter(olympus, "SUMMONER", "215", "118459");
+editChapter(olympus, "SUMMONER", "219", "119210");
 
 editChapter(olympus, "DIOS MARCIAL", "100", "114099");
 
 editChapter(olympus, "ESPADA DEMONIO (CYAN VERT)", "96", "119112");
 
-editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "102", "118717");
+editChapter(olympus, "REGRESOR CAIDO (MCLAIN)", "103", "119173");
 
-editChapter(olympus, "BLINKER", "72", "118727");
+editChapter(olympus, "BLINKER", "74", "119671");
 
 editChapter(olympus, "ULTIMO AVENTURERO", "47", "104082");
 
@@ -775,11 +785,11 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "134", "119105");
+editChapter(olympus, "SABUESO", "135", "119380");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
-editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "119", "119082");
+editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "120", "119335");
 
 editChapter(olympus, "ED ROTHAILOR", "82", "113670")
 
@@ -787,17 +797,17 @@ editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
 editChapter(olympus, "HERALDO MONEDAS", "23", "108763")
 
-editChapter(olympus, "BLACK SCYTHE", "71", "118253");
+editChapter(olympus, "BLACK SCYTHE", "73", "119464");
 
 editChapter(olympus, "DRAGON HUNTER", "28", "107996");
 
 editChapter(olympus, "ESTRELLA DE LA MUERTE", "83", "112369");
 
-editChapter(otros, "JUGADOR CONGELADO", "184");
+editChapter(otros, "JUGADOR CONGELADO", "189");
 
 editChapter(olympus, "SOLDADO DE ACERO", "68", "113196");
 
-editChapter(olympus, "RETORNADO ALQUIMISTA", "156", "118892");
+editChapter(olympus, "RETORNADO ALQUIMISTA", "159", "119473");
 
 editChapter(olympus, "PRINCIPE BRIOL", "36", "118700");
 
@@ -805,7 +815,7 @@ editChapter(olympus, "CABALLERO APOCALIPSIS", "37", "118264");
 
 editChapter(olympus, "DEVORADOR DE ARMAS", "34", "112633");
 
-editChapter(olympus, "MASCOTAS ESTELARES", "196", "118735");
+editChapter(olympus, "MASCOTAS ESTELARES", "197", "119307");
 
 editChapter(olympus, "REY ESQUELETO", "46", "115803");
 
@@ -813,9 +823,11 @@ editChapter(otros, "MAESTRO DRAGON", "117", "344403/00/01/20/2025/");
 
 editChapter(olympus, "DOMADOR HIELO", "40", "118451");
 
-editChapter(olympus, "COME Y CRECE", "25", "118658");
+editChapter(olympus, "COME Y CRECE", "26", "119448");
 
-editChapter(olympus, "HERRERO", "23", "118995");
+editChapter(olympus, "HERRERO", "24", "119296");
+
+editChapter(olympus, "HEROE TOTAL", "52", "118909");
 
 
 ordenDias(combinados);
