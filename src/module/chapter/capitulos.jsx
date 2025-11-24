@@ -763,7 +763,7 @@ editChapter(olympus, "BERSEKER", "130", "102764");
 
 editChapter(olympus, "EVOLUCION DEMONIACA", "127", "119377");
 
-editChapter(olympus, "SUMMONER", "219", "119210");
+editChapter(olympus, "SUMMONER", "228", "121140");
 
 editChapter(olympus, "DIOS MARCIAL", "100", "114099");
 
