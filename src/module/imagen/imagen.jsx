@@ -76,6 +76,7 @@ const imagen = {
     domador_hielo: '1CVIjIMAL0x3P0LeRaHXLtEe0AGImd7Ar',
     restaurante: '1JwcRrHeiHzVf2Yp-wH6sP_54Bkxij0Vh',
     herrero: '1aE1Ntf-F41Vpr0OWZxg_whDbfcEs53nU',
-    heroetotal: '1cjVIN3B-KrmSh1vOtiOHOC2SGgDkpZ5d'
+    heroetotal: '1cjVIN3B-KrmSh1vOtiOHOC2SGgDkpZ5d',
+    teverde: '1MbCTd3URN1P9lTi-2VK1lV-E2TSyq9L-',
 }
 export default imagen;

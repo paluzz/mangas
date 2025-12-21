@@ -638,6 +638,16 @@ const olympus = [
         image: imagen.heroetotal,
         chapter: "1"
     },
+    {
+        dia: dia[1],
+        id: "13216346500099884",
+        name: "DEMON HUNTER",
+        link1: olympusLink,
+        midlink: "112953",
+        link2: "/comic-el-pasado-oculto-del-jugador-20251220-081656292",
+        image: imagen.teverde,
+        chapter: "1"
+    },
     /*
     {
         id: "0015",
@@ -761,7 +771,7 @@ editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "134", "121718");
+editChapter(olympus, "EVOLUCION DEMONIACA", "136", "122297");
 
 editChapter(olympus, "SUMMONER", "230", "121376");
 
@@ -785,7 +795,7 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "142", "121683");
+editChapter(olympus, "SABUESO", "143", "121966");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
@@ -797,7 +807,7 @@ editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
 editChapter(olympus, "HERALDO MONEDAS", "23", "108763")
 
-editChapter(olympus, "BLACK SCYTHE", "78", "121415");
+editChapter(olympus, "BLACK SCYTHE", "80", "122054");
 
 editChapter(olympus, "DRAGON HUNTER", "28", "107996");
 
@@ -827,7 +837,9 @@ editChapter(olympus, "COME Y CRECE", "26", "119448");
 
 editChapter(olympus, "HERRERO", "24", "119296");
 
-editChapter(olympus, "HEROE TOTAL", "61", "121736");
+editChapter(olympus, "HEROE TOTAL", "64", "122304");
+
+editChapter(olympus, "DEMON HUNTER", "100", "121807");
 
 
 ordenDias(combinados);
