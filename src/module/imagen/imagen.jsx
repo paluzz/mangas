@@ -78,5 +78,6 @@ const imagen = {
     herrero: '1aE1Ntf-F41Vpr0OWZxg_whDbfcEs53nU',
     heroetotal: '1cjVIN3B-KrmSh1vOtiOHOC2SGgDkpZ5d',
     teverde: '1MbCTd3URN1P9lTi-2VK1lV-E2TSyq9L-',
+    devoraespadas: '11-LbxUFKCp4zgc1XrlVV9lXukcPTicDv',
 }
 export default imagen;

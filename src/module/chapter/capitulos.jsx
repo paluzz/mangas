@@ -648,6 +648,16 @@ const olympus = [
         image: imagen.teverde,
         chapter: "1"
     },
+    {
+        dia: dia[2],
+        id: "13216346500099884",
+        name: "DEVORA ESPADAS",
+        link1: olympusLink,
+        midlink: "112953",
+        link2: "/comic-maestro-de-la-espada-devorador-de-espadas-20260303-121347291",
+        image: imagen.devoraespadas,
+        chapter: "1"
+    },
     /*
     {
         id: "0015",
@@ -765,17 +775,17 @@ editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
 editChapter(olympus, "CIVILIZACION NEBULA", "110", "118716");
 
-editChapter(olympus, "SHIRONE", "152", "123606");
+editChapter(olympus, "SHIRONE", "157", "125019");
 
 editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "141", "123825");
+editChapter(olympus, "EVOLUCION DEMONIACA", "145", "125294");
 
-editChapter(olympus, "SUMMONER", "243", "123675");
+editChapter(olympus, "SUMMONER", "250", "125232");
 
-editChapter(olympus, "DIOS MARCIAL", "111", "123863");
+editChapter(olympus, "DIOS MARCIAL", "113", "124969");
 
 editChapter(olympus, "ESPADA DEMONIO (CYAN VERT)", "96", "119112");
 
@@ -795,13 +805,13 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "148", "124151");
+editChapter(olympus, "SABUESO", "152", "125289");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
 editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "120", "119335");
 
-editChapter(olympus, "ED ROTHAILOR", "88", "123759")
+editChapter(olympus, "ED ROTHAILOR", "95", "125319")
 
 editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
@@ -837,9 +847,11 @@ editChapter(olympus, "COME Y CRECE", "26", "119448");
 
 editChapter(olympus, "HERRERO", "24", "119296");
 
-editChapter(olympus, "HEROE TOTAL", "67", "123816");
+editChapter(olympus, "HEROE TOTAL", "73", "124891");
 
-editChapter(olympus, "DEMON HUNTER", "103", "123044");
+editChapter(olympus, "DEMON HUNTER", "108", "124661");
+
+editChapter(olympus, "DEVORA ESPADAS", "17", "125064");
 
 
 ordenDias(combinados);
