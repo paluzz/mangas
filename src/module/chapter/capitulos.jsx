@@ -781,9 +781,9 @@ editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "145", "125294");
+editChapter(olympus, "EVOLUCION DEMONIACA", "147", "125827");
 
-editChapter(olympus, "SUMMONER", "250", "125232");
+editChapter(olympus, "SUMMONER", "255", "125816");
 
 editChapter(olympus, "DIOS MARCIAL", "113", "124969");
 
@@ -805,7 +805,7 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "152", "125289");
+editChapter(olympus, "SABUESO", "154", "125891");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
@@ -847,11 +847,11 @@ editChapter(olympus, "COME Y CRECE", "26", "119448");
 
 editChapter(olympus, "HERRERO", "24", "119296");
 
-editChapter(olympus, "HEROE TOTAL", "73", "124891");
+editChapter(olympus, "HEROE TOTAL", "75", "125911");
 
-editChapter(olympus, "DEMON HUNTER", "108", "124661");
+editChapter(olympus, "DEMON HUNTER", "110", "125315");
 
-editChapter(olympus, "DEVORA ESPADAS", "17", "125064");
+editChapter(olympus, "DEVORA ESPADAS", "18", "125915");
 
 
 ordenDias(combinados);
