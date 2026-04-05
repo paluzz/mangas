@@ -2,7 +2,6 @@ import './styles.css'
 import { CardManga } from './module/card/card.jsx'
 import { combinados } from './module/chapter/capitulos.jsx'
 import { Header, Footer } from './module/header/Header.jsx'
-import { Menu } from './module/menu/menu.jsx'
 
 export default function App() {
   return (

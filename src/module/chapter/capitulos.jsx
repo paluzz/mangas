@@ -775,15 +775,15 @@ editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
 editChapter(olympus, "CIVILIZACION NEBULA", "110", "118716");
 
-editChapter(olympus, "SHIRONE", "157", "125019");
+editChapter(olympus, "SHIRONE", "161", "126448");
 
 editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "147", "125827");
+editChapter(olympus, "EVOLUCION DEMONIACA", "148", "126350");
 
-editChapter(olympus, "SUMMONER", "255", "125816");
+editChapter(olympus, "SUMMONER", "259", "126438");
 
 editChapter(olympus, "DIOS MARCIAL", "113", "124969");
 
@@ -805,11 +805,11 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "154", "125891");
+editChapter(olympus, "SABUESO", "156", "126609");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
-editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "120", "119335");
+editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "134", "126432");
 
 editChapter(olympus, "ED ROTHAILOR", "95", "125319")
 
@@ -847,9 +847,9 @@ editChapter(olympus, "COME Y CRECE", "26", "119448");
 
 editChapter(olympus, "HERRERO", "24", "119296");
 
-editChapter(olympus, "HEROE TOTAL", "75", "125911");
+editChapter(olympus, "HEROE TOTAL", "77", "126874");
 
-editChapter(olympus, "DEMON HUNTER", "110", "125315");
+editChapter(olympus, "DEMON HUNTER", "111", "126030");
 
 editChapter(olympus, "DEVORA ESPADAS", "18", "125915");
 
