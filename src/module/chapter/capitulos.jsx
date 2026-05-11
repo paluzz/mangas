@@ -29,6 +29,26 @@ const olympus = [
     },
     {
         dia: dia[1],
+        id: "1231235649002",
+        name: "DEVORADOR ARTEFACTOS",
+        link1: olympusLink,
+        midlink: "00001",
+        link2: "/comic-jugador-devorador-de-artefactos-20260510-080323160",
+        image: imagen.artefactos,
+        chapter: "1"
+    },
+    {
+        dia: dia[1],
+        id: "1231235649003",
+        name: "STREAM",
+        link1: olympusLink,
+        midlink: "00001",
+        link2: "/comic-el-stream-del-reencarnado-20260510-080348918",
+        image: imagen.stream,
+        chapter: "1"
+    },
+    {
+        dia: dia[1],
         id: "0005",
         name: "BERSEKER",
         link1: olympusLink,
@@ -519,7 +539,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[6],
+        dia: dia[1],
         id: "96541111125",
         name: "ED ROTHAILOR",
         link1: olympusLink,
@@ -775,17 +795,17 @@ editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
 editChapter(olympus, "CIVILIZACION NEBULA", "110", "118716");
 
-editChapter(olympus, "SHIRONE", "161", "126448");
+editChapter(olympus, "SHIRONE", "163", "126995");
 
 editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
 editChapter(olympus, "BERSEKER", "130", "102764");
 
-editChapter(olympus, "EVOLUCION DEMONIACA", "148", "126350");
+editChapter(olympus, "EVOLUCION DEMONIACA", "151", "127353");
 
-editChapter(olympus, "SUMMONER", "259", "126438");
+editChapter(olympus, "SUMMONER", "269", "127875");
 
-editChapter(olympus, "DIOS MARCIAL", "113", "124969");
+editChapter(olympus, "DIOS MARCIAL", "115", "128056");
 
 editChapter(olympus, "ESPADA DEMONIO (CYAN VERT)", "96", "119112");
 
@@ -805,13 +825,13 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "156", "126609");
+editChapter(olympus, "SABUESO", "162", "128277");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
-editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "134", "126432");
+editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "135", "126489");
 
-editChapter(olympus, "ED ROTHAILOR", "95", "125319")
+editChapter(olympus, "ED ROTHAILOR", "102", "127422")
 
 editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
@@ -847,11 +867,17 @@ editChapter(olympus, "COME Y CRECE", "26", "119448");
 
 editChapter(olympus, "HERRERO", "24", "119296");
 
-editChapter(olympus, "HEROE TOTAL", "77", "126874");
+editChapter(olympus, "HEROE TOTAL", "83", "128005");
 
-editChapter(olympus, "DEMON HUNTER", "111", "126030");
+editChapter(olympus, "DEMON HUNTER", "114", "127233");
 
-editChapter(olympus, "DEVORA ESPADAS", "18", "125915");
+editChapter(olympus, "DEVORA ESPADAS", "23", "127257");
+
+editChapter(olympus, "DEVORADOR ARTEFACTOS", "40", "128169");
+
+editChapter(olympus, "STREAM", "48", "128078");
+
+
 
 
 ordenDias(combinados);

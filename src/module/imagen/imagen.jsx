@@ -79,5 +79,7 @@ const imagen = {
     heroetotal: '1cjVIN3B-KrmSh1vOtiOHOC2SGgDkpZ5d',
     teverde: '1MbCTd3URN1P9lTi-2VK1lV-E2TSyq9L-',
     devoraespadas: '11-LbxUFKCp4zgc1XrlVV9lXukcPTicDv',
+    artefactos: '118FyudG5N4bHVSJD1jgFYM04FoFeqdMl',
+    stream: '1-1PkZ2zpsBFZJJRTTZmh6kflNdYB5uG-',
 }
 export default imagen;
