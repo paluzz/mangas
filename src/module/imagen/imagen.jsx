@@ -81,5 +81,7 @@ const imagen = {
     devoraespadas: '11-LbxUFKCp4zgc1XrlVV9lXukcPTicDv',
     artefactos: '118FyudG5N4bHVSJD1jgFYM04FoFeqdMl',
     stream: '1-1PkZ2zpsBFZJJRTTZmh6kflNdYB5uG-',
+    invocaciones: '1FDaEsBcaK_ed3WaXaa6w-yA6qN8dvXPG',
+    tbate: '1Y-fs5GSAtRGjBNt7u-hJ5FjXnUH8PeMK',
 }
 export default imagen;

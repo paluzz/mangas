@@ -18,6 +18,16 @@ const dia = ["Diario", "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sá
 // ------------------------------------------------ LISTAS DE COMICS
 const olympus = [
     {
+        dia: dia[1],
+        id: "0004548798914",
+        name: "MAESTRO GENIO",
+        link1: olympusLink,
+        midlink: "31185",
+        link2: "/comic-el-maestro-de-la-espada-genio-de-la-academia-20260529-080153013",
+        image: imagen.esqueleto,
+        chapter: "222"
+    },
+    {
         dia: dia[8],
         id: "0004",
         name: "ESQUELETON SOLDIER",
@@ -25,6 +35,16 @@ const olympus = [
         midlink: "31185",
         link2: "/comic-soldado-esqueleto",
         image: imagen.esqueleto,
+        chapter: "222"
+    },
+    {
+        dia: dia[2],
+        id: "0004",
+        name: "INVOCACIONES EX",
+        link1: olympusLink,
+        midlink: "31185",
+        link2: "/comic-mi-invocacion-es-de-clase-ex",
+        image: imagen.invocaciones,
         chapter: "222"
     },
     {
@@ -48,7 +68,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[1],
+        dia: dia[8],
         id: "0005",
         name: "BERSEKER",
         link1: olympusLink,
@@ -78,7 +98,7 @@ const olympus = [
         chapter: "80"
     },
     {
-        dia: dia[2],
+        dia: dia[8],
         id: "0010",
         name: "HARD CARRY SUPPORT",
         link1: olympusLink,
@@ -128,7 +148,7 @@ const olympus = [
         chapter: "21"
     },
     {
-        dia: dia[2],
+        dia: dia[1],
         id: "0201",
         name: "SHIRONE",
         link1: olympusLink,
@@ -138,7 +158,7 @@ const olympus = [
         chapter: "39"
     },
     {
-        dia: dia[5],
+        dia: dia[2],
         id: "0000001154879556",
         name: "REY ESQUELETO",
         link1: olympusLink,
@@ -148,7 +168,7 @@ const olympus = [
         chapter: "39"
     },
     {
-        dia: dia[5],
+        dia: dia[4],
         id: "00000011548795566",
         name: "DOMADOR HIELO",
         link1: olympusLink,
@@ -249,7 +269,7 @@ const olympus = [
         chapter: "20"
     },
     {
-        dia: dia[2],
+        dia: dia[8],
         id: "2217",
         name: "SOLDADO DE ACERO",
         link1: olympusLink,
@@ -269,7 +289,7 @@ const olympus = [
         chapter: "4"
     },
     {
-        dia: dia[7],
+        dia: dia[2],
         id: "2219",
         name: "SUMMONER",
         link1: olympusLink,
@@ -289,7 +309,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[3],
+        dia: dia[8],
         id: "9875",
         name: "10.000 AÑOS FUTURO",
         link1: olympusLink,
@@ -299,7 +319,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[3],
+        dia: dia[8],
         id: "9654654654",
         name: "ARBOL DIVINO",
         link1: olympusLink,
@@ -309,7 +329,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[2],
+        dia: dia[8],
         id: "9654654655",
         name: "DEVORADOR",
         link1: olympusLink,
@@ -379,7 +399,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[1],
+        dia: dia[3],
         id: "9654654662",
         name: "JEFE DEVORADOR",
         link1: olympusLink,
@@ -389,7 +409,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[7],
+        dia: dia[8],
         id: "9654654662",
         name: "EL SUCESOR DE LOS HEROES",
         link1: olympusLink,
@@ -399,7 +419,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[1],
+        dia: dia[2],
         id: "96541111111",
         name: "REY MARCIAL",
         link1: olympusLink,
@@ -409,7 +429,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[4],
+        dia: dia[8],
         id: "96541111112",
         name: "WAIFU INSECTO",
         link1: olympusLink,
@@ -439,7 +459,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[6],
+        dia: dia[8],
         id: "96541111117",
         name: "ULTIMO AVENTURERO",
         link1: olympusLink,
@@ -449,7 +469,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[5],
+        dia: dia[8],
         id: "96541111118",
         name: "MELEE BUENO",
         link1: olympusLink,
@@ -459,7 +479,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[3],
+        dia: dia[8],
         id: "965411199999",
         name: "SOLO LEVELING",
         link1: olympusLink,
@@ -479,7 +499,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[5],
+        dia: dia[8],
         id: "96549999997",
         name: "TROLL FUERTE",
         link1: olympusLink,
@@ -509,7 +529,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[7],
+        dia: dia[1],
         id: "96541111120",
         name: "SABUESO",
         link1: olympusLink,
@@ -529,7 +549,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[6],
+        dia: dia[8],
         id: "96541111124",
         name: "ABISMO",
         link1: olympusLink,
@@ -549,7 +569,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[6],
+        dia: dia[8],
         id: "005588994",
         name: "HERALDO MONEDAS",
         link1: olympusLink,
@@ -559,7 +579,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[6],
+        dia: dia[8],
         id: "9654111116625",
         name: "DRAGON HUNTER",
         link1: olympusLink,
@@ -579,7 +599,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[5],
+        dia: dia[8],
         id: "36598745632145",
         name: "ESTRELLA DE LA MUERTE",
         link1: olympusLink,
@@ -609,7 +629,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[5],
+        dia: dia[8],
         id: "36598745699999448",
         name: "CABALLERO APOCALIPSIS",
         link1: olympusLink,
@@ -629,7 +649,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[5],
+        dia: dia[2],
         id: "36598745699999454",
         name: "MASCOTAS ESTELARES",
         link1: olympusLink,
@@ -639,7 +659,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[1],
+        dia: dia[8],
         id: "132163465000989812",
         name: "HERRERO",
         link1: olympusLink,
@@ -649,7 +669,7 @@ const olympus = [
         chapter: "1"
     },
     {
-        dia: dia[2],
+        dia: dia[1],
         id: "13216346500098981999884",
         name: "HEROE TOTAL",
         link1: olympusLink,
@@ -692,18 +712,19 @@ const olympus = [
 const otros = [
     createObj(dia[8], "99999", "MARTIAL PEAK", "3000", imagen.martial, "https://manhuako.com/manhua/martial-peak/chapter-"),
     createObj(dia[8], "66666", "YUAN ZUN", "892", imagen.yuan, samuraiLink + "yuan-zun/capitulo-"),
-    createObj(dia[6], "66669930", "YUAN ZUND", "1", imagen.yuan, mundoDonguaLink + "yuan-zun/"),
+    createObj(dia[8], "66669930", "YUAN ZUND", "1", imagen.yuan, mundoDonguaLink + "yuan-zun/"),
     createObj(dia[1], "0002", "SECOND LIFE RANKER", "", imagen.ranker, yugenmangasLink + "capitulo/"),
     createObj(dia[3], "0003", "REY ESPADA", "", imagen.espada, manhwaweb + "registros-de-supervivencia-del-rey-de-la-espada-_1737881316734-"),
     createObj(dia[7], "0007", "CAZADOR SUIC1D4", "", imagen.suic1d3, yugenmangasLink + "capitulo/"),
     createObj(dia[8], "0008", "RANKER OSO", "", imagen.osito, yugenmangasLink + "el-retorno-del-ranker-remake/capitulo-"),
     createObj(dia[8], "00029", "FRANCOTIRADOR", "", imagen.arcane, samuraiLink + "el-francotirador-de-nivel-arcano/capitulo-"),
     createObj(dia[8], "00030", "COME LIBROS", "", imagen.libro, yugenmangasLink + "el-mago-comedor-de-libros/capitulo-"),
-    createObj(dia[6], "00099", "COMBAT CONTINENT", "", imagen.combat2, mundoDonguaLink + "combat-continent-2/"),
-    createObj(dia[5], "003215", "ARCHIMAGO LADRON", "", imagen.ladron, emperorLink + "el-r3n4cimient0-del-archim4go-del-grupo-del-hero3/capitulo-"),
-    createObj(dia[5], "003216", "MAGO CUERPO A CUERPO", "", imagen.melee, daosLink + "el-mago-cuerpo-a-cuerpo-mas-poderoso-"),
-    createObj(dia[6], "00321699", "MAESTRO DRAGON", "116", imagen.dragones, daosLink),
+    createObj(dia[8], "00099", "COMBAT CONTINENT", "", imagen.combat2, mundoDonguaLink + "combat-continent-2/"),
+    createObj(dia[8], "003215", "ARCHIMAGO LADRON", "", imagen.ladron, emperorLink + "el-r3n4cimient0-del-archim4go-del-grupo-del-hero3/capitulo-"),
+    createObj(dia[8], "003216", "MAGO CUERPO A CUERPO", "", imagen.melee, daosLink + "el-mago-cuerpo-a-cuerpo-mas-poderoso-"),
+    createObj(dia[8], "00321699", "MAESTRO DRAGON", "116", imagen.dragones, daosLink),
     createObj(dia[2], "00321600", "JUGADOR CONGELADO", "", imagen.frozen, "https://traduccionesamistosas.topmanhuas.org/manga/espectro-congelado/capitulo-"),
+    createObj(dia[2], "11112546", "TBATE", "", imagen.tbate, manhwaweb + "la-vida-despues-de-la-muerte_1696084388227-"),
 ]
 export const combinados = [...otros, ...olympus];
 
@@ -795,7 +816,7 @@ editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
 editChapter(olympus, "CIVILIZACION NEBULA", "110", "118716");
 
-editChapter(olympus, "SHIRONE", "163", "126995");
+editChapter(olympus, "SHIRONE", "169", "128717");
 
 editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
@@ -803,9 +824,9 @@ editChapter(olympus, "BERSEKER", "130", "102764");
 
 editChapter(olympus, "EVOLUCION DEMONIACA", "151", "127353");
 
-editChapter(olympus, "SUMMONER", "269", "127875");
+editChapter(olympus, "SUMMONER", "278", "129616");
 
-editChapter(olympus, "DIOS MARCIAL", "115", "128056");
+editChapter(olympus, "DIOS MARCIAL", "117", "128672");
 
 editChapter(olympus, "ESPADA DEMONIO (CYAN VERT)", "96", "119112");
 
@@ -825,7 +846,7 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "162", "128277");
+editChapter(olympus, "SABUESO", "168", "129865");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
@@ -837,7 +858,7 @@ editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
 editChapter(olympus, "HERALDO MONEDAS", "23", "108763")
 
-editChapter(olympus, "BLACK SCYTHE", "80", "122054");
+editChapter(olympus, "BLACK SCYTHE", "87", "129641");
 
 editChapter(olympus, "DRAGON HUNTER", "28", "107996");
 
@@ -867,15 +888,22 @@ editChapter(olympus, "COME Y CRECE", "26", "119448");
 
 editChapter(olympus, "HERRERO", "24", "119296");
 
-editChapter(olympus, "HEROE TOTAL", "83", "128005");
+editChapter(olympus, "HEROE TOTAL", "84", "128251");
 
 editChapter(olympus, "DEMON HUNTER", "114", "127233");
 
-editChapter(olympus, "DEVORA ESPADAS", "23", "127257");
+editChapter(olympus, "DEVORA ESPADAS", "24", "128568");
 
-editChapter(olympus, "DEVORADOR ARTEFACTOS", "40", "128169");
+editChapter(olympus, "DEVORADOR ARTEFACTOS", "47", "129929");
 
-editChapter(olympus, "STREAM", "48", "128078");
+editChapter(olympus, "STREAM", "50", "128693");
+
+editChapter(olympus, "INVOCACIONES EX", "27", "129281");
+
+editChapter(olympus, "MAESTRO GENIO", "138", "129115");
+
+editChapter(otros, "TBATE", "251_01");
+
 
 
 
