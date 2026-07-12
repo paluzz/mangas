@@ -20,11 +20,21 @@ const olympus = [
     {
         dia: dia[1],
         id: "0004548798914",
+        name: "REY DEMONIO FENIX",
+        link1: olympusLink,
+        midlink: "31185",
+        link2: "/comic-el-rey-demonio-abrumado-por-heroes-20260711-113822150",
+        image: imagen.reydemonio,
+        chapter: "222"
+    },
+    {
+        dia: dia[1],
+        id: "0004548798914",
         name: "MAESTRO GENIO",
         link1: olympusLink,
         midlink: "31185",
-        link2: "/comic-el-maestro-de-la-espada-genio-de-la-academia-20260529-080153013",
-        image: imagen.esqueleto,
+        link2: "/comic-el-maestro-de-la-espada-genio-de-la-academia-20260629-080113209",
+        image: imagen.genio_academia,
         chapter: "222"
     },
     {
@@ -723,8 +733,9 @@ const otros = [
     createObj(dia[8], "003215", "ARCHIMAGO LADRON", "", imagen.ladron, emperorLink + "el-r3n4cimient0-del-archim4go-del-grupo-del-hero3/capitulo-"),
     createObj(dia[8], "003216", "MAGO CUERPO A CUERPO", "", imagen.melee, daosLink + "el-mago-cuerpo-a-cuerpo-mas-poderoso-"),
     createObj(dia[8], "00321699", "MAESTRO DRAGON", "116", imagen.dragones, daosLink),
-    createObj(dia[2], "00321600", "JUGADOR CONGELADO", "", imagen.frozen, "https://traduccionesamistosas.topmanhuas.org/manga/espectro-congelado/capitulo-"),
+    createObj(dia[2], "00321600", "JUGADOR CONGELADO", "", imagen.frozen, manhwaweb + "el-regreso-del-jugador-congelado_1746366138711-"),
     createObj(dia[2], "11112546", "TBATE", "", imagen.tbate, manhwaweb + "la-vida-despues-de-la-muerte_1696084388227-"),
+    createObj(dia[1], "11112556", "SHANGRI-LA", "", imagen.shangrila, manhwaweb + "shangri-la_frontiercrappygamehunterchallengesgod-tiergame-2490672-"),
 ]
 export const combinados = [...otros, ...olympus];
 
@@ -816,7 +827,7 @@ editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
 editChapter(olympus, "CIVILIZACION NEBULA", "110", "118716");
 
-editChapter(olympus, "SHIRONE", "169", "128717");
+editChapter(olympus, "SHIRONE", "176", "130398");
 
 editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
@@ -824,9 +835,9 @@ editChapter(olympus, "BERSEKER", "130", "102764");
 
 editChapter(olympus, "EVOLUCION DEMONIACA", "151", "127353");
 
-editChapter(olympus, "SUMMONER", "278", "129616");
+editChapter(olympus, "SUMMONER", "285", "130146");
 
-editChapter(olympus, "DIOS MARCIAL", "117", "128672");
+editChapter(olympus, "DIOS MARCIAL", "123", "130364");
 
 editChapter(olympus, "ESPADA DEMONIO (CYAN VERT)", "96", "119112");
 
@@ -846,25 +857,25 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "168", "129865");
+editChapter(olympus, "SABUESO", "170", "130304");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
 editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "135", "126489");
 
-editChapter(olympus, "ED ROTHAILOR", "102", "127422")
+editChapter(olympus, "ED ROTHAILOR", "113", "130092")
 
 editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
 editChapter(olympus, "HERALDO MONEDAS", "23", "108763")
 
-editChapter(olympus, "BLACK SCYTHE", "87", "129641");
+editChapter(olympus, "BLACK SCYTHE", "89", "130155");
 
 editChapter(olympus, "DRAGON HUNTER", "28", "107996");
 
 editChapter(olympus, "ESTRELLA DE LA MUERTE", "83", "112369");
 
-editChapter(otros, "JUGADOR CONGELADO", "189");
+editChapter(otros, "JUGADOR CONGELADO", "215_01");
 
 editChapter(olympus, "SOLDADO DE ACERO", "68", "113196");
 
@@ -876,7 +887,7 @@ editChapter(olympus, "CABALLERO APOCALIPSIS", "37", "118264");
 
 editChapter(olympus, "DEVORADOR DE ARMAS", "34", "112633");
 
-editChapter(olympus, "MASCOTAS ESTELARES", "197", "119307");
+editChapter(olympus, "MASCOTAS ESTELARES", "215", "128462");
 
 editChapter(olympus, "REY ESQUELETO", "46", "115803");
 
@@ -888,21 +899,25 @@ editChapter(olympus, "COME Y CRECE", "26", "119448");
 
 editChapter(olympus, "HERRERO", "24", "119296");
 
-editChapter(olympus, "HEROE TOTAL", "84", "128251");
+editChapter(olympus, "HEROE TOTAL", "94", "130565");
 
 editChapter(olympus, "DEMON HUNTER", "114", "127233");
 
-editChapter(olympus, "DEVORA ESPADAS", "24", "128568");
+editChapter(olympus, "DEVORA ESPADAS", "32", "130575");
 
-editChapter(olympus, "DEVORADOR ARTEFACTOS", "47", "129929");
+editChapter(olympus, "DEVORADOR ARTEFACTOS", "48", "130139");
 
 editChapter(olympus, "STREAM", "50", "128693");
 
-editChapter(olympus, "INVOCACIONES EX", "27", "129281");
+editChapter(olympus, "INVOCACIONES EX", "31", "130463");
 
-editChapter(olympus, "MAESTRO GENIO", "138", "129115");
+editChapter(olympus, "MAESTRO GENIO", "145", "130535");
 
-editChapter(otros, "TBATE", "251_01");
+editChapter(olympus, "REY DEMONIO FENIX", "38", "130473");
+
+editChapter(otros, "TBATE", "252_01");
+
+editChapter(otros, "SHANGRI-LA", "272_01");
 
 
 

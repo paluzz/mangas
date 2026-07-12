@@ -83,5 +83,8 @@ const imagen = {
     stream: '1-1PkZ2zpsBFZJJRTTZmh6kflNdYB5uG-',
     invocaciones: '1FDaEsBcaK_ed3WaXaa6w-yA6qN8dvXPG',
     tbate: '1Y-fs5GSAtRGjBNt7u-hJ5FjXnUH8PeMK',
+    genio_academia: '15Syl00Tyg2pD5l5o3WcbAz2j02rrGXCk',
+    shangrila: '1iCVyM-TeOzK6TYccNipgQ79n-F1UuYQy',
+    reydemonio: '1KH3xvKYqJMej81TnisIcSvgIisEUbQjf',
 }
 export default imagen;
