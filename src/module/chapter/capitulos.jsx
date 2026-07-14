@@ -764,7 +764,7 @@ editChapter(otros, "MAGO CUERPO A CUERPO", "36");
 
 editChapter(otros, "COMBAT CONTINENT", "66");
 
-editChapter(olympus, "ESQUELETON SOLDIER", "247", "70253");
+editChapter(olympus, "ESQUELETON SOLDIER", "268", "85727");
 
 editChapter(olympus, "OVERGEARED", "191", "71793");
 
@@ -817,7 +817,7 @@ editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 //------------------------------------------------ CAPITULOS NUEVOS
 
 
-editChapter(otros, "REY ESPADA", "266");
+editChapter(otros, "REY ESPADA", "296_01");
 
 editChapter(olympus, "REY MARCIAL", "103", "119161");
 
@@ -825,9 +825,9 @@ editChapter(olympus, "BARBARO", "126", "119438");
 
 editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
-editChapter(olympus, "CIVILIZACION NEBULA", "110", "118716");
+editChapter(olympus, "CIVILIZACION NEBULA", "134", "129927");
 
-editChapter(olympus, "SHIRONE", "176", "130398");
+editChapter(olympus, "SHIRONE", "177", "130666");
 
 editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
@@ -837,7 +837,7 @@ editChapter(olympus, "EVOLUCION DEMONIACA", "151", "127353");
 
 editChapter(olympus, "SUMMONER", "285", "130146");
 
-editChapter(olympus, "DIOS MARCIAL", "123", "130364");
+editChapter(olympus, "DIOS MARCIAL", "124", "130622");
 
 editChapter(olympus, "ESPADA DEMONIO (CYAN VERT)", "96", "119112");
 
@@ -863,7 +863,7 @@ editChapter(olympus, "ABISMO", "52", "100908");
 
 editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "135", "126489");
 
-editChapter(olympus, "ED ROTHAILOR", "113", "130092")
+editChapter(olympus, "ED ROTHAILOR", "114", "130603")
 
 editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
@@ -915,7 +915,7 @@ editChapter(olympus, "MAESTRO GENIO", "145", "130535");
 
 editChapter(olympus, "REY DEMONIO FENIX", "38", "130473");
 
-editChapter(otros, "TBATE", "252_01");
+editChapter(otros, "TBATE", "254_01");
 
 editChapter(otros, "SHANGRI-LA", "272_01");
 
