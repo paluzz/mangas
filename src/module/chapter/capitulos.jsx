@@ -38,7 +38,7 @@ const olympus = [
         chapter: "222"
     },
     {
-        dia: dia[8],
+        dia: dia[2],
         id: "0004",
         name: "ESQUELETON SOLDIER",
         link1: olympusLink,
@@ -827,7 +827,7 @@ editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
 editChapter(olympus, "CIVILIZACION NEBULA", "134", "129927");
 
-editChapter(olympus, "SHIRONE", "177", "130666");
+editChapter(olympus, "SHIRONE", "178", "130923");
 
 editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
@@ -835,7 +835,7 @@ editChapter(olympus, "BERSEKER", "130", "102764");
 
 editChapter(olympus, "EVOLUCION DEMONIACA", "151", "127353");
 
-editChapter(olympus, "SUMMONER", "285", "130146");
+editChapter(olympus, "SUMMONER", "289", "131048");
 
 editChapter(olympus, "DIOS MARCIAL", "124", "130622");
 
@@ -857,13 +857,13 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "170", "130304");
+editChapter(olympus, "SABUESO", "173", "131098");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
 editChapter(olympus, "CABALLERO OSCURO (LIMIT)", "135", "126489");
 
-editChapter(olympus, "ED ROTHAILOR", "114", "130603")
+editChapter(olympus, "ED ROTHAILOR", "116", "131051")
 
 editChapter(olympus, "INGENIERO FRONTERA", "112", "80966")
 
@@ -899,25 +899,25 @@ editChapter(olympus, "COME Y CRECE", "26", "119448");
 
 editChapter(olympus, "HERRERO", "24", "119296");
 
-editChapter(olympus, "HEROE TOTAL", "94", "130565");
+editChapter(olympus, "HEROE TOTAL", "96", "131096");
 
 editChapter(olympus, "DEMON HUNTER", "114", "127233");
 
 editChapter(olympus, "DEVORA ESPADAS", "32", "130575");
 
-editChapter(olympus, "DEVORADOR ARTEFACTOS", "48", "130139");
+editChapter(olympus, "DEVORADOR ARTEFACTOS", "49", "130730");
 
 editChapter(olympus, "STREAM", "50", "128693");
 
-editChapter(olympus, "INVOCACIONES EX", "31", "130463");
+editChapter(olympus, "INVOCACIONES EX", "33", "131012");
 
-editChapter(olympus, "MAESTRO GENIO", "145", "130535");
+editChapter(olympus, "MAESTRO GENIO", "147", "131093");
 
-editChapter(olympus, "REY DEMONIO FENIX", "38", "130473");
+editChapter(olympus, "REY DEMONIO FENIX", "40", "131011");
 
-editChapter(otros, "TBATE", "254_01");
+editChapter(otros, "TBATE", "256_01");
 
-editChapter(otros, "SHANGRI-LA", "272_01");
+editChapter(otros, "SHANGRI-LA", "274_01");
 
 
 
