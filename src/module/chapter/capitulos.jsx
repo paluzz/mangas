@@ -827,7 +827,7 @@ editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
 editChapter(olympus, "CIVILIZACION NEBULA", "134", "129927");
 
-editChapter(olympus, "SHIRONE", "178", "130923");
+editChapter(olympus, "SHIRONE", "179", "131179");
 
 editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
@@ -835,9 +835,9 @@ editChapter(olympus, "BERSEKER", "130", "102764");
 
 editChapter(olympus, "EVOLUCION DEMONIACA", "151", "127353");
 
-editChapter(olympus, "SUMMONER", "289", "131048");
+editChapter(olympus, "SUMMONER", "291", "131193");
 
-editChapter(olympus, "DIOS MARCIAL", "124", "130622");
+editChapter(olympus, "DIOS MARCIAL", "126", "131156");
 
 editChapter(olympus, "ESPADA DEMONIO (CYAN VERT)", "96", "119112");
 
@@ -857,7 +857,7 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "173", "131098");
+editChapter(olympus, "SABUESO", "174", "131377");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
@@ -905,19 +905,19 @@ editChapter(olympus, "DEMON HUNTER", "114", "127233");
 
 editChapter(olympus, "DEVORA ESPADAS", "32", "130575");
 
-editChapter(olympus, "DEVORADOR ARTEFACTOS", "49", "130730");
+editChapter(olympus, "DEVORADOR ARTEFACTOS", "51", "131334");
 
 editChapter(olympus, "STREAM", "50", "128693");
 
-editChapter(olympus, "INVOCACIONES EX", "33", "131012");
+editChapter(olympus, "INVOCACIONES EX", "34", "131266");
 
-editChapter(olympus, "MAESTRO GENIO", "147", "131093");
+editChapter(olympus, "MAESTRO GENIO", "148", "131331");
 
-editChapter(olympus, "REY DEMONIO FENIX", "40", "131011");
+editChapter(olympus, "REY DEMONIO FENIX", "41", "131273");
 
 editChapter(otros, "TBATE", "256_01");
 
-editChapter(otros, "SHANGRI-LA", "274_01");
+editChapter(otros, "SHANGRI-LA", "275_01");
 
 
 
