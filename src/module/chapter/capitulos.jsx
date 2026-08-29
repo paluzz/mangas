@@ -28,6 +28,16 @@ const olympus = [
         chapter: "222"
     },
     {
+        dia: dia[3],
+        id: "00988798795564",
+        name: "ODISEA",
+        link1: olympusLink,
+        midlink: "31185",
+        link2: "/comic-prota-m20-225-ene-su-laberinto13424",
+        image: imagen.odisea,
+        chapter: "222"
+    },
+    {
         dia: dia[1],
         id: "0004548798914",
         name: "MAESTRO GENIO",
@@ -817,7 +827,7 @@ editChapter(olympus, "El sucesor de los Heroes", "50", "87927");
 //------------------------------------------------ CAPITULOS NUEVOS
 
 
-editChapter(otros, "REY ESPADA", "296_01");
+editChapter(otros, "REY ESPADA", "300_01");
 
 editChapter(olympus, "REY MARCIAL", "103", "119161");
 
@@ -827,7 +837,7 @@ editChapter(olympus, "HARD CARRY SUPPORT", "85", "101198");
 
 editChapter(olympus, "CIVILIZACION NEBULA", "134", "129927");
 
-editChapter(olympus, "SHIRONE", "179", "131179");
+editChapter(olympus, "SHIRONE", "181", "131713");
 
 editChapter(olympus, "WAIFU INSECTO", "58", "111703");
 
@@ -835,9 +845,9 @@ editChapter(olympus, "BERSEKER", "130", "102764");
 
 editChapter(olympus, "EVOLUCION DEMONIACA", "151", "127353");
 
-editChapter(olympus, "SUMMONER", "291", "131193");
+editChapter(olympus, "SUMMONER", "299", "132257");
 
-editChapter(olympus, "DIOS MARCIAL", "126", "131156");
+editChapter(olympus, "DIOS MARCIAL", "128", "131684");
 
 editChapter(olympus, "ESPADA DEMONIO (CYAN VERT)", "96", "119112");
 
@@ -857,7 +867,7 @@ editChapter(olympus, "JUGADOR ACADEMIA", "67", "105870");
 
 editChapter(olympus, "TROLL FUERTE", "10", "47976");
 
-editChapter(olympus, "SABUESO", "174", "131377");
+editChapter(olympus, "SABUESO", "177", "132267");
 
 editChapter(olympus, "ABISMO", "52", "100908");
 
@@ -899,7 +909,7 @@ editChapter(olympus, "COME Y CRECE", "26", "119448");
 
 editChapter(olympus, "HERRERO", "24", "119296");
 
-editChapter(olympus, "HEROE TOTAL", "96", "131096");
+editChapter(olympus, "HEROE TOTAL", "100", "132263");
 
 editChapter(olympus, "DEMON HUNTER", "114", "127233");
 
@@ -909,15 +919,17 @@ editChapter(olympus, "DEVORADOR ARTEFACTOS", "51", "131334");
 
 editChapter(olympus, "STREAM", "50", "128693");
 
-editChapter(olympus, "INVOCACIONES EX", "34", "131266");
+editChapter(olympus, "INVOCACIONES EX", "37", "132404");
 
 editChapter(olympus, "MAESTRO GENIO", "148", "131331");
 
-editChapter(olympus, "REY DEMONIO FENIX", "41", "131273");
+editChapter(olympus, "REY DEMONIO FENIX", "44", "132114");
+
+editChapter(olympus, "ODISEA", "41", "45695");
 
 editChapter(otros, "TBATE", "256_01");
 
-editChapter(otros, "SHANGRI-LA", "275_01");
+editChapter(otros, "SHANGRI-LA", "277_01");
 
 
 
