@@ -86,5 +86,6 @@ const imagen = {
     genio_academia: '15Syl00Tyg2pD5l5o3WcbAz2j02rrGXCk',
     shangrila: '1iCVyM-TeOzK6TYccNipgQ79n-F1UuYQy',
     reydemonio: '1KH3xvKYqJMej81TnisIcSvgIisEUbQjf',
+    odisea: '1m4aIGVMN8PwZS-uqmEjWxxhLnrc2-stJ',
 }
 export default imagen;
